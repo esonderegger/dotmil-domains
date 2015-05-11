@@ -1,319 +1,572 @@
-Domain
-af.mil
-navy.mil
-marines.mil
-pentagonchannel.mil
-ics.mil
-osd.mil
-dodig.mil
-army.mil
-dma.mil
-dodlive.mil
-dtic.mil
-dfas.mil
-uscg.mil
-tricare.mil
-dla.mil
-darpa.mil
-militaryonesource.mil
-disa.mil
-pentagon.mil
-dau.mil
-nga.mil
-mail.mil
-ng.mil
-usuhs.mil
-dia.mil
-arlingtoncemetery.mil
-centcom.mil
-dss.mil
-move.mil
-capmed.mil
-cac.mil
-nationalguard.mil
-jcs.mil
-defenseimagery.mil
-africom.mil
-dodiis.mil
-eb.mil
-mda.mil
-southcom.mil
-dcma.mil
-dsca.mil
-health.mil
-soc.mil
-jsf.mil
-norad.mil
-dcaa.mil
-usmc.mil
-defenselink.mil
-stratcom.mil
-usfk.mil
-armymedicine.mil
-dtra.mil
-ourmilitary.mil
-dcoe.mil
-transcom.mil
-pacom.mil
-vaccines.mil
-afhsc.mil
-defense.mil
-whs.mil
-esgr.mil
-pdhealth.mil
-cdn.mil
-dod.mil
-jten.mil
-www.pentagonchannel.mil
-www.dodlive.mil
-www.jcs.mil
-www.army.mil
-www.marines.mil
-www.navy.mil
-www.af.mil
-www.ng.mil
-www.uscg.mil
-www.usafa.af.mil
-www.acq.osd.mil
-www.dau.mil
-www.biometrics.dod.mil
-dap.dau.mil
-www.dfas.mil
-www.disa.mil
-www.dod.mil
-www.dla.mil
-www.dtic.mil
-www.dtra.mil
-www.public.navy.mil
-www.mda.mil
-www1.nga.mil
-www.pfpa.mil
-www.165aw.ang.af.mil
-www.167aw.ang.af.mil
-doctrine.af.mil
-www.afirm.mil
-www.militaryblood.dod.mil
-www.afsbeurope.army.mil
-www.161arw.ang.af.mil
-www.lewis-mcchord.army.mil
-www.1stiocmd.army.mil
-www.eur.army.mil
-www.wood.army.mil
-www.us.army.mil
-www.apg.army.mil
-www.anad.army.mil
-www.arcic.army.mil
-www.mc4.army.mil
-www.pica.army.mil
-www.arnorth.army.mil
-www.campbell.amedd.army.mil
-www.cp26.army.mil
-medchembio.amedd.army.mil
-chess.army.mil
-www.hrc.army.mil
-www.crane.army.mil
-www.esgr.mil
-www.fbch.capmed.mil
-www.benning.army.mil
-www.campbell.army.mil
-www.devens.army.mil
-www.drum.army.mil
-www.ftmeade.army.mil
-www.hamilton.army.mil
-www.hood.army.mil
-www.knox.army.mil
-www.lee.army.mil
-www.riley.army.mil
-www.imcom.army.mil
-www.letterkenny.army.mil
-www.mamc.amedd.army.mil
-www.mcaap.army.mil
-www.milsuite.mil
-www.mvn.usace.army.mil
-www.peogcs.army.mil
-peoiews.apg.army.mil
-www.sddc.army.mil
-www.socafrica.africom.mil
-sdguard.ngb.army.mil
-stayarmyreserve.army.mil
-www.sos.army.mil
-www.irwin.army.mil
-www.fifeanddrum.army.mil
-www.tobyhanna.army.mil
-peosoldier.army.mil
-www.rucker.army.mil
-usacehr.amedd.army.mil
-www.cma.army.mil
-www.usacapoc.army.mil
-www.acc.army.mil
-www.usace.army.mil
-www.dami.army.pentagon.mil
-www.ecbc.army.mil
-www.garmisch.army.mil
-www.wiesbaden.army.mil
-usaisr.amedd.army.mil
-lia.army.mil
-usammce.amedd.army.mil
-mrmc.amedd.army.mil
-www.cerdec.army.mil
-www.arl.army.mil
-www.arl.hpc.mil
-www.usar.army.mil
-www.srmc.amedd.army.mil
-www.dix.army.mil
-www.samhouston.army.mil
-www.tacom.army.mil
-asc.army.mil
-www.aec.army.mil
-www.ansbach.army.mil
-www.baumholder.army.mil
-www.parks.army.mil
-www.belvoir.army.mil
-www.greely.army.mil
-www.liggett.army.mil
-www.wainwright.army.mil
-garrison.leavenworth.army.mil
-www.garrison.hawaii.army.mil
-www2.southcom.mil
-www.monterey.army.mil
-www.usag.livorno.army.mil
-www.usag.vicenza.army.mil
-www.spiritfit.army.mil
-www.wsmr.army.mil
-www.arng.army.mil
-www.nh.ngb.army.mil
-mhs.osd.mil
-www.centcom.mil
-www.dma.mil
-www.whs.mil
-jcoc.dod.mil
-www.jsf.mil
-fhp.osd.mil
-www.tricare.osd.mil
-www.warriorcare.mil
-www.dimoc.mil
-www.nationalguard.mil
-www.dodig.mil
-www.bands.af.mil
-www.bands.army.mil
-www.navyband.navy.mil
-www.defenseinnovationmarketplace.mil
-www.militaryhomefront.dod.mil
-gum-crm.csd.disa.mil
-www.africom.mil
-www.eucom.mil
-www.northcom.mil
-www.pacom.mil
-www.southcom.mil
-www.socom.mil
-www.stratcom.mil
-www.transcom.mil
-www.dcaa.mil
-www.cape.osd.mil
-www.darpa.mil
-www.dcma.mil
-www.dia.mil
-www.dmdc.osd.mil
-www.dsca.mil
-www.dtsa.mil
-www.defensetravel.dod.mil
-blastInjuryResearch.amedd.army.mil
-www.cpms.osd.mil
-www.dc3.mil
-open.dodlive.mil
-www.denix.osd.mil
-www.dodtechipedia.mil
-www.jpra.mil
-chds.dodlive.mil
-dhra.mil
-www.blueangels.navy.mil
-phc.amedd.army.mil
-deploymenthealthlibrary.fhpr.osd.mil
-www.militaryonesource.mil
-www.esi.mil
-www.dote.osd.mil
-www.arlingtoncemetery.mil
-www.dhra.mil
-mypay.dfas.mil
-www.freedomaward.mil
-www.militaryfuneralhonors.osd.mil
-www.afrc.af.mil
-www.ang.af.mil
-pfi.dod.mil
-www.scguard.army.mil
-www.gulflink.osd.mil
-gulflink.fhpr.osd.mil
-www.dcoe.health.mil
-www.nvr.navy.mil
-www.sigir.mil
-www.cnic.navy.mil
-www.jble.af.mil
-www.jecc.mil
-www.jieddo.mil
-jko.jfcom.mil
-www.jpac.pacom.mil
-www.jpeocbd.osd.mil
-www.usfk.mil
-www.mc.mil
-www.26thmeu.marines.mil
-www.mcasfutenma.marines.mil
-www.mcbhawaii.marines.mil
-www.history.army.mil
-cdmrp.army.mil
-ermc.amedd.army.mil
-www.med.navy.mil
-www.tricare.mil
-crmrp.amedd.army.mil
-ccc.amedd.army.mil
-midrp.amedd.army.mil
-momrp.amedd.army.mil
-mrmc-pdp.amedd.army.mil
-technologytransfer.amedd.army.mil
-nm.ng.mil
-www.msco.mil
-afcommission.whs.mil
-www.nga.mil
-www.ah.mil
-www.ctf76.navy.mil
-www.netc.navy.mil
-www.csg9.navy.mil
-greenfleet.dodlive.mil
-www.adr.navy.mil
-www.doncio.navy.mil
-www.ethics.navy.mil
-www.ogc.navy.mil
-www.cnatra.navy.mil
-www.navair.navy.mil
-www.history.navy.mil
-www.navsea.navy.mil
-www.cool.navy.mil
-www.jag.navy.mil
-www.sas.cnet.navy.mil
-www.cffc.navy.mil
-www.cpf.navy.mil
-www.ramage.navy.mil
-www.norad.mil
-www.usno.navy.mil
-aa.usno.navy.mil
-www.hill.af.mil
-www.pae.osd.mil
-pentagon.afis.osd.mil
-warriorcare.dodlive.mil
-www.defenseimagery.mil
-hqdainet.army.mil
-www.chancellor.osd.mil
-www.ourmilitary.mil
-www.dss.mil
-www.sapr.mil
-ors.csd.disa.mil
-www.safsp.hq.af.mil
-www.manpower.usmc.mil
-www.strategicstudiesinstitute.army.mil
-www.vfa25.navy.mil
-www.jdtc.eustis.army.mil
-www.vaccines.army.mil
-www.anthrax.osd.mil
-www.smallpox.army.mil
-www.afweather.af.mil
-weather.afwa.af.mil
-www.fnmoc.navy.mil
+Domain Name,Organization
+af.mil,Air Force - Official Site
+126ang.af.mil,126th Air Refueling Wing
+15wing.af.mil,15th Wing
+20af.af.mil,20th Air Force
+24af.af.mil,24th Air Force
+25af.af.mil,25th Air Force
+353sog.af.mil,353rd Special Operations Group
+37trw.af.mil,Inter-American Air Forces Academy
+62aw.af.mil,62nd Airlift Wing
+79mdw.af.mil,79th Medical Wing
+8af.af.mil,8th Air Force
+BeReady.af.mil,Air Force Civil Engineer Center/Emergency Management Division
+acc.af.mil,Air Combat Command
+12af.acc.af.mil,12th Air Force (Air Forces Southern)
+1af.acc.af.mil,1st Air Force
+388fw.acc.af.mil,388th Fighter Wing
+552acw.acc.af.mil,552nd Air Control Wing
+aetc.af.mil,Air Education and Training Command
+torch.aetc.af.mil,Torch Magazine
+afaa.af.mil,Air Force Audit Agency
+afams.af.mil,Air Force Agency for Modeling and Simulation
+afcaf.af.mil,DoD Central Adjudication Facility
+afcec.af.mil,Air Force Civil Engineer Center
+afcent.af.mil,US Air Forces Central Command Band
+379aew.afcent.af.mil,379th Air Expeditionary Wing
+380aew.afcent.af.mil,380th Air Expeditionary Wing
+438aew.afcent.af.mil,438th Air Expeditionary Wing
+bagram.afcent.af.mil,455th Air Expeditionary Wing
+kdab.afcent.af.mil,451st Air Expeditionary Wing
+manas.afcent.af.mil,376th Air Expeditionary Wing
+afdw.af.mil,Air Force District of Washington
+afgsc.af.mil,Air Force Global Strike Command
+afhra.af.mil,Air Force Historical Research Agency
+afhso.af.mil,Air Force Historical Studies Office
+afia.af.mil,Air Force Inspection Agency
+afjag.af.mil,Air Force Judge Advocate General
+afmc.af.mil,Air Force Materiel Command
+afms.af.mil,Air Force Medical Service
+afnic.af.mil,Air Force Network Integration Center
+afotec.af.mil,Air Force Operational Test and Evaluation Center
+afpa.af.mil,Air Force Petroleum Agency
+afpaa.af.mil,Air Force Public Affairs Agency
+afpc.af.mil,Air Force Personnel Center
+afrc.af.mil,Air Force Reserve - Command
+10af.afrc.af.mil,10th Air Force
+301fw.afrc.af.mil,301st Fighter Wing
+302aw.afrc.af.mil,302nd Airlift Wing
+307bw.afrc.af.mil,307th Bomb Wing
+310sw.afrc.af.mil,310th Space Wing
+315aw.afrc.af.mil,315th Airlift Wing
+349amw.afrc.af.mil,349th Air Mobility Wing
+403wg.afrc.af.mil,403d WG
+419fw.afrc.af.mil,419th Fighter Wing
+445aw.afrc.af.mil,445th Airlift Wing
+446aw.afrc.af.mil,446th Airlift Wing
+459arw.afrc.af.mil,459th Air Refueling Wing
+507arw.afrc.af.mil,507th Air Refueling Wing
+512aw.afrc.af.mil,512th Airlift Wing
+514amw.afrc.af.mil,514th Air Mobility Wing
+624rsg.afrc.af.mil,624th Regional Support Group
+908aw.afrc.af.mil,908th Airlift Wing
+916arw.afrc.af.mil,916th Air Refueling Wing
+920rqw.afrc.af.mil,920th Rescue Wing
+926gp.afrc.af.mil,926th Group
+927arw.afrc.af.mil,927th Air Refueling Wing
+931arg.afrc.af.mil,931st Air Refueling Group
+932aw.afrc.af.mil,932nd Airlift Wing
+940wg.afrc.af.mil,940th Wing
+944fw.afrc.af.mil,944th Fighter Wing
+arpc.afrc.af.mil,Air Reserve Personnel Center
+citamn.afrc.af.mil,Citizen Airman Magazine
+dobbins.afrc.af.mil,Dobbins Air Reserve Base
+grissom.afrc.af.mil,Grissom Air Reserve Base
+homestead.afrc.af.mil,Homestead Air Reserve Base
+march.afrc.af.mil,452d Air Mobility Wing
+minneapolis.afrc.af.mil,Minneapolis-St. Paul Air Reserve Station
+niagara.afrc.af.mil,Niagara Falls Air Reserve Station
+pittsburgh.afrc.af.mil,Pittsburgh IAP Air Reserve Station
+pope.afrc.af.mil,440th Airlift Wing
+westover.afrc.af.mil,Westover Air Reserve Base
+youngstown.afrc.af.mil,Youngstown Air Reserve Station
+afsc.af.mil,Air Force Sustainement Center
+afsec.af.mil,Air Force Safety Center
+afsfc.af.mil,Headquarters Air Force Security Forces Center
+afsoc.af.mil,Air Force Special Operations Command
+afspc.af.mil,Air Force Space Command
+weather.afwa.af.mil,Joint Air Force and Army Weather Information Network
+afweather.af.mil,Air Force Combat Climatology Center - Government
+airforcehollywood.af.mil,Air Force Entertainment Liaison Office
+airforcemedicine.af.mil,Suicide Prevention
+altus.af.mil,Altus Air Force Base
+amc.af.mil,Air Mobility Command
+18af.amc.af.mil,18th Air Force
+618tacc.amc.af.mil,618th Air Operations Center
+andersen.af.mil,Andersen Air Force Base
+andrews.af.mil,Joint Base Andrews
+ang.af.mil,Air National Guard - Official Site
+101arw.ang.af.mil,Maine Air National Guard
+102iw.ang.af.mil,102nd Intelligence Wing
+103aw.ang.af.mil,103rd Airlift Wing
+104fw.ang.af.mil,"104th Fighter Wing, Massachusetts Air National Guard"
+105aw.ang.af.mil,"105th Airlift Wing, New York Air National Guard"
+107aw.ang.af.mil,107th Airlift Wing
+108arw.ang.af.mil,108th Wing
+109aw.ang.af.mil,109th Airlift Wing
+110aw.ang.af.mil,110th Airlift Wing
+111fw.ang.af.mil,"111th Fighter Wing, Pennsylvania Air National Guard"
+114fw.ang.af.mil,114th Fighter Wing
+115fw.ang.af.mil,115th Fighter Wing
+116acw.ang.af.mil,116th Air Control Wing
+117arw.ang.af.mil,117th Air Refueling Wing
+118wg.ang.af.mil,"118th Wing, Tennessee Air National Guard"
+119wg.ang.af.mil,119th Wing
+120fw.ang.af.mil,120th Fighter Wing
+121arw.ang.af.mil,121st Air Refueling Wing
+122fw.ang.af.mil,"122nd Fighter Wing, Indiana Air National Guard"
+123aw.ang.af.mil,"123rd Airlift Wing, Kentucky Air National Guard"
+127wg.ang.af.mil,127th Wing
+128arw.ang.af.mil,128th Air Refueling Wing
+129rqw.ang.af.mil,"129th Rescue Wing, California Air National Guard"
+130aw.ang.af.mil,The 130th West Virginia
+131bw.ang.af.mil,"131st Bomb Wing, Missouri Air National Guard"
+132fw.ang.af.mil,132nd Fighter Wing
+133aw.ang.af.mil,133rd Airlift Wing
+134arw.ang.af.mil,134th Air Refueling Wing
+136aw.ang.af.mil,136th Airlift Wing
+137arw.ang.af.mil,137th Air Refueling Wing
+138fw.ang.af.mil,138th Fighter Wing
+139aw.ang.af.mil,"139th Airlift Wing, Missouri Air National Guard"
+140wg.ang.af.mil,140th Wing
+142fw.ang.af.mil,142nd Fighter Wing
+143aw.ang.af.mil,"143rd Airlift Wing, Rhode Island Air National Guard"
+144fw.ang.af.mil,"144th Fighter Wing, California Air National Guard"
+145aw.ang.af.mil,145th Airlift Wing
+146aw.ang.af.mil,"146th Airlift Wing, California Air National Guard"
+147rw.ang.af.mil,"147th Reconnaissance Wing, Texas Air National Guard"
+148fw.ang.af.mil,148th Fighter Wing
+149fw.ang.af.mil,"149th Fighter Wing, Texas Air National Guard"
+150fw.ang.af.mil,150th Fighter Wing
+152AW.ang.af.mil,152nd Airlift Wing
+153aw.ang.af.mil,"153rd Airlift Wing, Wyoming Air National Guard"
+154wg.ang.af.mil,154th Wing
+155arw.ang.af.mil,155th Air Refueling Wing
+157arw.ang.af.mil,157th Air Refueling Wing
+158fw.ang.af.mil,"158th Fighter Wing, Vermont Air National Guard"
+161arw.ang.af.mil,"161st Air Refueling Wing, Arizona Air National Guard"
+162ccg.ang.af.mil,162d Combat Communications Group
+162fw.ang.af.mil,162nd Fighter Wing
+163rw.ang.af.mil,163rd Reconnaissance Wing Official Website
+164aw.ang.af.mil,164th Airlift Wing
+165aw.ang.af.mil,165th Airlift Wing Georgia Air National Guard
+166aw.ang.af.mil,"166th Airlift Wing, Delaware Air National Guard"
+167aw.ang.af.mil,167th Airlift Wing (West Virginia Air National Guard)
+169fw.ang.af.mil,South Carolina Air National Guard
+171arw.ang.af.mil,171st Air Refueling Wing
+172aw.ang.af.mil,172d Airlift Wing
+173fw.ang.af.mil,"173rd Fighter Wing, Oregon Air National Guard"
+175wg.ang.af.mil,Maryland Air National Guard
+176wg.ang.af.mil,176th Wing
+177fw.ang.af.mil,177th Fighter Wing
+178fw.ang.af.mil,178th Fighter Wing
+178wing.ang.af.mil,178th Wing
+179aw.ang.af.mil,"179th Airlift Wing, Ohio Air National Guard"
+180fw.ang.af.mil,180th Fighter Wing
+181iw.ang.af.mil,181st Intelligence Wing
+182aw.ang.af.mil,182d Airlift Wing
+183fw.ang.af.mil,183rd Fighter Wing
+185arw.ang.af.mil,185th Air Refueling Wing
+186arw.ang.af.mil,"186th Air Refueling Wing, Mississippi Air National Guard"
+187fw.ang.af.mil,187th Fighter Wing
+188fw.ang.af.mil,Ebbing Air National Guard Base
+189aw.ang.af.mil,189th Airlift Wing
+190arw.ang.af.mil,190th Air Refueling Wing
+192fw.ang.af.mil,192nd Fighter Wing
+193sow.ang.af.mil,193rd Special Operations Wing
+angtec.ang.af.mil,The I.G. Brown Training and Education Center
+az.ang.af.mil,Arizona Air National Guard
+bandofthegulfcoast.ang.af.mil,Air National Guard Band of the Gulf Coast
+bandofthemidatlantic.ang.af.mil,Air National Guard Band of the Mid-Atlantic
+bandofthemidwest.ang.af.mil,Air National Guard Band of the Midwest
+bandofthesmokymountains.ang.af.mil,Air National Guard Band of the Smoky Mountains
+bandofthesouthwest.ang.af.mil,Air National Guard Band of the Southwest
+ca.ang.af.mil,California Air National Guard
+eads.ang.af.mil,Eastern Air Defense Sector
+fl.ang.af.mil,Florida Air National Guard
+hancockfield.ang.af.mil,Hancock Field Air National Guard Base
+idaho.ang.af.mil,"124th Fighter Wing, Idaho Air National Guard"
+oh.ang.af.mil,Ohio Air National Guard
+volkfield.ang.af.mil,Volk Field Air National Guard Base
+arnold.af.mil,Arnold Air Force Base & Arnold Engineering Development Complex
+aviano.af.mil,Aviano Air Base
+bandofflight.af.mil,U.S. Air Force Band of Flight
+bandofmidamerica.af.mil,U.S. Air Force Band of Mid-America
+bandofthegoldenwest.af.mil,U.S. Air Force Band of the Golden West
+bandofthepacific-asia.af.mil,U.S. Air Force Band of the Pacific-Asia
+bandofthepacific-hawaii.af.mil,U.S. Air Force Band of the Pacific-Hawaii
+bandofthewest.af.mil,U.S. Air Force Band of the West
+bands.af.mil,Air Force Bands
+barksdale.af.mil,Barksdale Air Force Base
+basictraining.af.mil,Air Force Basic Military Training
+beale.af.mil,Beale Air Force Base
+bmtflightphotos.af.mil,USAF Basic Military Training Flight Photograph Project
+buckley.af.mil,Buckley Air Force Base
+charleston.af.mil,Joint Base Charleston
+columbus.af.mil,Columbus Air Force Base
+creech.af.mil,"Creech Air Force Base, NV"
+dm.af.mil,Davis-Monthan Air Force Base
+doctrine.af.mil,Air Force Doctrine
+dover.af.mil,Dover Air Force Base home page
+dyess.af.mil,Dyess Air Force Base
+edwards.af.mil,Edwards Air Force Base
+eglin.af.mil,Eglin Air Force Base
+eielson.af.mil,Eielson Air Force Base
+ellsworth.af.mil,28th Bomb Wing
+expeditionarycenter.af.mil,U.S. Air Force Expeditionary Center
+fairchild.af.mil,Fairchild Air Force Base
+foia.af.mil,Information Access Policy and Compliance Branch
+goodfellow.af.mil,Goodfellow Air Force Base
+grandforks.af.mil,Grand Forks Air Force Base
+gunter.af.mil,Maxwell Gunter Annex
+hanscom.af.mil,Hanscom Air Force Base
+heartlandofamericaband.af.mil,U.S. Air Force Heartland of America Band
+heritageofamericaband.af.mil,U.S. Air Force Heritage of America Band
+hill.af.mil,"Hill Air Force Base, Utah"
+farsite.hill.af.mil,AFLCMC HIBB
+holloman.af.mil,Holloman Air Force Base
+honorguard.af.mil,USAF Honor Guard
+housing.af.mil,Air Force Housing
+ww3.safaq.hq.af.mil,Air Force Acquisitions
+saffm.hq.af.mil,Air Force Financial Management & Comptroller
+safgc.hq.af.mil,Air Force General Counsel
+safie.hq.af.mil,"Air Force Installations, Environment, Logistics and Energy"
+safsp.hq.af.mil,Space Cadre Development
+hurlburt.af.mil,Hurlburt Field
+incirlik.af.mil,Incirlik Air Base
+jber.af.mil,11th Air Force
+jble.af.mil,Joint Base Langley- Eustis
+jbsa.af.mil,Joint Base San Antonio
+jointbasemdl.af.mil,Joint Base McGuire-Dix-Lakehurst
+kadena.af.mil,Kadena Air Base
+keesler.af.mil,81st Medical Group
+kirtland.af.mil,377th Air Base Wing
+prs.afrl.kirtland.af.mil,Air Force Research Laboratory
+kunsan.af.mil,8th Fighter Wing
+lajes.af.mil,Lajes Link
+lakenheath.af.mil,Royal Air Force Station Lakenheath
+laughlin.af.mil,Laughlin Air Force Base
+littlerock.af.mil,Little Rock Air Force Base
+losangeles.af.mil,Los Angeles Air Force Base
+luke.af.mil,Luke Air Force Base
+macdill.af.mil,MacDill
+malmstrom.af.mil,Malmstrom Air Force Base
+maxwell.af.mil,Maxwell Air Force Base
+mcconnell.af.mil,McConnell Air Force Base
+mildenhall.af.mil,Royal Air Force Mildenhall
+minot.af.mil,Minot Air Force Base
+misawa.af.mil,Misawa Air Base
+moody.af.mil,Moody Air Force Base
+mortuary.af.mil,Air Force Mortuary Affairs Operations
+mountainhome.af.mil,Mountain Home Air Force Base
+music.af.mil,AF Public Affairs Agency Band Support
+my.af.mil,NAVAL SPECIAL WARFARE COMMAND
+nationalmuseum.af.mil,National Museum of the U.S. Air Force
+nellis.af.mil,Nellis Air Force Base
+netcents.af.mil,Air Force NetCents
+offutt.af.mil,Offutt Air Force Base
+osan.af.mil,Osan Air Base
+osi.af.mil,Air Force Office of Special Investigations
+pacaf.af.mil,Pacific Air Forces
+5af.pacaf.af.mil,5th Air Force
+7af.pacaf.af.mil,7th Air Force
+patrick.af.mil,Patrick Air Force Base
+peterson.af.mil,Peterson Air Force Base
+pope.af.mil,Pope Field
+ramstein.af.mil,"Ramstein Air Base, Germany"
+robins.af.mil,AFLCMC/WLSEAC
+rs.af.mil,Air Force Recruiting Service
+sab.af.mil,U.S. Air Force Scientific Advisory Board
+safcioa6.af.mil,AF CIO A6
+schriever.af.mil,Schriever Air Force Base
+scott.af.mil,Scott Air Force Base
+secretsdeclassified.af.mil,Air Force Declassification Office
+sexualassaultpreventionresponse.af.mil,SAPR
+seymourjohnson.af.mil,Seymour Johnson Air Force Base
+shaw.af.mil,9th Air Force
+sheppard.af.mil,Sheppard Air Force Base
+spangdahlem.af.mil,Spangdahlem Air Base
+tinker.af.mil,Tinker Air Force Base
+trademark.af.mil,Air Force Trademark and Licensing
+travis.af.mil,60th MDG
+tyndall.af.mil,Tyndall Air Force Base
+usafa.af.mil,"Air Force Academy (Colorado Springs, Colo.)"
+usafacademyband.af.mil,U.S. Air Force Academy Band
+usafband.af.mil,The United States Air Force Band
+usafe.af.mil,"3rd Air Force, 17th Expeditionary Air Force"
+501csw.usafe.af.mil,501st Combat Support Wing
+usafeuropeband.af.mil,U.S. Air Forces in Europe Band
+vance.af.mil,Vance Air Force Base
+vandenberg.af.mil,14th Air Force
+warren.af.mil,F.E. Warren Air Force Base
+whasc.af.mil,59th Medical Wing
+whiteman.af.mil,Whiteman Air Force Base
+woundedwarrior.af.mil,Air Force Wounded Warrior
+wpafb.af.mil,711th HPW Medical Flight Standards Branch
+yokota.af.mil,Yokota Air Base
+afhsc.mil,Unknown
+afirm.mil,Armed Forces Institute of Regenerative Medicine
+africom.mil,Africa Command
+socafrica.africom.mil,SOCAFRICA
+ah.mil,All Hands Magazine
+arlingtoncemetery.mil,Arlington National Cemetery
+army.mil,Army - Official Site
+1stiocmd.army.mil,1st IO Command
+acc.army.mil,U.S. Army Contracting Command
+aec.army.mil,United States Army Environmental Command
+afsbeurope.army.mil,405th AFSB Organizational Public Website
+blastInjuryResearch.amedd.army.mil,DOD Blast Injury Research Program
+campbell.amedd.army.mil,Blanchfield Army Community Hospital
+ccc.amedd.army.mil,USAMRMC Combat Casualty Care Research Program (CCCRP)
+crmrp.amedd.army.mil,USAMRMC Clinical and Rehabilitative Medicine Research Program (CRMRP)
+ermc.amedd.army.mil,Europe Regional Medical Command
+mamc.amedd.army.mil,Madigan Army Medical Center
+medchembio.amedd.army.mil,Chemical Biological Defense Partnership Support Directorate
+midrp.amedd.army.mil,USAMRMC Military Infectious Diseases Research Program (MIDRP)
+momrp.amedd.army.mil,USAMRMC Military Operational Medicine Research Program (MOMRP)
+mrmc.amedd.army.mil,U.S. Army Medical Research and Materiel Command
+mrmc-pdp.amedd.army.mil,USAMRMC Personnel Demonstration Project
+phc.amedd.army.mil,Army Health Promotion and Preventive Medicine
+srmc.amedd.army.mil,U.S. Army Southern Regional Medical Command
+technologytransfer.amedd.army.mil,USAMRMC Technology Transfer Office
+usacehr.amedd.army.mil,U.S. Army Center for Environmental Health Research
+usaisr.amedd.army.mil,U.S. Army Institute of Surgical Research
+usammce.amedd.army.mil,"U.S. Army Medical Materiel Center, Europe"
+anad.army.mil,Anniston Army Depot
+ansbach.army.mil,USAG Ansbach Official Website
+apg.army.mil,Aberdeen Proving Ground
+peoiews.apg.army.mil,PEO IEW&S; website
+arcic.army.mil,Army - Capabilities Integration Center (ARCIC)
+arl.army.mil,U.S. Army Research Laboratory
+arng.army.mil,Army National Guard
+arnorth.army.mil,Army North Public Website
+asc.army.mil,United States Army Acquisition Support Center
+bands.army.mil,Army Bands
+baumholder.army.mil,USAG Baumholder
+belvoir.army.mil,USAG Fort Belvoir
+benning.army.mil,Fort Benning
+campbell.army.mil,Fort Campbell
+cdmrp.army.mil,Congressionally Directed Medical Research Programs
+cerdec.army.mil,U.S. Army RDECOM CERDEC
+chess.army.mil,CHESS IT Emart
+cma.army.mil,U.S. Army Chemical Materials Agency
+cp26.army.mil,Career Program 26 - Manpower and Force Management
+crane.army.mil,Crane Army Ammunition Activity
+devens.army.mil,Fort Devens
+dix.army.mil,U.S. Army Support Activity  Fort Dix
+drum.army.mil,Fort Drum
+ecbc.army.mil,U.S. Army Edgewood Chemical Biological Center
+eur.army.mil,21st Theater Sustainment Command
+jdtc.eustis.army.mil,Joint Deployment Training Center
+fifeanddrum.army.mil,The United States Army Old Guard Fife and Drum Corps
+ftmeade.army.mil,Fort George G. Meade
+garmisch.army.mil,U.S. Army Garrison - Garmisch
+greely.army.mil,USAG Fort Greely
+hamilton.army.mil,Fort Hamilton
+garrison.hawaii.army.mil,USAG Hawaii
+history.army.mil,Medal of Honor Citations All Wars
+hood.army.mil,Fort Hood
+hqdainet.army.mil,Military Postal Service Agency (MPSA)
+hrc.army.mil,Cold War Recognition Certificate
+imcom.army.mil,IMCOM
+irwin.army.mil,The National Training Center - Fort Irwin
+knox.army.mil,"Fort Knox, Kentucky"
+garrison.leavenworth.army.mil,USAG Ft. Leavenworth
+lee.army.mil,Fort Lee & Combined Arms Support Command
+letterkenny.army.mil,Letterkenny Army Depot
+lewis-mcchord.army.mil,17th Fires Brigade
+lia.army.mil,U.S. Army Logistics Innovation Agency
+liggett.army.mil,USAG Fort Hunter LIgget
+usag.livorno.army.mil,USAG Vicenza
+mc4.army.mil,Army - MC4
+mcaap.army.mil,McAlester Army Amunition Plant
+monterey.army.mil,USAG Presidio of Monterey
+nh.ngb.army.mil,New Hampshire National Guard
+sdguard.ngb.army.mil,South Dakota National Guard
+parks.army.mil,USAG Camp Parks
+peogcs.army.mil,PEO Ground Combat Systems
+peosoldier.army.mil,U.S. Army - PEO Soldier
+pica.army.mil,Army - Picatinny Arsenal
+riley.army.mil,"Fort Riley, Kansas"
+rucker.army.mil,U.S. Army Aviation Center of Excellence and Fort Rucker
+samhouston.army.mil,U.S. Army Support Activity Joint Base San Antonio
+scguard.army.mil,South Carolina National Guard
+sddc.army.mil,SDDC Public Website
+smallpox.army.mil,Smallpox
+sos.army.mil,Survivor Outreach Services (SOS)
+spiritfit.army.mil,Virtual Spiritual Fitness Center
+stayarmyreserve.army.mil,Stay Army Reserve
+strategicstudiesinstitute.army.mil,U.S. Army War College Strategic Studies Institute
+tacom.army.mil,U.S. Army TACOM - Life Cycle Management Command - Integrated Logistics Support Center
+tobyhanna.army.mil,Tobyhanna Army Depot
+us.army.mil,4th Sustainment Command (Expeditionary)
+usacapoc.army.mil,U.S. Army Civil Affairs & Psychological Operations Command (Airborne)
+usace.army.mil,U.S. Army Corps of Engineers Headquarters
+mvn.usace.army.mil,"Official Website of New Orleans District, US Army Corps of Engineers"
+usar.army.mil,U.S. Army Reserve
+vaccines.army.mil,Vaccines
+usag.vicenza.army.mil,USAG Vicenza Vicenza Military Community
+wainwright.army.mil,USAG Fort Wainwright
+wiesbaden.army.mil,U.S. Army Garrison Wiesbaden
+wood.army.mil,4th Maneuver Enhancement Brigade
+wsmr.army.mil,White Sands Missle Range
+armymedicine.mil,Unknown
+cac.mil,DoD ID Card Reference Center
+capmed.mil,Unknown
+fbch.capmed.mil,Fort Belvoir Community Hospital
+cdn.mil,Unknown
+centcom.mil,Central Command
+darpa.mil,Defense Advanced Research Projects Agency (DARPA)
+dau.mil,Defense Acquisition University (DAU)
+dap.dau.mil,Defense Acquisition Portal
+dc3.mil,DOD Cyber Crime Center
+dcaa.mil,Defense Contract Audit Agency (DCAA)
+dcma.mil,Defense Contract Management Agency (DCMA)
+dcoe.mil,Unknown
+defense.mil,Unknown
+defenseimagery.mil,Defense Imagery
+defenseinnovationmarketplace.mil,Defense Innovation Marketplace
+defenselink.mil,Unknown
+dfas.mil,Defense Finance and Accounting Service (DFAS)
+mypay.dfas.mil,myPay
+dhra.mil,Defense Human Resources Activity (DHRA)
+dia.mil,Defense Intelligence Agency
+dimoc.mil,DIMOC
+disa.mil,Defense Information Systems Agency (DISA)
+af.ataaps.csd.disa.mil,ATAAPS
+golearn.csd.disa.mil,Advanced Distributed Learning Service
+gum-crm.csd.disa.mil,Air Force Civilian Employment
+ors.csd.disa.mil,Operationally Responsive Space Office
+dla.mil,Defense Logistics Agency (DLA)
+dma.mil,Defense Media Activity (DMA)
+static.dma.mil,2013 CSAF Reading List
+dod.mil,Defense Legal Services Agency (DLSA)
+biometrics.dod.mil,Biometrics Identity Management Agency
+defensetravel.dod.mil,Defense Travel Management Office
+jcoc.dod.mil,Joint Civilian Orientation Conference (JCOC)
+militaryblood.dod.mil,Armed Services Blood Program
+militaryhomefront.dod.mil,Military Children and Youth
+pfi.dod.mil,Personnel Force Innovation
+dodig.mil,Inspector General
+dodiis.mil,Unknown
+dodlive.mil,Unknown
+chds.dodlive.mil,William J. Perry Center for Hemispheric Defense Studies
+greenfleet.dodlive.mil,Currents Magazine
+open.dodlive.mil,DOD Open Government
+warriorcare.dodlive.mil,Wounded Warrior Care and Transition Policy
+dodtechipedia.mil,DoD Techipedia
+dsca.mil,Defense Security Cooperation Agency (DSCA)
+dss.mil,Defense Security Service
+dtic.mil,Defense Technical Information Center - (DTIC)
+dtra.mil,Defense Threat Reduction Agency (DTRA)
+dtsa.mil,Defense Technology Security Administration (DTSA) Website
+eb.mil,Unknown
+esgr.mil,"Employer Support of the Guard and Reserve, National Committee for (ESGR)"
+esi.mil,Enterprise Software Initiative (ESI)
+eucom.mil,European Command
+freedomaward.mil,Secretary of Defense Employer Support Freedom Award
+health.mil,Unknown
+dcoe.health.mil,Defense Centers of Excellence (DCoE)
+arl.hpc.mil,U.S. Army Research Laboratory DOD Supercomputing Resource Center
+ics.mil,Unknown
+jcs.mil,Joint Chiefs of Staff
+jecc.mil,Joint Enabling Capabilities Command
+jko.jfcom.mil,Joint Knowledge Online
+jieddo.mil,Joint IED Defeat Organization (JIEDDO)
+jpra.mil,Joint Personnel Recovery Agency
+jsf.mil,Joint Strike Fighter
+jten.mil,Unknown
+mail.mil,Unknown
+marines.mil,Marine Corps
+26thmeu.marines.mil,26th Marine Expeditionary Unit (MEU)
+mcasfutenma.marines.mil,Marine Corps Air Station Futenma
+mcbhawaii.marines.mil,Marine Corps Base Hawaii
+mc.mil,Military Commissions
+mda.mil,Missile Defense Agency (MDA)
+militaryonesource.mil,Military OneSource
+milsuite.mil,milSuite
+move.mil,Unknown
+msco.mil,Modeling and Simulation Coordination Office (M&S; CO)
+nationalguard.mil,National Guard
+navy.mil,Navy
+adr.navy.mil,Department of the Navy Alternate Dispute Resolution
+blueangels.navy.mil,Navy Blue Angels
+cffc.navy.mil,U.S. Fleet Forces
+cnatra.navy.mil,MATSG-22
+sas.cnet.navy.mil,NETC-ES Shared Authentication Services (SAS)
+cnic.navy.mil,"Commander, Navy Installations Command (CNIC)"
+cool.navy.mil,Navy COOL
+cpf.navy.mil,U.S. Pacific Fleet
+csg9.navy.mil,COMSUBGRU-9
+ctf76.navy.mil,Amphibious Force Seventh Fleet Website
+doncio.navy.mil,Department of the Navy Chief Information Officer
+ethics.navy.mil,Department of the Navy Ethics Compass
+fnmoc.navy.mil,"Meteorology and Oceanography Center, Navy Fleet Numerical"
+history.navy.mil,Naval History & Heritage Command
+jag.navy.mil,Navy Judge Advocate General Office
+med.navy.mil,Naval Hospital Jacksonville website
+navair.navy.mil,Naval Air Systems Command
+navsea.navy.mil,Naval Surface Warfare Center Panama City Division
+navyband.navy.mil,"Navy Band (Washington, DC)"
+netc.navy.mil,Center for Seabees and Facilities Engineering
+nvr.navy.mil,Naval Vessel Register
+ogc.navy.mil,Department of the Navy Office of the General Counsel
+public.navy.mil,Department of Defense Executive Agent for Maritime Domain Awareness
+ramage.navy.mil,USS Ramage (DDG-61)
+usno.navy.mil,"Observatory, Naval - Official Site"
+aa.usno.navy.mil,Daylight Time (U.S. Naval Observatory)
+vfa25.navy.mil,Strike Figher Squadron Two FIve
+ng.mil,Unknown
+co.ng.mil,Colorado National Guard
+in.ng.mil,Indiana National Guard
+ngbcounterdrug.ng.mil,National Guard Counterdrug Program
+nm.ng.mil,New Mexico National Guard
+nga.mil,National Geospatial-Intelligence Agency (NGA)
+www1.nga.mil,National Geospatial-Intelligence Agency (NGA)
+norad.mil,North American Aerospace Defense Command (NORAD) - Official Site
+northcom.mil,Northern Command
+osd.mil,Unknown
+acq.osd.mil,"Acquisition, Technology and Logistics, Deputy Under Secretary of Defense for (AT&L;)"
+pentagon.afis.osd.mil,Pentagon - Official Site
+anthrax.osd.mil,Anthrax
+cape.osd.mil,Cost Assessment and Program Evaluation (CAPE)
+chancellor.osd.mil,"Professional Development, Chancellor for Education and Program"
+cpms.osd.mil,DOD Civilian Personnel Management Service
+denix.osd.mil,DoD Safety & Health
+dmdc.osd.mil,Defense Manpower Data Center
+dote.osd.mil,Director of Operational Test and Evaluation (DOT&E;)
+fhp.osd.mil,Pandemic Infuenza
+deploymenthealthlibrary.fhpr.osd.mil,Deployment Health and Family Readiness Library
+gulflink.fhpr.osd.mil,Gulf War Medical Research Library (MedSearch)
+gulflink.osd.mil,Gulf War Illnesses (GulfLINK)
+jpeocbd.osd.mil,Joint Program Executive Office For Chemical and Biological Defense (JPEO-CBD)
+mhs.osd.mil,Health Affairs (HA)
+militaryfuneralhonors.osd.mil,"Funeral Honors, Military"
+pae.osd.mil,Director of Program Analysis and Evaluation (PA&E;)
+tricare.osd.mil,Tricare
+ourmilitary.mil,Community Relations
+pacom.mil,Pacific Command
+jpac.pacom.mil,Joint POW/MIA Accounting Command
+pdhealth.mil,Unknown
+pentagon.mil,Unknown
+dami.army.pentagon.mil,"U.S. Army Deputy Chief of Staff for Intelligence, G-2"
+pentagonchannel.mil,Pentagon Channel (News About the Department of Defense)
+pfpa.mil,Pentagon Force Protection Agency (PFPA)
+sapr.mil,Sexual Assault Prevention and Response (06/21/2005)
+sigir.mil,Special Inspector General for Iraq Reconstruction (10/21/2005)
+soc.mil,Unknown
+socom.mil,Special Operations Command
+southcom.mil,Southern Command
+www2.southcom.mil,USAG Miami
+stratcom.mil,Strategic Command
+transcom.mil,Transportation Command
+tricare.mil,Tricare
+uscg.mil,Coast Guard
+usfk.mil,U.S. Forces Korea
+usmc.mil,Unknown
+manpower.usmc.mil,Marine Stop Loss
+usuhs.mil,Unknown
+vaccines.mil,Unknown
+warriorcare.mil,Warrior Care
+whs.mil,Employee Verification
+afcommission.whs.mil,National Commission on the Structure of the Air Force
