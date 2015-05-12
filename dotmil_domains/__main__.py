@@ -69,7 +69,9 @@ def domains_as_sorted_tuples():
     sorted_list = sort_domains(list_to_sort)
     domain_tuples = []
     for d in sorted_list:
-        domain_tuples.append((d, domains_dict[d].encode('utf-8')))
+        encoded_utf8 = domains_dict[d].encode('utf-8')
+        white_space_reduced = " ".join(encoded_utf8.split())
+        domain_tuples.append((d, white_space_reduced))
     return domain_tuples
 
 
@@ -112,6 +114,7 @@ def dod_site_pages():
                 pages.append(absolute)
     else:
         logging.warning('we will need to re-scan: ' + start_url)
+    pages.append('http://dtic.mil/dtic/findit/dticatoz.html')
     return pages
 
 

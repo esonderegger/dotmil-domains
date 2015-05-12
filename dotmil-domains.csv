@@ -476,7 +476,7 @@ csla.army.mil,Communications Security Logistics Activity (CSLA)
 dencom.army.mil,Army Dental Care
 detrick.army.mil,"Fort Detrick, Md."
 devens.army.mil,Fort Devens
-dix.army.mil,U.S. Army Support Activity  Fort Dix
+dix.army.mil,U.S. Army Support Activity Fort Dix
 dls.army.mil,Army Distributed Learning System
 drum.army.mil,Fort Drum
 dtms.army.mil,Digital Training Management System (DTMS)
@@ -515,7 +515,7 @@ ilsc.army.mil,Tank-automotive & Armaments Command (TACOM) Life Cycle Management 
 imcom.army.mil,IMCOM
 imcom-europe.army.mil,Installation Management Command - Europe
 inscom.army.mil,513th Military Intelligence Brigade
-ipps-a.army.mil,Integrated Personnel and Pay System-Army  (IPPS-A)
+ipps-a.army.mil,Integrated Personnel and Pay System-Army (IPPS-A)
 irwin.army.mil,The National Training Center - Fort Irwin
 ita.army.mil,U.S. Army Information Technology Agency
 jagcnet.army.mil,"Fiscal Law Website, JAG"
@@ -567,7 +567,7 @@ oaa.army.mil,Administrative Assistant to the Secretary of the Army (AASA)
 imcom.pac.army.mil,Installation Management Command - Pacific Region
 parks.army.mil,USAG Camp Parks
 pba.army.mil,"Pine Bluff Arsenal, Ark."
-peoavn.army.mil,"Aviation Systems  Project Management Office, Redstone Arsenal"
+peoavn.army.mil,"Aviation Systems Project Management Office, Redstone Arsenal"
 peoc3t.army.mil,"Program Executive Office for Command, Control and Communications-Tactical (PEO 3CT)"
 peocscss.army.mil,"Product Manager - Sets, Kits, Outfits & Tools"
 peogcs.army.mil,PEO Ground Combat Systems
@@ -598,7 +598,7 @@ scguard.army.mil,South Carolina National Guard
 sddc.army.mil,SDDC Public Website
 sec.army.mil,Enterprise Solutions Competency Center (ESCC)
 ako.sec.army.mil,Army Reprogramming Analysis Team (ARAT)
-sexualassault.army.mil,Army Sexual Harassment/Assault Response &  Prevention (SHARP)
+sexualassault.army.mil,Army Sexual Harassment/Assault Response & Prevention (SHARP)
 sierra.army.mil,"Sierra Army Depot, Calif."
 signal.army.mil,35th Signal Brigade
 sill-www.army.mil,"30th Air Defense Artillery Brigade, Fort Sill, Okla."
@@ -676,7 +676,7 @@ dap.dau.mil,Defense Acquisition Portal
 dc3.mil,DOD Cyber Crime Center
 dcaa.mil,Defense Contract Audit Agency (DCAA)
 dcma.mil,Defense Contract Management Agency (DCMA)
-dcoe.mil,Defense Centers of Excellence (DCoE) for Psychological Health and Traumatic  Brain Injury
+dcoe.mil,Defense Centers of Excellence (DCoE) for Psychological Health and Traumatic Brain Injury
 dvbic.dcoe.mil,Defense and Veterans Brain Injury Center (DVBIC)
 defense.mil,Unknown
 defenseimagery.mil,Defense Imagery
@@ -696,6 +696,7 @@ ors.csd.disa.mil,Operationally Responsive Space Office
 dla.mil,Defense Logistics Agency (DLA)
 daps.dla.mil,Document Automation & Production Service
 dlis.dla.mil,Defense Logistics Information Service (DLIS)
+quicksearch.dla.mil,ASSIST Database
 dma.mil,Defense Media Activity (DMA)
 dinfos.dma.mil,Defense Information School
 jhns.dma.mil,Hometown News Service
@@ -735,6 +736,9 @@ dodtechipedia.mil,DoD Techipedia
 dsca.mil,Defense Security Cooperation Agency (DSCA)
 dss.mil,Defense Security Service
 dtic.mil,Defense Technical Information Center - (DTIC)
+ca.dtic.mil,Feedback
+cbat.dtic.mil,Analytics
+cendi.dtic.mil,CENDI
 dtra.mil,Defense Threat Reduction Agency (DTRA)
 dtsa.mil,Defense Technology Security Administration (DTSA) Website
 eb.mil,Unknown
@@ -905,7 +909,7 @@ corona.navy.mil,"Naval Surface Warfare Center, Corona Division"
 cotf.navy.mil,Commander Operational Test and Evaluation Force (COMOPTEVFOR)
 cowpens.navy.mil,USS Cowpens (CG-63)
 cpf.navy.mil,U.S. Pacific Fleet
-cpr1.navy.mil,"Commander,  Amphibious Squadron ONE"
+cpr1.navy.mil,"Commander, Amphibious Squadron ONE"
 cpr11.navy.mil,"Commander, Amphibious Squadron ELEVEN"
 cpr3.navy.mil,Amphibious Squadron THREE
 cprf7f5f.navy.mil,"Commander, Patrol and Reconnaissance Force Seventh Fleet, Fifth Fleet"
@@ -987,7 +991,7 @@ finance.hq.navy.mil,Financial Management and Comptroller
 hrojax.navy.mil,"Human Resources Office, Jacksonville, FL"
 hronorfolk.navy.mil,"Human Resources Office, Norfolk"
 hs11.navy.mil,Helicopter Anti-Submarine Squadron ELEVEN (HS-11)
-hs2.navy.mil,Helicopter Anti-Submarine Squadron TWO  (HS-2)
+hs2.navy.mil,Helicopter Anti-Submarine Squadron TWO (HS-2)
 hs7.navy.mil,Helicopter Anti-Submarine Squadron SEVEN (HS-7)
 hs8.navy.mil,Helicopter Anti-Submarine Squadron EIGHT (HS-8)
 hsc25.navy.mil,Helicopter Sea Combat Squadron TWENTY FIVE (HSC-25)
@@ -1205,7 +1209,7 @@ safetycenter.navy.mil,Approach Magazine
 saipan.navy.mil,USS Saipan (LHA 2)
 salts.navy.mil,Streamlined Automated Logistics Transmission System (SALTS) Project
 members.salts.navy.mil,NR NAVHIST VTU 0615
-san-antonio.navy.mil,USS San Antonio  (LPD 17)
+san-antonio.navy.mil,USS San Antonio (LPD 17)
 sanjacinto.navy.mil,USS San Jacinto (CG-56)
 sbath.navy.mil,"Supervisor of Shipbuilding, Conversion & Repair, Bath, Maine"
 scsc.navy.mil,"Surface Combat Systems Center Wallops Island, VA"
