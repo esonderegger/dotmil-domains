@@ -32,6 +32,10 @@ def sort_domains(domain_list):
 
 def dotmil_domains_dict(pages_to_scan):
     domains_dict = {}
+    with open('mil.csv') as csvfile:
+        milreader = csv.reader(csvfile)
+        for row in milreader:
+            domains_dict[row[0]] = row[1]
     for page in pages_to_scan:
         soup = soup_from_url(page)
         if soup:
@@ -53,11 +57,6 @@ def dotmil_domains_dict(pages_to_scan):
                                 domains_dict[domain] = link.string.strip()
         else:
             logging.warning('we will need to re-scan: ' + page)
-    with open('mil.csv') as csvfile:
-        milreader = csv.reader(csvfile)
-        for row in milreader:
-            if (row[0] not in domains_dict):
-                domains_dict[row[0]] = "Unknown"
     return domains_dict
 
 

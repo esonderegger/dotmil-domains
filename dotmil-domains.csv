@@ -306,7 +306,7 @@ woundedwarrior.af.mil,Air Force Wounded Warrior
 wpafb.af.mil,711th HPW Medical Flight Standards Branch
 navy.al.wpafb.af.mil,Navy Health Research Center/Toxicology Detachment
 yokota.af.mil,Yokota Air Base
-afhsc.mil,Unknown
+afhsc.mil,Armed Forces Health Surveillance Center
 afirm.mil,Armed Forces Institute of Regenerative Medicine
 afmes.mil,Armed Forces Medical Examiner System (AFMES)
 tecom.usmc.afpims.mil,Marine Corps University
@@ -662,13 +662,13 @@ wtc.army.mil,Army Wounded Warrior Program (AW2)
 wva.army.mil,"Watervliet Arsenal, N.Y."
 www4.army.mil,Soldier Well-Being
 yuma.army.mil,"Yuma Proving Ground, Ariz."
-armymedicine.mil,Unknown
+armymedicine.mil,Army Medicine
 cac.mil,DoD ID Card Reference Center
-capmed.mil,Unknown
+capmed.mil,Defense Health Agency National Capital Region Medical Directorate
 dthc.capmed.mil,"DiLorenzo TRICARE Health Clinic, Washington, D.C."
 fbch.capmed.mil,Fort Belvoir Community Hospital
 wrnmmc.capmed.mil,"Walter Reed Medical Center, Washington, D.C."
-cdn.mil,Unknown
+cdn.mil,Content Delivery Network
 centcom.mil,Central Command
 darpa.mil,Defense Advanced Research Projects Agency (DARPA)
 dau.mil,Defense Acquisition University (DAU)
@@ -678,7 +678,7 @@ dcaa.mil,Defense Contract Audit Agency (DCAA)
 dcma.mil,Defense Contract Management Agency (DCMA)
 dcoe.mil,Defense Centers of Excellence (DCoE) for Psychological Health and Traumatic Brain Injury
 dvbic.dcoe.mil,Defense and Veterans Brain Injury Center (DVBIC)
-defense.mil,Unknown
+defense.mil,United States Department of Defense
 defenseimagery.mil,Defense Imagery
 defenseinnovationmarketplace.mil,Defense Innovation Marketplace
 defenselink.mil,American Forces Information Service
@@ -701,7 +701,7 @@ dma.mil,Defense Media Activity (DMA)
 dinfos.dma.mil,Defense Information School
 jhns.dma.mil,Hometown News Service
 static.dma.mil,2013 CSAF Reading List
-dod.mil,Defense Legal Services Agency (DLSA)
+dod.mil,United States Department of Defense
 biometrics.dod.mil,Biometrics Identity Management Agency
 defensetravel.dod.mil,Defense Travel Management Office
 jcoc.dod.mil,Joint Civilian Orientation Conference (JCOC)
@@ -709,7 +709,7 @@ militaryblood.dod.mil,Armed Services Blood Program
 militaryhomefront.dod.mil,Military Children and Youth
 pfi.dod.mil,Personnel Force Innovation
 dodig.mil,Inspector General
-dodiis.mil,Unknown
+dodiis.mil,Department Of Defense Intelligence Information System
 dodlive.mil,Task Force Muleskinner
 armylive.dodlive.mil,ArmyLive Blog
 armygk.armylive.dodlive.mil,Golden Knights
@@ -757,8 +757,9 @@ jko.jfcom.mil,Joint Knowledge Online
 jieddo.mil,Joint IED Defeat Organization (JIEDDO)
 jpra.mil,Joint Personnel Recovery Agency
 jsf.mil,Joint Strike Fighter
-jten.mil,Unknown
-mail.mil,Unknown
+jten.mil,Joint Training and. Experimentation Network
+mail.mil,email
+web.mail.mil,Web mail
 marines.mil,Marine Corps
 10thmarines.marines.mil,10th Marine Regiment
 11thmeu.marines.mil,11th Marine Expeditionary Unit
@@ -1326,7 +1327,7 @@ ourmilitary.mil,Community Relations
 pacom.mil,Pacific Command
 jpac.pacom.mil,Joint POW/MIA Accounting Command
 pdhealth.mil,Deployment Health Clinical Center (DHCC)
-pentagon.mil,Unknown
+pentagon.mil,United States Department of Defense
 arba.army.pentagon.mil,Army Review Boards Agency
 dami.army.pentagon.mil,"U.S. Army Deputy Chief of Staff for Intelligence, G-2"
 eeoa.army.pentagon.mil,Equal Employment Opportunity & Civil Rights Office
