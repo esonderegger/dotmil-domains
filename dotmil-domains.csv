@@ -246,6 +246,7 @@ kunsan.af.mil,8th Fighter Wing
 lajes.af.mil,Lajes Link
 lakenheath.af.mil,Royal Air Force Station Lakenheath
 laughlin.af.mil,Laughlin Air Force Base
+legalassistance.law.af.mil,Army Legal Services Agency
 littlerock.af.mil,Little Rock Air Force Base
 losangeles.af.mil,Los Angeles Air Force Base
 luke.af.mil,Luke Air Force Base
@@ -303,117 +304,370 @@ whasc.af.mil,59th Medical Wing
 whiteman.af.mil,Whiteman Air Force Base
 woundedwarrior.af.mil,Air Force Wounded Warrior
 wpafb.af.mil,711th HPW Medical Flight Standards Branch
+navy.al.wpafb.af.mil,Navy Health Research Center/Toxicology Detachment
 yokota.af.mil,Yokota Air Base
 afhsc.mil,Unknown
 afirm.mil,Armed Forces Institute of Regenerative Medicine
+afmes.mil,Armed Forces Medical Examiner System (AFMES)
+tecom.usmc.afpims.mil,Marine Corps University
 africom.mil,Africa Command
+hoa.africom.mil,Combined Joint Task Force-Horn of Africa
 socafrica.africom.mil,SOCAFRICA
 ah.mil,All Hands Magazine
+anthrax.mil,Anthrax Vaccination Program for the Military
 arlingtoncemetery.mil,Arlington National Cemetery
 army.mil,Army - Official Site
+12cab.army.mil,12th Combat Aviation Brigade
+1id.army.mil,"1st Infantry Division, Fort Riley, Kan."
 1stiocmd.army.mil,1st IO Command
+acert.1stiocmd.army.mil,Army Computer Emergency Response Team - Computer Network Operations (ACERT)
+25idl.army.mil,"25th Infantry Division, Schofield Barracks, Hawaii"
+2cr.army.mil,2nd Cavalry Regiment
+409csb.army.mil,409th Contracting Support Br
+5sigcmd.army.mil,2nd Signal Brigade
+7sigcmd.army.mil,7th Signal Command (Theater)
+94aamdc.army.mil,"94th Army Air and Missile Defense Command, Fort Shafter, Hawaii"
+abc.army.mil,Army Benefits Center - Civilian
+acap.army.mil,Army Career and Alumni Program
 acc.army.mil,U.S. Army Contracting Command
+acquisition.army.mil,Acquisition Business
+acsap.army.mil,Army Center for Substance Abuse Programs (ACSAP)
+acsim.army.mil,Assistant Chief of Staff for Installation Management (ACSIM)
+adtdl.army.mil,Reimer Digital Library
 aec.army.mil,United States Army Environmental Command
+aeps.army.mil,AMC Logistics Web Portal
 afsbeurope.army.mil,405th AFSB Organizational Public Website
+agc.army.mil,Army Geospatial Center (AGC)
+ags.army.mil,"Adjutant General School, Fort Jackson, S.C."
+alt.army.mil,"Assistant Secretary of the Army for Acquisitions, Logistics, and Technology (ASA(ALT))"
+alu.army.mil,"Logistics Management College, Fort Lee, Va."
+alaska.amedd.army.mil,Medical Department-Alaska (MEDDAC-Alaska)
+amsara.amedd.army.mil,Accession Medical Standards Analysis & Research Activity (AMSARA)
 blastInjuryResearch.amedd.army.mil,DOD Blast Injury Research Program
+blastinjuryresearch.amedd.army.mil,DoD Blast Injury Research Program
 campbell.amedd.army.mil,Blanchfield Army Community Hospital
 ccc.amedd.army.mil,USAMRMC Combat Casualty Care Research Program (CCCRP)
+crdamc.amedd.army.mil,"Carl R. Darnall Army Medical Center, Fort Hood, Texas"
 crmrp.amedd.army.mil,USAMRMC Clinical and Rehabilitative Medicine Research Program (CRMRP)
+cs.amedd.army.mil,U.S. Army Medical Department Center & School Portal
+ddeamc.amedd.army.mil,"Dwight D. Eisenhower Army Medical Center, Fort Gordon, Ga."
+dmrdp.amedd.army.mil,Defense Medical Research and Development Program (DMRDP)
+eeo.amedd.army.mil,Medical Command (MEDCOM) Office of Equal Employment Opportunity Programs
+erdc.amedd.army.mil,Europe Regional Dental Command
 ermc.amedd.army.mil,Europe Regional Medical Command
+evans.amedd.army.mil,"Evans Army Hospital, Fort Carson, Colo."
+glwach.amedd.army.mil,"General Leonard Wood Army Community Hospital, Fort Leonard Wood, Mo."
+gordentac.amedd.army.mil,U.S. Army Southern Regional Dental Command
+rwbach.huachuca.amedd.army.mil,"Raymond W. Bliss Army Health Clinic, Fort Huachuca, Ariz."
+iach.amedd.army.mil,"Irwin Army Community Hospital,Fort Riley, Kan."
+irwin.amedd.army.mil,"Weed Army Community Hospital, Fort Irwin, Calif."
+jcbdrp.amedd.army.mil,"Joint Chemical Biological Defense Research Program (JCBDRP), Md."
+kach.amedd.army.mil,"Keller Army Community Hospital, West Point, N.Y."
+iach.knox.amedd.army.mil,"Ireland Army Community Hospital, Fort Knox, Ky."
 mamc.amedd.army.mil,Madigan Army Medical Center
+martin.amedd.army.mil,"Martin Army Community Hospital, Fort Benning, Ga."
 medchembio.amedd.army.mil,Chemical Biological Defense Partnership Support Directorate
+medlinet.amedd.army.mil,AMEDD Virtual Library
+mhsrs.amedd.army.mil,Military Health System Research Symposium (MHSRS)
 midrp.amedd.army.mil,USAMRMC Military Infectious Diseases Research Program (MIDRP)
 momrp.amedd.army.mil,USAMRMC Military Operational Medicine Research Program (MOMRP)
+moncrief.amedd.army.mil,"Moncrief Army Community Hospital, Fort Jackson, S.C."
 mrmc.amedd.army.mil,U.S. Army Medical Research and Materiel Command
+mrmc-npi.amedd.army.mil,USAMRMC New Products and Idea (NPI)
 mrmc-pdp.amedd.army.mil,USAMRMC Personnel Demonstration Project
+munson.amedd.army.mil,"Munson Army Health Center, Fort Leavenworth, Kan."
+narmc.amedd.army.mil,North Atlantic Medical Command
+kacc.narmc.amedd.army.mil,"Kimbrough Ambulatory Care Center, Fort Meade, Md."
+kenner.narmc.amedd.army.mil,"Kenner Army Health Clinic, Fort Lee, Va."
+mcdonald.narmc.amedd.army.mil,"McDonald Army Community Hospital, Fort Eustis, Va."
+kacc.nrmc.amedd.army.mil,"Andrew Rader Health Clinic, Fort Myer, Va."
 phc.amedd.army.mil,Army Health Promotion and Preventive Medicine
+polk.amedd.army.mil,"Bayne-Jones Army Community Hospital, Fort Polk, La."
+rahc.amedd.army.mil,"Rodriguez Army Health Clinic, Fort Buchanan, Puerto Rico"
+redstone.amedd.army.mil,"Fox Army Health Center, Redstone Arsenal, Ala."
+rucker.amedd.army.mil,U.S. Army Aeromedical Center
+sammc.amedd.army.mil,San Antonio Military Medical Center
+rach.sill.amedd.army.mil,"Reynolds Army Community Hospital, Fort Sill, Okla."
 srmc.amedd.army.mil,U.S. Army Southern Regional Medical Command
+stem.amedd.army.mil,"USAMRMC Science, Technology, Engineering and Mathematics (STEM) Outreach"
+tamc.amedd.army.mil,Pacific Medical Command
 technologytransfer.amedd.army.mil,USAMRMC Technology Transfer Office
 usacehr.amedd.army.mil,U.S. Army Center for Environmental Health Research
 usaisr.amedd.army.mil,U.S. Army Institute of Surgical Research
+usammc-k.amedd.army.mil,United States Army Medical Materiel Center - Korea (USAMMC-K)
 usammce.amedd.army.mil,"U.S. Army Medical Materiel Center, Europe"
+usamru-e.amedd.army.mil,U.S. Army Medical Research Unit - Europe (USAMRU-E)
+wamc.amedd.army.mil,"Womack Army Medical Center, Fort Bragg, N.C."
+wbamc.amedd.army.mil,"William Beaumont Army Medical Center, Fort Bliss, Texas"
+winn.amedd.army.mil,"Winn Army Community Hospital, Fort Stewart, Ga."
+dewitt.wramc.amedd.army.mil,"DeWitt Army Community Hospital, Fort Belvoir, Va."
+wrmc.amedd.army.mil,Western Regional Medical Command (WRMC)
+ams.army.mil,"Army Analysis, Modeling and Simulation Competencey Development"
+web.amsaa.army.mil,Army Materiel Systems Analysis Activity
 anad.army.mil,Anniston Army Depot
 ansbach.army.mil,USAG Ansbach Official Website
+aors.army.mil,Army Operations Research Symposium
+apd.army.mil,Official Army Publications and Forms
 apg.army.mil,Aberdeen Proving Ground
 peoiews.apg.army.mil,PEO IEW&S; website
+chemdef.apgea.army.mil,U.S. Army Medical Research Institute of Chemical Defense (USAMRICD)
+aphill.army.mil,"A. P. Hill, Va."
+arcent.army.mil,"160th Signal Brigade, Camp Arifjan, Kuwait"
 arcic.army.mil,Army - Capabilities Integration Center (ARCIC)
+arcyber.army.mil,Army Cyber Command
+ardec.army.mil,Benet Labs
+arims.army.mil,Records Information Management
 arl.army.mil,U.S. Army Research Laboratory
+armyeducation.army.mil,Education
+armyg1.army.mil,Deployment Health Assessment Program (DHAP)
+armymedicine.army.mil,Army Medicine
+armypubs.army.mil,"Forms, Official Department of the Army"
 arng.army.mil,Army National Guard
 arnorth.army.mil,Army North Public Website
+asafm.army.mil,Assistant Secretary of the Army for Financial Management and Comptroller (ASA(FM&C;))
+asaie.army.mil,Assistant Secretary of the Army for Installations and Environment (ASAIE)
+asamra.army.mil,Assistant Secretary of the Army for Manpower and Reserve Affairs (ASAMRA)
 asc.army.mil,United States Army Acquisition Support Center
+aschq.army.mil,Army Sustainment Command
+atc.army.mil,Aberdeen Test Center
+atec.army.mil,U.S. Army Developmental Test Command (DTC)
+atn.army.mil,Army Training Network
+atrrs.army.mil,Army Training Requirements and Resources System (ATRRS)
+ats.army.mil,Air Traffic Services Command (ATSCOM)
+atsc.army.mil,Army Correspondence Course Program
+awg.army.mil,Asymmetric Warfare Group (AWG)
 bands.army.mil,Army Bands
 baumholder.army.mil,USAG Baumholder
 belvoir.army.mil,USAG Fort Belvoir
+amsc.belvoir.army.mil,Army Management Staff College (AMSC)
+osaa.belvoir.army.mil,"Operational Support Airlift Agency (OSAA), Fort Belvoir, Va."
 benning.army.mil,Fort Benning
+bliss.army.mil,"1st Armored Division, Fort Bliss, Texas"
+usasma.bliss.army.mil,Sergeant Major Academy
+bluegrass.army.mil,"Blue Grass Army Depot, Ky."
+bragg.army.mil,1st Theater Sustainment Command
+buchanan.army.mil,"Fort Buchanan, Puerto Rico"
+caa.army.mil,Center for Army Analysis (CAA)
+call.army.mil,Center for Army Lessons Learned (CALL)
 campbell.army.mil,Fort Campbell
+cape.army.mil,Center for the Army Profession and Ethic (CAPE)
+carlisle.army.mil,"Army War College, Pa."
+carlislebarracks.carlisle.army.mil,"Carlisle Barracks, Pa."
+carson.army.mil,"4th Infantry Division, Fort Carson, Colo."
+cascom.army.mil,"Combined Arms Support Command, Ft. Lee, Va."
+ccad.army.mil,"Corpus Christi Army Depot (CCAD), Texas"
 cdmrp.army.mil,Congressionally Directed Medical Research Programs
+cecom.army.mil,Communications-Electronics Command (CECOM)
 cerdec.army.mil,U.S. Army RDECOM CERDEC
+chapnet.army.mil,"Chaplain School, Fort Jackson, S.C."
 chess.army.mil,CHESS IT Emart
+cid.army.mil,Criminal Investigation Command (CID)
+ciog6.army.mil,Chief Information Officer (CIO/G6)
+civiliantraining.army.mil,Civilian Training and Leader Development
+clinicaltrials.army.mil,Walter Reed Army Institute of Research Clinical Trials Center (WRAIR-CTC)
 cma.army.mil,U.S. Army Chemical Materials Agency
+combat-trafficking.army.mil,Combat Trafficking In Persons
+cool.army.mil,Army Credentialing Opportunities Online (COOL)
 cp26.army.mil,Career Program 26 - Manpower and Force Management
+cpol.army.mil,Army Civilian Personnel
 crane.army.mil,Crane Army Ammunition Activity
+crtc.army.mil,Cold Regions Test Center (CRTC)
+csla.army.mil,Communications Security Logistics Activity (CSLA)
+dencom.army.mil,Army Dental Care
+detrick.army.mil,"Fort Detrick, Md."
 devens.army.mil,Fort Devens
 dix.army.mil,U.S. Army Support Activity  Fort Dix
+dls.army.mil,Army Distributed Learning System
 drum.army.mil,Fort Drum
+dtms.army.mil,Digital Training Management System (DTMS)
+dugway.army.mil,"Dugway Proving Ground, Utah"
 ecbc.army.mil,U.S. Army Edgewood Chemical Biological Center
+eis.army.mil,Product Manager Joint-Automatic Identification Technology (PM J-AIT)
 eur.army.mil,21st Theater Sustainment Command
+usagbenelux.eur.army.mil,U.S. Army Garrison - Benelux
 jdtc.eustis.army.mil,Joint Deployment Training Center
 fifeanddrum.army.mil,The United States Army Old Guard Fife and Drum Corps
+finance.army.mil,"Finance School, Fort Jackson, S.C."
+first.army.mil,First U.S. Army
+floridaguard.army.mil,Florida National Guard
 ftmeade.army.mil,Fort George G. Meade
+g8.army.mil,G-8 - Office of the Deputy Chief of Staff for Programs
 garmisch.army.mil,U.S. Army Garrison - Garmisch
+garrison-michigan.army.mil,"U.S. Army Garrison - Detroit Arsenal, Warren, Mich."
+gomo.army.mil,General Officer Management Office (GOMO)
+gordon.army.mil,"Fort Gordon, Ga."
+grafenwoehr.army.mil,U.S. Army Garrison - Bavaria
 greely.army.mil,USAG Fort Greely
 hamilton.army.mil,Fort Hamilton
 garrison.hawaii.army.mil,USAG Hawaii
 history.army.mil,Medal of Honor Citations All Wars
 hood.army.mil,Fort Hood
+pao.hood.army.mil,"Fort Hood, Texas"
+housing.army.mil,Army Housing
+hqda.army.mil,Army Audit Agency
 hqdainet.army.mil,Military Postal Service Agency (MPSA)
+chppmeur.healthcare.hqusareur.army.mil,Army Center for Health Promotion and Preventive Medicine - Europe
 hrc.army.mil,Cold War Recognition Certificate
+hrsolutions.army.mil,Program Executive Office for Enterprise Information Systems: HR Solutions
+icon.army.mil,"Intelligence, Office of the Deputy Chief of Staff for Intelligence (ODCSINT) - G-2"
+tigs-online.ignet.army.mil,Army Inspector General School
+ilsc.army.mil,Tank-automotive & Armaments Command (TACOM) Life Cycle Management Command (LCMC) Integrated Logistics Support Center
 imcom.army.mil,IMCOM
+imcom-europe.army.mil,Installation Management Command - Europe
+inscom.army.mil,513th Military Intelligence Brigade
+ipps-a.army.mil,Integrated Personnel and Pay System-Army  (IPPS-A)
 irwin.army.mil,The National Training Center - Fort Irwin
+ita.army.mil,U.S. Army Information Technology Agency
+jagcnet.army.mil,"Fiscal Law Website, JAG"
+jbmhh.army.mil,"Fort McNair, Washington, D.C."
+jrtc-polk.army.mil,"Fort Polk, La."
 knox.army.mil,"Fort Knox, Kentucky"
+19esc.korea.army.mil,"19th Theater Sustainment Command, Korea"
+2id.korea.army.mil,"2nd Infantry Division, Camp Red Cloud, Korea"
+8tharmy.korea.army.mil,"2nd Battalion, 1st Air Defense Artillery Regiment, Korea"
+ksc.korea.army.mil,Korean Service Corps Battalion
+cgsc2.leavenworth.army.mil,"Command and General Staff College, Directorate of Educational Technology (CGSC-DOET)"
 garrison.leavenworth.army.mil,USAG Ft. Leavenworth
 lee.army.mil,Fort Lee & Combined Arms Support Command
+awm.lee.army.mil,U.S. Army Women's Museum
+goordnance.lee.army.mil,"Ordnance School, Fort Lee, Va."
+sdcl.lee.army.mil,"Software Engineering Center-Lee, Fort Lee, Va."
 letterkenny.army.mil,Letterkenny Army Depot
 lewis-mcchord.army.mil,17th Fires Brigade
 lia.army.mil,U.S. Army Logistics Innovation Agency
+libraries.army.mil,Libraries
 liggett.army.mil,USAG Fort Hunter LIgget
 usag.livorno.army.mil,USAG Vicenza
+logsa.army.mil,Logistics Support Activity (LOGSA)
 mc4.army.mil,Army - MC4
 mcaap.army.mil,McAlester Army Amunition Plant
+mcclellan.army.mil,"Fort McClellan, Ala."
+mccoy.army.mil,"Fort McCoy, Wis."
+twilight.mdw.army.mil,Twilight Tattoo
+mears.army.mil,Multi-User ECP Automated Review System (MEARS)
+milgaming.army.mil,Army Gaming
 monterey.army.mil,USAG Presidio of Monterey
+ms.army.mil,Army Modeling & Simulation Directorate
+msl.army.mil,Program Executive Officer for Missiles and Space (PEO MS)
+netcom.army.mil,Network Enterprise Technology Command
+il.ngb.army.mil,Illinois National Guard
+md.ngb.army.mil,Maryland National Guard
+me.ngb.army.mil,Maine National Guard
+nc.ngb.army.mil,North Carolina National Guard
+ndguard.ngb.army.mil,North Dakota National Guard
 nh.ngb.army.mil,New Hampshire National Guard
+nm.ngb.army.mil,New Mexico National Guard
+nv.ngb.army.mil,Nevada National Guard
+ok.ngb.army.mil,"45th Infantry Brigade, Edmond, Okla."
 sdguard.ngb.army.mil,South Dakota National Guard
+tn.ngb.army.mil,Tennessee National Guard
+ut.ngb.army.mil,Utah National Guard
+wv.ngb.army.mil,Joint Interagency Training and Education (JITEC)
+oaa.army.mil,Administrative Assistant to the Secretary of the Army (AASA)
+imcom.pac.army.mil,Installation Management Command - Pacific Region
 parks.army.mil,USAG Camp Parks
+pba.army.mil,"Pine Bluff Arsenal, Ark."
+peoavn.army.mil,"Aviation Systems  Project Management Office, Redstone Arsenal"
+peoc3t.army.mil,"Program Executive Office for Command, Control and Communications-Tactical (PEO 3CT)"
+peocscss.army.mil,"Product Manager - Sets, Kits, Outfits & Tools"
 peogcs.army.mil,PEO Ground Combat Systems
 peosoldier.army.mil,U.S. Army - PEO Soldier
+peostri.army.mil,"Program Executive Office for Simulation, Training and Instrumentation"
 pica.army.mil,Army - Picatinny Arsenal
+w4.pica.army.mil,"Program Executive Office for Ammunition (PEO Ammo), Picatinny Arsenal"
+quartermaster.army.mil,"Quartermaster School, Fort Lee, Va."
+redriver.army.mil,"Red River Army Depot (RRAD), Texas"
+redstone.army.mil,"Redstone Arsenal, Ala."
+chinook.redstone.army.mil,Cargo Helicopters Project Management Office
+garrison.redstone.army.mil,Lead AMC Integration Support Office (LAISO)
+immcweb.redstone.army.mil,SBBCOM Integrated Materiel Management Center (IMMC)
+pmtmde.redstone.army.mil,"Product Manager Test, Measurement, and Diagnostic Equipment"
+rsic.redstone.army.mil,Redstone Scientific Information Center (RISC)
+ref.army.mil,Rapid Equipping Force
+ria-jmtc.ria.army.mil,Rock Island Arsenal Joint Manufacturing and Technology Center (JMTC)
 riley.army.mil,"Fort Riley, Kansas"
+rma.army.mil,"Rocky Mountain Arsenal (RMA), Colo."
+rmda.army.mil,Freedom of Information Act Electronic Reading Room
+rp.army.mil,U.S. Army Garrison Rheinland-Pfalz
+rrs.army.mil,"Recruiting and Retention School, Fort Jackson, S.C."
+rtc.army.mil,Redstone Test Center (RTC)
 rucker.army.mil,U.S. Army Aviation Center of Excellence and Fort Rucker
+safety.army.mil,Army Safety (Combat Readiness Center)
 samhouston.army.mil,U.S. Army Support Activity Joint Base San Antonio
 scguard.army.mil,South Carolina National Guard
 sddc.army.mil,SDDC Public Website
+sec.army.mil,Enterprise Solutions Competency Center (ESCC)
+ako.sec.army.mil,Army Reprogramming Analysis Team (ARAT)
+sexualassault.army.mil,Army Sexual Harassment/Assault Response &  Prevention (SHARP)
+sierra.army.mil,"Sierra Army Depot, Calif."
+signal.army.mil,35th Signal Brigade
+sill-www.army.mil,"30th Air Defense Artillery Brigade, Fort Sill, Okla."
+mrmc.smallbusopps.army.mil,USAMRMC Office of Small Business Programs
 smallpox.army.mil,Smallpox
+soldierforlife.army.mil,Army Echoes
 sos.army.mil,Survivor Outreach Services (SOS)
 spiritfit.army.mil,Virtual Spiritual Fitness Center
+ssi.army.mil,"Soldier Support Institute, Fort Jackson, S.C."
 stayarmyreserve.army.mil,Stay Army Reserve
+stewart.army.mil,"3rd Infantry Division, Fort Stewart, Ga."
 strategicstudiesinstitute.army.mil,U.S. Army War College Strategic Studies Institute
+stuttgart.army.mil,"Stuttgart, U.S. Army Garrison"
 tacom.army.mil,U.S. Army TACOM - Life Cycle Management Command - Integrated Logistics Support Center
+contracting.tacom.army.mil,Army Contracting Command - Warren (ACC-WRN) Procurement Network (ProcNet)
+cost.tacom.army.mil,U.S. Army TACOM LCMC Cost & Systems Analysis
+tardec.army.mil,"Tank Automotive Research, Development and Engineering Center (TARDEC)"
+tead.army.mil,"Tooele Army Depot, Utah"
+tec.army.mil,Topographic Engineering Center
 tobyhanna.army.mil,Tobyhanna Army Depot
+trac.army.mil,TRADOC Analysis Center (TRAC)
+tradoc.army.mil,G-3/5/7
+usaasa.tradoc.army.mil,Army Aeronautical Services Agency
+transportation.army.mil,"Transportation School, Fort Eustis, Va."
 us.army.mil,4th Sustainment Command (Expeditionary)
+rotc.usaac.army.mil,Army Cadet Command
+usaals.army.mil,"Aviation Logistics School, Fort Eustis, Va. (USAALS)"
+usaarl.army.mil,U.S. Army Aeromedical Research Laboratory (USAARL)
+usacac.army.mil,Army Joint Support Team (AJST)
 usacapoc.army.mil,U.S. Army Civil Affairs & Psychological Operations Command (Airborne)
 usace.army.mil,U.S. Army Corps of Engineers Headquarters
+erdc.usace.army.mil,Cold Regions Research and Engineering Laboratory (CRREL)
+chl.erdc.usace.army.mil,Coastal and Hydraulics Laboratory (CHL)
+el.erdc.usace.army.mil,Environmental Laboratory (EL)
+gsl.erdc.usace.army.mil,Geotechnical and Structures Laboratory
+itl.erdc.usace.army.mil,Information Technology Laboratory (ITL)
 mvn.usace.army.mil,"Official Website of New Orleans District, US Army Corps of Engineers"
+usamma.army.mil,"USAMRMC Program Management Office, Integrated Clinical Systems (PMO ICS)"
+usammda.army.mil,U.S. Army Medical Materiel Development Activity (USAMMDA)
+usamraa.army.mil,U.S. Army Medical Research Acquisition Activity (USAMRAA)
+usamriid.army.mil,U.S. Army Medical Research Institute of Infectious Diseases (USAMRIID)
+usanato.army.mil,"NATO, U.S. Army"
 usar.army.mil,U.S. Army Reserve
+usaraf.army.mil,Southern European Task Force (Airborne) (SETAF)
+usarak.army.mil,"Fort Richardson, Alaska"
+usarec.army.mil,Recruiting
+usariem.army.mil,U.S. Army Research Institute of Environmental Medicine (USARIEM)
+usarj.army.mil,58th Signal Battalion
+usarpac.army.mil,5th Battlefield Coordination Detachment
+usarso.army.mil,U.S. Army South (USARSO/ARSOUTH)
+usawocc.army.mil,Warrant Officer Career College
 vaccines.army.mil,Vaccines
 usag.vicenza.army.mil,USAG Vicenza Vicenza Military Community
 wainwright.army.mil,USAG Fort Wainwright
 wiesbaden.army.mil,U.S. Army Garrison Wiesbaden
 wood.army.mil,4th Maneuver Enhancement Brigade
+wrair.army.mil,Walter Reed Army Institute of Research (WRAIR)
+wrairhspb.army.mil,"Walter Reed Army Institute of Research,Human Subjects Protection Branch (HSPB)"
 wsmr.army.mil,White Sands Missle Range
+wtc.army.mil,Army Wounded Warrior Program (AW2)
+wva.army.mil,"Watervliet Arsenal, N.Y."
+www4.army.mil,Soldier Well-Being
+yuma.army.mil,"Yuma Proving Ground, Ariz."
 armymedicine.mil,Unknown
 cac.mil,DoD ID Card Reference Center
 capmed.mil,Unknown
+dthc.capmed.mil,"DiLorenzo TRICARE Health Clinic, Washington, D.C."
 fbch.capmed.mil,Fort Belvoir Community Hospital
+wrnmmc.capmed.mil,"Walter Reed Medical Center, Washington, D.C."
 cdn.mil,Unknown
 centcom.mil,Central Command
 darpa.mil,Defense Advanced Research Projects Agency (DARPA)
@@ -422,11 +676,12 @@ dap.dau.mil,Defense Acquisition Portal
 dc3.mil,DOD Cyber Crime Center
 dcaa.mil,Defense Contract Audit Agency (DCAA)
 dcma.mil,Defense Contract Management Agency (DCMA)
-dcoe.mil,Unknown
+dcoe.mil,Defense Centers of Excellence (DCoE) for Psychological Health and Traumatic  Brain Injury
+dvbic.dcoe.mil,Defense and Veterans Brain Injury Center (DVBIC)
 defense.mil,Unknown
 defenseimagery.mil,Defense Imagery
 defenseinnovationmarketplace.mil,Defense Innovation Marketplace
-defenselink.mil,Unknown
+defenselink.mil,American Forces Information Service
 dfas.mil,Defense Finance and Accounting Service (DFAS)
 mypay.dfas.mil,myPay
 dhra.mil,Defense Human Resources Activity (DHRA)
@@ -434,11 +689,16 @@ dia.mil,Defense Intelligence Agency
 dimoc.mil,DIMOC
 disa.mil,Defense Information Systems Agency (DISA)
 af.ataaps.csd.disa.mil,ATAAPS
+athd-crm.csd.disa.mil,Training - Help Desk
 golearn.csd.disa.mil,Advanced Distributed Learning Service
 gum-crm.csd.disa.mil,Air Force Civilian Employment
 ors.csd.disa.mil,Operationally Responsive Space Office
 dla.mil,Defense Logistics Agency (DLA)
+daps.dla.mil,Document Automation & Production Service
+dlis.dla.mil,Defense Logistics Information Service (DLIS)
 dma.mil,Defense Media Activity (DMA)
+dinfos.dma.mil,Defense Information School
+jhns.dma.mil,Hometown News Service
 static.dma.mil,2013 CSAF Reading List
 dod.mil,Defense Legal Services Agency (DLSA)
 biometrics.dod.mil,Biometrics Identity Management Agency
@@ -449,10 +709,27 @@ militaryhomefront.dod.mil,Military Children and Youth
 pfi.dod.mil,Personnel Force Innovation
 dodig.mil,Inspector General
 dodiis.mil,Unknown
-dodlive.mil,Unknown
+dodlive.mil,Task Force Muleskinner
+armylive.dodlive.mil,ArmyLive Blog
+armygk.armylive.dodlive.mil,Golden Knights
+jackson.armylive.dodlive.mil,"Fort Jackson, S.C."
 chds.dodlive.mil,William J. Perry Center for Hemispheric Defense Studies
+coastguard.dodlive.mil,Coast Guard Compass
+alaska.coastguard.dodlive.mil,Coast Guard Alaska
+allhands.coastguard.dodlive.mil,Coast Guard All Hands
+greatlakes.coastguard.dodlive.mil,Coast Guard Great Lakes
+heartland.coastguard.dodlive.mil,Coast Guard Heartland
+mariners.coastguard.dodlive.mil,Unknown
+midatlantic.coastguard.dodlive.mil,Coast Guard Mid Atlantic
+northeast.coastguard.dodlive.mil,Coast Guard Northeast
+northwest.coastguard.dodlive.mil,Coast Guard Pacific Northwest
+pacificsouthwest.coastguard.dodlive.mil,Coast Guard Pacific Southwest
 greenfleet.dodlive.mil,Currents Magazine
+marines.dodlive.mil,More
+ncojournal.dodlive.mil,NCO Journal
 open.dodlive.mil,DOD Open Government
+soldiers.dodlive.mil,Soldiers Magazine
+vaguard.dodlive.mil,Virginia National Guard
 warriorcare.dodlive.mil,Wounded Warrior Care and Transition Policy
 dodtechipedia.mil,DoD Techipedia
 dsca.mil,Defense Security Cooperation Agency (DSCA)
@@ -465,12 +742,13 @@ esgr.mil,"Employer Support of the Guard and Reserve, National Committee for (ESG
 esi.mil,Enterprise Software Initiative (ESI)
 eucom.mil,European Command
 freedomaward.mil,Secretary of Defense Employer Support Freedom Award
-health.mil,Unknown
+health.mil,Wounded Warrior Care
 dcoe.health.mil,Defense Centers of Excellence (DCoE)
 arl.hpc.mil,U.S. Army Research Laboratory DOD Supercomputing Resource Center
 ics.mil,Unknown
 jcs.mil,Joint Chiefs of Staff
 jecc.mil,Joint Enabling Capabilities Command
+jfcom.mil,Joint Forces Command
 jko.jfcom.mil,Joint Knowledge Online
 jieddo.mil,Joint IED Defeat Organization (JIEDDO)
 jpra.mil,Joint Personnel Recovery Agency
@@ -478,51 +756,547 @@ jsf.mil,Joint Strike Fighter
 jten.mil,Unknown
 mail.mil,Unknown
 marines.mil,Marine Corps
+10thmarines.marines.mil,10th Marine Regiment
+11thmeu.marines.mil,11th Marine Expeditionary Unit
+13thmeu.marines.mil,13th Marine Expeditionary Unit
+15thmeu.marines.mil,15th Marine Expeditionary Unit
+1stmardiv.marines.mil,11th Marine Regiment
+1stmaw.marines.mil,1st Marine Aircraft Wing
+1stmlg.marines.mil,1st Maintenance Battalion
+22ndmeu.marines.mil,22nd Marine Expeditionary Unit
+24thmeu.marines.mil,24th Marine Expeditionary Unit
 26thmeu.marines.mil,26th Marine Expeditionary Unit (MEU)
+29palms.marines.mil,"Marine Corps Air Ground Combat Center, Twentynine Palms"
+2ndmardiv.marines.mil,2nd Marine Division
+2ndmarines.marines.mil,2nd Marine Regiment
+2ndmaw.marines.mil,2nd Marine Aircraft Wing
+2ndmeb.marines.mil,2nd Marine Expeditionary Brigade
+2ndmlg.marines.mil,2nd Marine Logistics Group
+3rdmardiv.marines.mil,12th Marine Regiment
+3rdmaw.marines.mil,3rd Low Altitude Air Defense Battalion
+3rdmlg.marines.mil,3rd Marine Logistics Group
+6thmarines.marines.mil,"2nd Battalion, 9th Marine Regiment"
+8thmarines.marines.mil,8th Marine Regiment
+9thmcd.marines.mil,9th Marine Corps District
+albany.marines.mil,Marine Corps Logistics Base Albany
+aviation.marines.mil,Headquarters Marine Corps Aviation
+barracks.marines.mil,Marine Barracks Washington
+beaufort.marines.mil,Marine Corps Air Station Beaufort
+bic.marines.mil,Blount Island Command
+cbirf.marines.mil,Chemical Biological Incident Response Force
+cherrypoint.marines.mil,Marine Corps Air Station Cherry Point
+clr2.marines.mil,Combat Logistics Regiment 2
+clr25.marines.mil,Combat Logistics Regiment 25
+clr27.marines.mil,Combat Logistics Regiment 27
+dpc-east.marines.mil,Deployment Processing Command-East
+drumcorps.marines.mil,"""The Commandant's Own,"" The United States Marine Drum and Bugle Corps"
+gceitf.marines.mil,Ground Combat Element Integrated Task Force
+hqmc.marines.mil,FOIA
+iandl.marines.mil,Installations and Logistics Excellence in Logistics
+iimef.marines.mil,II Marine Expeditionary Force
+iimeffwd.marines.mil,II Marine Expeditionary Force (Forward)
+imef.marines.mil,1st Air Naval Gunfire Liaison Company
+lejeune.marines.mil,Marine Corps Base Camp Lejeune
+logcom.marines.mil,Marine Corps Logistics Command
+macg28.marines.mil,Marine Air Control Group 28
+mag14.marines.mil,Marine Aircraft Group 14
+mag26.marines.mil,Marine Aircraft Group 26
+mag29.marines.mil,Marine Aircraft Group 29
+mag31.marines.mil,Marine Aircraft Group 31
+marcent.marines.mil,Marine Corps Forces Central Command
+marcorsyscom.marines.mil,Marine Corps Systems Command
+marforaf.marines.mil,"U.S. Marine Corps Forces, Africa"
+marforcom.marines.mil,U.S. Marine Corps Forces Command
+marforeur.marines.mil,"U.S. Marine Corps Forces, Europe"
+marfork.marines.mil,U.S. Marine Corps Forces Korea
+marforpac.marines.mil,U.S. Marine Corps Forces Pacific
+marforres.marines.mil,25th Marine Regiment / HQ Company
+marforsouth.marines.mil,U.S. Marine Corps Forces South
+marforstrat.marines.mil,"U.S. Marine Corps Forces, USSTRATCOM"
+marineband.marines.mil,The United States Marine Band
+marsoc.marines.mil,U.S. Marine Corps Forces Special Operations Command
 mcasfutenma.marines.mil,Marine Corps Air Station Futenma
+mcasiwakuni.marines.mil,"Marine Corps Air Station Iwakuni, Japan"
+mcbbutler.marines.mil,"Legal Assistance Office & Tax Center, LSSS-PAC, MCI-PAC"
 mcbhawaii.marines.mil,Marine Corps Base Hawaii
+mces.marines.mil,Marine Corps Engineer School
+mcesg.marines.mil,Marine Corps Embassy Security Group
+mcicom.marines.mil,MCICOM-Marine Corps Installation Command
+mcieast.marines.mil,Marine Corps Installations East
+mcipac.marines.mil,Marine Corps Installations Pacific
+mciwest.marines.mil,Marine Corps Installations West
+mcrc.marines.mil,12th Marine Corps District
+mcrdpi.marines.mil,Marine Corps Recruit Depot Parris Island
+mcrdsd.marines.mil,Marine Corps Recruit Depot San Diego
+mcscg.marines.mil,Marine Corps Security Cooperation Group
+mcsfr.marines.mil,Marine Corps Security Force Regiment
+mcwl.marines.mil,Marine Corps Warfighting Laboratory
+newriver.marines.mil,Marine Corps Air Station New River
+okinawa.marines.mil,III MEF/MCIPAC Consolidated Public Affairs Office
+pendleton.marines.mil,Marine Corps Base Camp Pendleton
+quantico.marines.mil,Headquarters and Service Battallion Marine Corps Base Quantico
+safety.marines.mil,CMC Safety Division
+tecom.marines.mil,Field Medical Training Battalion-West
 mc.mil,Military Commissions
 mda.mil,Missile Defense Agency (MDA)
+medicalmuseum.mil,National Museum of Health and Medicine (NMHM)
 militaryonesource.mil,Military OneSource
 milsuite.mil,milSuite
 move.mil,Unknown
 msco.mil,Modeling and Simulation Coordination Office (M&S; CO)
 nationalguard.mil,National Guard
 navy.mil,Navy
+acquisition.navy.mil,"Director, Acquisition Career Management"
+acu1.navy.mil,Assault Craft Unit ONE
+acu5.navy.mil,Assault Craft Unit Five
 adr.navy.mil,Department of the Navy Alternate Dispute Resolution
+airtermnorva.navy.mil,Naval Air Terminal Norfolk
+alabama.navy.mil,USS Alabama (SSBN 731)
+alaska.navy.mil,USS Alaska (SSBN-732)
+anchordesk.navy.mil,AnchorDesk
+antietam.navy.mil,USS Antietam (CG-54)
+anzio.navy.mil,USS Anzio (CG 68)
+atgwp.navy.mil,"Afloat Training Group, Western Pacific"
+atsugi.navy.mil,Carrier Airborne Early Warning Squadron ONE ONE FIVE (VAW-115)
+awards.navy.mil,Navy Department Awards Web Service
+ncts.bahrain.navy.mil,Naval Computer and Telecommunications Station Bahrain
+bainbridge.navy.mil,USS Bainbridge (DDG-96)
+bataan.navy.mil,USS Bataan (LHD-5)
+blackhawk.navy.mil,USS Black Hawk (MHC-58)
+blue-ridge.navy.mil,USS Blue Ridge (LCC-19)
 blueangels.navy.mil,Navy Blue Angels
+bracpmo.navy.mil,"Naval Station Pascagoula, Miss."
+bradley.navy.mil,USS Robert G. Bradley (FFG 49)
+briscoe.navy.mil,USS Briscoe (DD-977)
+bulkeley.navy.mil,USS Bulkeley (DDG-84)
+cable.navy.mil,USS Frank Cable (AS-40)
+carter-hall.navy.mil,USS Carter Hall (LSD-50)
+ccsg11.navy.mil,"Commander, Carrier Strike Group Eleven"
+ccsg9.navy.mil,"Commander, Carrier Strike Group Nine"
+cds21.navy.mil,Commander Destroyer Squadron TWO ONE
+cds7.navy.mil,Commander Destroyer Squadron SEVEN (COMDESRON 7)
+cds9.navy.mil,COMDESRON NINE
 cffc.navy.mil,U.S. Fleet Forces
+chips.navy.mil,CHIPS Magazine
+chosin.navy.mil,USS Chosin (CG-65)
+chscwl.navy.mil,"Commander, Helicopter Sea Combat Wing Atlantic"
+churchill.navy.mil,USS Winston S. Churchill (DDG-81)
+cleveland.navy.mil,USS Cleveland (LPD-7)
+clwp.navy.mil,Commander Logistics Group Western Pacific
+cmwc.navy.mil,Commander Mine Warfare Command (COMINEWARCOM)
+cnaf.navy.mil,"Commander, Naval Air Force, U.S. Pacific Fleet"
 cnatra.navy.mil,MATSG-22
+advancement.cnet.navy.mil,Navy Advancement Center
 sas.cnet.navy.mil,NETC-ES Shared Authentication Services (SAS)
+wwwcfs.cnet.navy.mil,Navy Region Gulf Coast
+cnfj.navy.mil,"Commander, US Naval Forces, Japan"
+cnfk.navy.mil,"Commander, Fleet Activities Chinhae Korea"
+cni.navy.mil,Navy Voting Assistance Program (NVAP)
 cnic.navy.mil,"Commander, Navy Installations Command (CNIC)"
+cnrc.navy.mil,Naval Orientation and Recruiting Unit
+cnrne.navy.mil,Navy Region Northeast
+cnsrf.navy.mil,Navy Operational Support Center Dubuque IA
+cole.navy.mil,USS Cole (DDG-67)
+comnavelsg.navy.mil,Navy Cargo Handling Battalion TWELVE
+comomag.navy.mil,Commander Mobile Mine Assembly Group (COMOMAG)
+cook.navy.mil,USS Donald Cook (DDG-75)
 cool.navy.mil,Navy COOL
+corona.navy.mil,"Naval Surface Warfare Center, Corona Division"
+cotf.navy.mil,Commander Operational Test and Evaluation Force (COMOPTEVFOR)
+cowpens.navy.mil,USS Cowpens (CG-63)
 cpf.navy.mil,U.S. Pacific Fleet
+cpr1.navy.mil,"Commander,  Amphibious Squadron ONE"
+cpr11.navy.mil,"Commander, Amphibious Squadron ELEVEN"
+cpr3.navy.mil,Amphibious Squadron THREE
+cprf7f5f.navy.mil,"Commander, Patrol and Reconnaissance Force Seventh Fleet, Fifth Fleet"
+cprw11.navy.mil,"Commander, Patrol and Reconnaissance Wing ELEVEN"
+cprw2.navy.mil,"Commander, Patrol and Reconnaissance Wing TWO"
+crane.navy.mil,"Naval Surface Warfare Center, Crane Division"
+SC21.crane.navy.mil,SC-21 Homepage
+peos.crane.navy.mil,PEO Surface Strike
+peoships.crane.navy.mil,DDG-1000
+sonobuoy.crane.navy.mil,Sonobuoy Homepage
+csg2.navy.mil,Submarine Group TWO
 csg9.navy.mil,COMSUBGRU-9
+csp.navy.mil,Commander Submarine Force U.S. Pacific fleet
+css11.navy.mil,USS Helena (SSN-725)
+ctf74.navy.mil,Commander Submarine Group 7 - Commander Task Force 54 - Commander Task Force 74
 ctf76.navy.mil,Amphibious Force Seventh Fleet Website
+ctg1.navy.mil,"Commander, Tactical Air Control Group ONE"
+cusnc.navy.mil,US Naval Forces Central Command - US Fifth Fleet
+cusns.navy.mil,"Commander, U.S. Naval Forces Southern Command"
+cvn70.navy.mil,USS Carl Vinson (CVN 70)
+cvn72.navy.mil,USS Abraham Lincoln (CVN 72)
+cvn74.navy.mil,USS John C. Stennis (CVN-74)
+davis.navy.mil,USS Rodney M Davis (FFG-60)
+decatur.navy.mil,USS Decatur (DDG-73)
+denver.navy.mil,USS Denver (LPD-9)
+desron15.navy.mil,"Commander, Destroyer Squadron Fifteen (CDS-15)"
+detroit.navy.mil,USS Detroit (AOE-4)
+dewey.navy.mil,USS Dewey (DDG-105)
+deyo.navy.mil,USS Deyo (DD 989)
 doncio.navy.mil,Department of the Navy Chief Information Officer
+donhq.navy.mil,"Research, Development and Acquisition"
+secnavportal.donhq.navy.mil,Installations and Environment
+donhr.navy.mil,Civilian Federal Careers
+chart.donhr.navy.mil,Civilain Career Development
+doyle.navy.mil,USS Doyle (FFG-39)
+dt.navy.mil,"Naval Surface Warfare Center, Carderock Division"
+dubuque.navy.mil,USS Dubuque (LPD-8)
+duluth.navy.mil,USS Duluth (LPD-6)
+eisenhower.navy.mil,USS Dwight D. Eisenhower (CVN-69)
+enterprise.navy.mil,USS Enterprise (CVN-65)
+enviro-navair.navy.mil,NAVAIR Environmental Team
+eod.navy.mil,COMEODGRU ONE
+eodmu5.navy.mil,Explosive Ordnance Disposal Mobile Unit (EODMU) FIVE
+essex.navy.mil,USS Essex (LHD-2)
 ethics.navy.mil,Department of the Navy Ethics Compass
+facsfacjax.navy.mil,"Fleet Area Control and Surveillance Facility, Jacksonville, FL"
+facsfacsd.navy.mil,"FACSFAC San Diego, CA"
+fasolant.navy.mil,"Fleet Aviation Specialized Operational Training Group, Altantic Fleet"
+fasw.navy.mil,Fleet Anti-Submarine Warfare Training Center
+fcg.navy.mil,FLTCOORDGRU Web Page
+gw.ffc.navy.mil,USS George Washington (CVN-73)
+fife.navy.mil,USS Fife (DD-991)
+fitzgerald.navy.mil,USS Fitzgerald (DDG 62)
+florida.navy.mil,USS Florida (SSGN 728)
 fnmoc.navy.mil,"Meteorology and Oceanography Center, Navy Fleet Numerical"
+foia.navy.mil,FOIA
+ford.navy.mil,USS Ford (FFG-54)
+fort-mchenry.navy.mil,USS Fort McHenry (LSD-43)
+foster.navy.mil,USS Paul F. Foster (DD-964)
+gary.navy.mil,USS Gary (FFG-51)
+george-philip.navy.mil,USS George Philip (FFG-12)
+georgia.navy.mil,USS Georgia (SSGN 729)
+germantown.navy.mil,USS Germantown (LSD-42)
+gettysburg.navy.mil,USS Gettysburg (CG-64)
+groves.navy.mil,USS Stephen W. Groves (FFG-29)
+halyburton.navy.mil,USS Halyburton (FFG-40)
+harpers-ferry.navy.mil,USS Harpers Ferry (LSD-49)
+hc3.navy.mil,Helicopter Sea Combat Squadron THREE (HC-3)
+heron.navy.mil,USS Heron (MHC-52)
+higgins.navy.mil,USS Higgins (DDG-76)
 history.navy.mil,Naval History & Heritage Command
+hm14.navy.mil,Helicopter Mine Countermeasures Squadron FOURTEEN (HM-14)
+hopper.navy.mil,USS Hopper (DDG-70)
+housing.navy.mil,"Naval Facilities Engineering Command, Housing Operations and System Division, La Mesa CA"
+houston.navy.mil,USS Houston (SSN 713)
+howard.navy.mil,USS Howard DDG 83
+hq.navy.mil,Manpower and Reserve Affairs
+finance.hq.navy.mil,Financial Management and Comptroller
+hrojax.navy.mil,"Human Resources Office, Jacksonville, FL"
+hronorfolk.navy.mil,"Human Resources Office, Norfolk"
+hs11.navy.mil,Helicopter Anti-Submarine Squadron ELEVEN (HS-11)
+hs2.navy.mil,Helicopter Anti-Submarine Squadron TWO  (HS-2)
+hs7.navy.mil,Helicopter Anti-Submarine Squadron SEVEN (HS-7)
+hs8.navy.mil,Helicopter Anti-Submarine Squadron EIGHT (HS-8)
+hsc25.navy.mil,Helicopter Sea Combat Squadron TWENTY FIVE (HSC-25)
+hsc26.navy.mil,Helicopter Sea Combat Squadron TWO SIX (HSC-26)
+hsc28.navy.mil,Helicopter Sea Combat Squadron TWO EIGHT (HSC-28)
+hscwsl.navy.mil,Helicopter Sea Combat Weapons School Atlantic
+hsl40.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR ZERO (HSL-40)
+hsl42.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR TWO (HSL-42)
+hsl43.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR THREE (HSL-43)
+hsl44.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR FOUR (HSL-44)
+hsl46.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR SIX (HSL-46)
+hsl49.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR NINE (HSL-49)
+hue-city.navy.mil,USS Hue City (CG-66)
+ig.navy.mil,Naval Inspector General
+ih.navy.mil,"Naval Packaging, Handling, Storage, and Transportation Center"
+imfb.navy.mil,"Intermediate Maintenance, Facility, Bangor"
+infosec.navy.mil,Navy INFOSEC Website (CAC required)
+ingraham.navy.mil,USS Ingraham (FFG-61)
+it-umbrella.navy.mil,Connecting Technology
+iwo-jima.navy.mil,USS Iwo Jima (LHD-7)
+jackson.navy.mil,USS Henry M. Jackson (SSBN 730)
 jag.navy.mil,Navy Judge Advocate General Office
+juneau.navy.mil,USS Juneau (LPD-10)
+kearsarge.navy.mil,USS Kearsarge (LHD-3)
+kentucky.navy.mil,USS Kentucky (SSBN 737)
+kinkaid.navy.mil,USS Kinkaid (DD-965)
+kittyhawk.navy.mil,USS Kitty Hawk (CV-63)
+klakring.navy.mil,USS Klakring (FFG-42)
+laboon.navy.mil,USS Laboon (DDG 58)
+lake-champlain.navy.mil,USS Lake Champlain (CG-57)
+lake-erie.navy.mil,USS Lake Erie (CG-70)
+lamadd.navy.mil,NAVSUPPACT La Maddalena
+lassen.navy.mil,USS Lassen (DDG-82)
+lemoore.navy.mil,Strike Fighter Squadron ONE FOUR SEVEN (VFA-147)
+lhd6.navy.mil,USS Bonhomme Richard (LHD-6)
+lifelines.navy.mil,Lifelines
+louisiana.navy.mil,USS Louisiana (SSN 743)
+mahan.navy.mil,USS Mahan (DDG-72)
+maine.navy.mil,USS Maine (SSBN 741)
+mason.navy.mil,USS Mason (DDG 87)
+mccain.navy.mil,USS John S. McCain (DDG-56)
+mccampbell.navy.mil,USS McCampbell (DDG-85)
+mcclusky.navy.mil,USS McClusky (FFG 41)
+mcfaul.navy.mil,USS McFaul (DDG-74)
+mcinerney.navy.mil,USS McInerney (FFG 8)
+mdsu1.navy.mil,Mobile Diving and Salvage Unit ONE
 med.navy.mil,Naval Hospital Jacksonville website
+bethesda.med.navy.mil,National Naval Medical Center
+navmedmpte.med.navy.mil,"Naval School of Health Sciences, Norfolk, VA"
+navymedicine.med.navy.mil,Bureau of Medicine and Surgery (BUMED)
+nepmu6.med.navy.mil,Navy Environmental and Preventive Medicine Unit SIX
+nhchasn.med.navy.mil,"Naval Hospital, Charleston SC"
+nhcne.med.navy.mil,Naval Health Care New England
+nhso.med.navy.mil,Naval Healthcare Support Office
+nhyoko.med.navy.mil,"Naval Hospital, Yokosuka, Japan"
+nomi.med.navy.mil,Naval Operational Medicine Institute
+rooseyroads.med.navy.mil,Naval Hospital Roosevelt Roads
+usnhguam.med.navy.mil,Naval Hospital Guam
+www-nehc.med.navy.mil,Navy Environmental Health Center
+www-nmcp.med.navy.mil,"Naval Medical Center Portsmouth, VA"
+www-nmlc.med.navy.mil,Naval Medical Logistics Command
+mediacen.navy.mil,Duty in Europe
+mesa-verde.navy.mil,USS Mesa Verde LPD 19
+meyer.navy.mil,USS Meyer (DDG-108)
+michigan.navy.mil,USS Michigan (SSGN 727)
+milius.navy.mil,USS Milius (DDG 69)
+mitscher.navy.mil,USS Mitscher (DDG-57)
+mobile-bay.navy.mil,USS Mobile Bay (CG 53)
+momsen.navy.mil,USS Momsen (DDG 92)
+monterey.navy.mil,USS Monterey (CG 61)
+mount-vernon.navy.mil,USS Mount Vernon (LSD-39)
+msc.navy.mil,Military Sealift Command
+mtwhitney.navy.mil,USS Mount Whitney (LCC/JCC-20)
+mustin.navy.mil,USS Mustin (DDG-89)
+nadepni.navy.mil,"Naval Aviation Depot, North Island, San Diego CA"
+nadn.navy.mil,The United States Naval Academy
+naples.navy.mil,"Naval Regional Contracting Center Naples, Italy"
+ncts.naples.navy.mil,"Naval Computer and Telecommunications Area Master Station EURCENT, Naples, Italy"
+nsa.naples.navy.mil,Navy Support Element AFSOUTH
+nashville.navy.mil,USS Nashville (LPD-13)
+nasjrbfw.navy.mil,"Naval Air Station Joint Reserve Base, Fort Worth, TX"
+nasoceana.navy.mil,US Navy Landing Signal Officer School
 navair.navy.mil,Naval Air Systems Command
+nawctsd.navair.navy.mil,Naval Air Warfare Center Training Systems Division
+navak.navy.mil,U.S. Naval Forces Alaska
+navfac.navy.mil,"Naval Facilities Engineering Command, Bachelor Housing Office"
+portal.navfac.navy.mil,Naval Facilities Engineering Command (NAVFAC)
+navmetoccom.navy.mil,Naval Meteorology and Oceanography Command
+navo.navy.mil,"Naval Oceanographic Office (NAVOCEANO), Stennis Space Center MS"
 navsea.navy.mil,Naval Surface Warfare Center Panama City Division
+nossa.navsea.navy.mil,Naval Ordnance Safety and Security Activity (NOSSA/SEA-00VW)
+navsup.navy.mil,DON Consolidated Card Program Management Division (CCPMD)
 navyband.navy.mil,"Navy Band (Washington, DC)"
+navycollege.navy.mil,Navy College Program
+navyenterprise.navy.mil,Navy Enterprise
+navyexipe.navy.mil,Excess Industrial Plant Equipment
+navyfamily.navy.mil,Affected Navy Family Assistance
+navyreading.navy.mil,Navy Professional Reading Program
+navyreserve.navy.mil,Navy Reserve
+navysecurity.navy.mil,"CNO, Information and Personnel Security Programs N09N2"
+ncca.navy.mil,Naval Center for Cost Analysis
+ncic.navy.mil,Network Centric Innovation Center
+ncis.navy.mil,Naval Criminal Investigative Service
+nctams-london.navy.mil,"Naval Computer and Telecommunications Area Master Station EURCENT Detachment London, UK"
+nctamslant.navy.mil,"Naval Computer and Telecommunications Area Master Station LANT, DET Pensacola, FL"
+nctamspac.navy.mil,Naval Computer and Telecommunications Area Master Station Pacific Detachment Puget Sound
+nctsfe.navy.mil,"Naval Computer and Telecommunications Station, Far East, Yokosuka, Japan"
+nctsjax.navy.mil,"Naval Computer and Telecommunications Station, Jacksonville, FL"
+nctssd.navy.mil,"Naval Computer and Telecommunications Station, San Diego CA"
+nebraska.navy.mil,USS Nebraska (SSBN 739)
+necc.navy.mil,Consolidated Divers Unit
+nelp.navy.mil,Navy Environmental Leadership Program (NELP)
 netc.navy.mil,Center for Seabees and Facilities Engineering
+www1.netc.navy.mil,Naval Service Training Command
+netwarcom.navy.mil,Naval Network Warfare Command
+nevada.navy.mil,USS Nevada (SSBN 733)
+new-orleans.navy.mil,USS New Orleans (LPD 18)
+news.navy.mil,All Hands Magazine
+nicholas.navy.mil,USS Nicholas (FFG-47)
+nimitz.navy.mil,USS Nimitz (CVN-68)
+nioc-norfolk.navy.mil,Navy Information Operations Command - Norfolk
+niocmd.navy.mil,Navy Information Operations Command - Maryland
+niocmisawa.navy.mil,"Naval Security Group Activity, Misawa, Japan"
+niocpns.navy.mil,"Human Resources Office, Pensacola, FL"
+niocsd.navy.mil,Navy Information Operations Command - San Diego
+niodgroton.navy.mil,Naval Security Group Activity Groton
+nipo.navy.mil,Navy International Programs Office
+nko.navy.mil,Navy Knowledge Online
+awsts.ahf.nmci.navy.mil,Airborne Mine Countermeasures Weapon Systems Training School
+cacclw.ahf.nmci.navy.mil,Fleet Logistics Support Squadron Three Zero (VRC-30)
+cvw-14.ahf.nmci.navy.mil,Carrier Air Wing FOURTEEN
+cvw-9.ahf.nmci.navy.mil,Carrier Air Wing NINE
+ewtglant.ahf.nmci.navy.mil,"Expeditionary Warfare Training Group, Atlantic"
+ewtgpac.ahf.nmci.navy.mil,"Expeditionary Warfare Training Group, Pacific"
+naswi.ahf.nmci.navy.mil,"Naval Air Station, Whidbey Island, WA"
+surfwarmag.ahf.nmci.navy.mil,Surface Warfare
+vaq-129.ahf.nmci.navy.mil,Electronic Attack Squadron ONE TWO NINE (VAQ-129)
+vaq-134.ahf.nmci.navy.mil,Electronic Attack Squadron ONE THREE FOUR (VAQ-134)
+vaq-139.ahf.nmci.navy.mil,Electronic Attack Squadron ONE THREE NINE (VAQ-139)
+vaq131.ahf.nmci.navy.mil,Electronic Attack Squadron ONE THREE ONE (VAQ-131)
+vaq135.ahf.nmci.navy.mil,Electronic Attack Squadron ONE THREE FIVE (VAQ-135)
+vaq137.ahf.nmci.navy.mil,Electronic Attack Squadron ONE THREE SEVEN (VAQ-137)
+vaq138.ahf.nmci.navy.mil,Electronic Attack Squadron ONE THREE EIGHT (VAQ-138)
+vp-40.ahf.nmci.navy.mil,Patrol Squadron FORTY (VP-40)
+vp1.ahf.nmci.navy.mil,Patrol Squadron ONE (VP-1)
+vp46.ahf.nmci.navy.mil,Patrol Squadron FORTY SIX (VP-46)
+vq-1.ahf.nmci.navy.mil,Fleet Air Reconnaissance Squadron ONE (VQ-1)
+vq-2.ahf.nmci.navy.mil,Fleet Air Reconnaissance Squadron TWO (VQ-2)
+nsipsprod.nmci.navy.mil,Navy Standard Integrated Personnel System (NSIPS)
+nmic.navy.mil,Office of Naval Intelligence
+nmso.navy.mil,Navy Modeling and Simulation Management Office (NAVMSMO)
+nnsy1.navy.mil,Mid-Atlantic Regional Maintenance Center
+nol.navy.mil,Sea Control Squadron THREE THREE (VS-33)
+normandy.navy.mil,USS Normandy (CG 60)
+npc.navy.mil,Shift Colors-Navy Retiree Newsletter
+npdc.navy.mil,Naval Personnel Development Command
+npmoc.navy.mil,Naval Pacific Meteorology and Oceanography Center
+npmoc-sd.navy.mil,"Naval Pacific Meteorology and Oceanography Center, San Diego"
+nprst.navy.mil,"Navy Personnel Research, Studies, and Technology"
+nps.navy.mil,Defense Resources Management Institute
+nrfh9.navy.mil,Naval Reserve Fleet Hospital NINE
+nrl.navy.mil,Naval Center for Space Technology
+chemistry.nrl.navy.mil,SECNAV Safety & Survivability
+reserves.nrl.navy.mil,Naval Research Laboratory Science and Technology Unit 206
+nsamidsouth.navy.mil,The BlueJacket
+nsga-kunia.navy.mil,Navy Information Operations Command - Hawaii
+nsi.navy.mil,"Naval Station Ingleside, TX"
+nssfnl.navy.mil,"Naval Submarine Support Facility New London, CT"
+nswc.navy.mil,"Naval Surface Warfare Center, Dahlgren Division"
+ntip.navy.mil,Naval Treaty Implementation Program
+nuwc.navy.mil,Naval Undersea Warfare Center
+npt.nuwc.navy.mil,Atlantic Undersea Test and Evaluation Center
 nvr.navy.mil,Naval Vessel Register
+nwc.navy.mil,"Chief of Naval Operations, Strategic Studies Group"
+o-kane.navy.mil,USS O'Kane (DDG-77)
+obannon.navy.mil,USS O'Bannon (DD-987)
+obrien.navy.mil,USS O'Brien (DD-975)
+oceanographer.navy.mil,Navigator of the Navy
 ogc.navy.mil,Department of the Navy Office of the General Counsel
+ogden.navy.mil,USS Ogden (LPD 5)
+ohio.navy.mil,USS Ohio (SSGN 726)
+onr.navy.mil,Office of Naval Research
+oscar-austin.navy.mil,USS Oscar-Austin (DDG-79)
+osprey.navy.mil,USS Osprey (MHC-51)
+patriot.navy.mil,USS Patriot (MCM-7)
+paul-hamilton.navy.mil,USS Paul Hamilton DDG-60
+peleliu.navy.mil,USS Peleliu (LHA-5)
+pennsylvania.navy.mil,USS Pennsylvania (SSBN 735)
+portal.peoeis.navy.mil,Program Executive Office for Information Technology
+phdnswc.navy.mil,"Naval Surface Warfare Center, Port Hueneme Division"
+pinckney.navy.mil,USS Pinckney (DDG 91)
+ponce.navy.mil,USS Ponce (LPD-15)
+port-royal.navy.mil,USS Port Royal (CG 73)
+portland.navy.mil,USS Portland (LSD-37)
+ports.navy.mil,Portsmouth Naval Shipyard
+preble.navy.mil,USS Preble (DDG 88)
+princeton.navy.mil,USS Princeton (CG-59)
+psalant.navy.mil,"Personnel Support Activity, Norfolk, VA"
+psapac.navy.mil,"Personnel Support Activity, Pacific"
+psns.navy.mil,Northwest Regional Maintenance Center
 public.navy.mil,Department of Defense Executive Agent for Maritime Domain Awareness
+radford.navy.mil,USS Arthur W. Radford (DD-968)
 ramage.navy.mil,USS Ramage (DDG-61)
+raven.navy.mil,USS Raven (MHC-61)
+reagan.navy.mil,USS Ronald Reagan (CVN-76)
+reuben-james.navy.mil,USS Reuben James (FFG-57)
+robin.navy.mil,USS Robin (MHC-54)
+ross.navy.mil,USS Ross (DDG-71)
+nctams.rota.navy.mil,"Naval Security Group Activity, Rota"
+rso.navy.mil,Regional Support Organization San Diego
+rushmore.navy.mil,USS Rushmore (LSD-47)
+russell.navy.mil,USS Russell (DDG-59)
+sacramento.navy.mil,USS Sacramento (AOE-1)
+safetycenter.navy.mil,Approach Magazine
+saipan.navy.mil,USS Saipan (LHA 2)
+salts.navy.mil,Streamlined Automated Logistics Transmission System (SALTS) Project
+members.salts.navy.mil,NR NAVHIST VTU 0615
+san-antonio.navy.mil,USS San Antonio  (LPD 17)
+sanjacinto.navy.mil,USS San Jacinto (CG-56)
+sbath.navy.mil,"Supervisor of Shipbuilding, Conversion & Repair, Bath, Maine"
+scsc.navy.mil,"Surface Combat Systems Center Wallops Island, VA"
+seabee.navy.mil,1st Naval Construction Division
+sealchallenge.navy.mil,SEAL Recruiting
+secnav.navy.mil,SES Biographies
+secondfleet.navy.mil,U.S. Second Fleet - NATO Stirking Fleet Atlantic
+sentry.navy.mil,USS Sentry (MCM-3)
+shiloh.navy.mil,USS Shiloh (CG-67)
+simpson.navy.mil,USS Simpson (FFG-56)
+slsc.navy.mil,Submarine Logistics Support Center
+spawar.navy.mil,INSURV - Board Of Inspection And Survey
+bobcat.spawar.navy.mil,Universal Radar Moving Target Transponder (URMTT)
+enterprise.spawar.navy.mil,"Space and Naval Warfare Systems Center Charleston, SC"
+spear.navy.mil,"Profile, Life in the Armed Forces"
+cnsl.spear.navy.mil,PC Crew Alpha
+staynavy.navy.mil,Navy Personnel Command's Center for Career Development
+stethem.navy.mil,USS Stethem (DDG-63)
+stockdale.navy.mil,USS Stockdale (DDG-106)
+stout.navy.mil,USS Stout (DDG-55)
+stump.navy.mil,USS Stump (DD-978)
+subasekb.navy.mil,"Naval Submarine Base, Kings Bay, GA"
+sublant.navy.mil,Commander Submarine Force U.S. Atlantic Fleet
+submepp.navy.mil,Joint Fleet Maintenance Manual
+subpacnr.navy.mil,Pacific Fleet Submarine Force Naval Reserve Site
+supship.navy.mil,"Supervisors of Shipbuilding, Conversion and Repair"
+acu2.surfor.navy.mil,Assault Craft Unit TWO
+acu4.surfor.navy.mil,Assault Craft Unit Four
+atg.surfor.navy.mil,Afloat Training Group
+cds14.surfor.navy.mil,"Commander, Destroyer Squadron FOURTEEN"
+cds2.surfor.navy.mil,"Commander, Destroyer Squadron TWO"
+cnbg2.surfor.navy.mil,"Commander, Naval Beach Group TWO"
+cnsl.surfor.navy.mil,"Commander, Naval Surface Forces, U.S. Atlantic Fleet (COMNAVSURFLANT)"
+surfaceforces.surfor.navy.mil,"Commander, Naval Surface Forces"
+tacron21.surfor.navy.mil,Tactical Air Control Squadron TWENTY ONE (VTC-21)
+tacron22.surfor.navy.mil,Tactical Air Control Squadron TWENTY TWO (VTC-22)
+tr.surfor.navy.mil,USS Theodore Roosevelt (CVN-71)
+swrmc.navy.mil,"Southwest Regional Maintenance Center (SWRMC), San Diego"
+tacamo.navy.mil,Strategic Communications Wing ONE
+tacron11.navy.mil,Tactical Air Control Squadron ELEVEN (VTC-11)
+tarawa.navy.mil,USS Tarawa (LHA-1)
+thach.navy.mil,USS Thach (FFG-43)
+thorn.navy.mil,USS Thorn (DD-988)
+ticonderoga.navy.mil,USS Ticonderoga (CG-47)
+tpu-norva.navy.mil,Transient Personnel Unit Norfolk
+truman.navy.mil,USS Harry S. Truman (CVN-75)
+ttgp.navy.mil,"Tactical Training Group Pacific, San Diego (TTGP)"
+underwood.navy.mil,USS Underwood (FFG 36)
 usno.navy.mil,"Observatory, Naval - Official Site"
 aa.usno.navy.mil,Daylight Time (U.S. Naval Observatory)
+usspearlharbor.navy.mil,USS Pearl Harbor (LSD-52)
+vandegrift.navy.mil,USS Vandegrift (FFG-48)
+vaw120.navy.mil,Carrier Airborne Early Warning Squadron ONE TWO ZERO (VAW-120)
+vaw125.navy.mil,Carrier Airborne Early Warning Squadron ONE TWO FIVE (VAW-125)
+vaw126.navy.mil,Carrier Airborne Early Warning Squadron ONE TWO SIX (VAW-126)
+vfa15.navy.mil,Strike Fighter Squadron FIFTEEN (VFA-15)
 vfa25.navy.mil,Strike Figher Squadron Two FIve
+vfa34.navy.mil,Strike Fighter Squadron THREE FOUR (VFA-34)
+vicksburg.navy.mil,USS Vicksburg (CG-69)
+vp16.navy.mil,Patrol Squadron SIXTEEN (VP-16)
+vp26.navy.mil,Patrol Squadron TWENTY SIX (VP-26)
+vp4.navy.mil,Patrol Squadron FOUR (VP-4)
+vp47.navy.mil,Patrol Squadron FORTY SEVEN (VP-47)
+vp9.navy.mil,Patrol Squadron NINE (VP-9)
+vs30.navy.mil,Sea Control Squadron THREE ZERO (VS-30)
+vs41.navy.mil,Sea Control Squadron 41 (VS-41)
+vx9.navy.mil,Air Test and Evaluation Squadron NINE
+wasp.navy.mil,USS Wasp (LHD-1)
+weather.navy.mil,Naval Meteorology and Oceanography Operational Support Web
 ng.mil,Unknown
+az.ng.mil,Arizona National Guard
 co.ng.mil,Colorado National Guard
+ct.ng.mil,Connecticut National Guard
+dc.ng.mil,District of Columbia National Guard
+gu.ng.mil,Guam National Guard
+hi.ng.mil,Hawaii National Guard
 in.ng.mil,Indiana National Guard
+la.ng.mil,Louisiana National Guard
+ma.ng.mil,Massachusetts National Guard
+ms.ng.mil,Mississippi National Guard
+ne.ng.mil,Nebraska National Guard
 ngbcounterdrug.ng.mil,National Guard Counterdrug Program
+ngbsfs.ng.mil,National Guard Family Support
 nm.ng.mil,New Mexico National Guard
+ny.ng.mil,New York National Guard
+or.ng.mil,Oregon National Guard
+pa.ng.mil,"28th Infantry Division, Harrisburg, Pa."
+ri.ng.mil,Rhode Island National Guard
 nga.mil,National Geospatial-Intelligence Agency (NGA)
 www1.nga.mil,National Geospatial-Intelligence Agency (NGA)
+nicbr.mil,National Interagency Confederation for Biological Research (NICBR)
 norad.mil,North American Aerospace Defense Command (NORAD) - Official Site
 northcom.mil,Northern Command
 osd.mil,Unknown
@@ -547,26 +1321,42 @@ tricare.osd.mil,Tricare
 ourmilitary.mil,Community Relations
 pacom.mil,Pacific Command
 jpac.pacom.mil,Joint POW/MIA Accounting Command
-pdhealth.mil,Unknown
+pdhealth.mil,Deployment Health Clinical Center (DHCC)
 pentagon.mil,Unknown
+arba.army.pentagon.mil,Army Review Boards Agency
 dami.army.pentagon.mil,"U.S. Army Deputy Chief of Staff for Intelligence, G-2"
+eeoa.army.pentagon.mil,Equal Employment Opportunity & Civil Rights Office
+g357.army.pentagon.mil,Office of the Army G-3
+daig.pentagon.mil,Inspector General (OTIG)
+asp.hqda.pentagon.mil,Army Suggestion Program
+dol.hqda.pentagon.mil,Directorate of Logistics-Washington
+tioh.hqda.pentagon.mil,Heraldry (TIOH)
 pentagonchannel.mil,Pentagon Channel (News About the Department of Defense)
 pfpa.mil,Pentagon Force Protection Agency (PFPA)
 sapr.mil,Sexual Assault Prevention and Response (06/21/2005)
 sigir.mil,Special Inspector General for Iraq Reconstruction (10/21/2005)
-soc.mil,Unknown
+soc.mil,1st Battalion 10th Special Forces Group
 socom.mil,Special Operations Command
+navsoc.socom.mil,Naval Small Craft Instruction and Technical Training School
 southcom.mil,Southern Command
 www2.southcom.mil,USAG Miami
 stratcom.mil,Strategic Command
 transcom.mil,Transportation Command
 tricare.mil,Tricare
 uscg.mil,Coast Guard
+fincen.uscg.mil,"Coast Guard Finance Center, Chesapeake, VA"
+reserve.uscg.mil,U.S. Coast Guard Reserve homepage
 usfk.mil,U.S. Forces Korea
-usmc.mil,Unknown
+usmc.mil,U.S. Marine Corps
+29palms.usmc.mil,"USMC Air Ground Combat Center Twentynine Palms, CA"
+8mcd.usmc.mil,8th Marine Corps District
+bic.usmc.mil,Blount Island Command
 manpower.usmc.mil,Marine Stop Loss
+mcbh.usmc.mil,Helicopter Anti-Submarine Squadron Light THREE SEVEN (HSL-37)
+mol.usmc.mil,Distribution Magnement Office CLNC
+yuma.usmc.mil,Marine Corps Air Station Yuma
 usuhs.mil,Unknown
-vaccines.mil,Unknown
+vaccines.mil,Anthrax Vaccine Immunization Program
 warriorcare.mil,Warrior Care
 whs.mil,Employee Verification
 afcommission.whs.mil,National Commission on the Structure of the Air Force

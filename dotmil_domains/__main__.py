@@ -30,10 +30,8 @@ def sort_domains(domain_list):
     return sorted_domains
 
 
-def domains_as_sorted_tuples():
+def dotmil_domains_dict(pages_to_scan):
     domains_dict = {}
-    pages_to_scan = alphabet_pages()
-    pages_to_scan += air_force_site_pages()
     for page in pages_to_scan:
         soup = soup_from_url(page)
         if soup:
@@ -55,20 +53,23 @@ def domains_as_sorted_tuples():
                                 domains_dict[domain] = link.string.strip()
         else:
             logging.warning('we will need to re-scan: ' + page)
-
     with open('mil.csv') as csvfile:
         milreader = csv.reader(csvfile)
         for row in milreader:
             if (row[0] not in domains_dict):
                 domains_dict[row[0]] = "Unknown"
+    return domains_dict
 
+
+def domains_as_sorted_tuples():
+    domains_dict = dotmil_domains_dict(mil_site_pages())
     list_to_sort = []
     for d in domains_dict:
         list_to_sort.append(d)
     sorted_list = sort_domains(list_to_sort)
     domain_tuples = []
     for d in sorted_list:
-        domain_tuples.append((d, domains_dict[d]))
+        domain_tuples.append((d, domains_dict[d].encode('utf-8')))
     return domain_tuples
 
 
@@ -88,7 +89,17 @@ def soup_from_url(url):
     return False
 
 
-def alphabet_pages():
+def mil_site_pages():
+    sites = dod_site_pages()
+    sites += air_force_site_pages()
+    sites += army_site_pages()
+    sites += navy_site_pages()
+    sites += marine_site_pages()
+    sites += uscg_site_pages()
+    return sites
+
+
+def dod_site_pages():
     start_url = 'http://www.defense.gov/registeredsites/RegisteredSites.aspx'
     pages = []
     soup = soup_from_url(start_url)
@@ -108,6 +119,30 @@ def air_force_site_pages():
     af_list = ['http://www.af.mil/AFSites.aspx']
     af_list.append('http://www.af.mil/AFSites.aspx?srBaseList=A')
     return af_list
+
+
+def army_site_pages():
+    return ['http://www.army.mil/info/a-z/']
+
+
+def navy_site_pages():
+    navy_list = ['http://www.navy.mil/navydata/infoIndex.asp']
+    navy_list.append('http://www.navy.mil/links/alpha.asp')
+    return navy_list
+
+
+def marine_site_pages():
+    marine_list = []
+    for i in range(1, 7):
+        page_link = "http://www.marines.mil/Units.aspx?srpage=" + str(i)
+        marine_list.append(page_link)
+    return marine_list
+
+
+def uscg_site_pages():
+    uscg_list = ['http://coastguard.dodlive.mil/official-sites']
+    uscg_list.append('http://www.uscg.mil/lantarea/Links.asp')
+    return uscg_list
 
 
 def main():
