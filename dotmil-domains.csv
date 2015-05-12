@@ -12,6 +12,7 @@ af.mil,Air Force - Official Site
 8af.af.mil,8th Air Force
 BeReady.af.mil,Air Force Civil Engineer Center/Emergency Management Division
 acc.af.mil,Air Combat Command
+116acw.acc.af.mil,116th Air Control Wing
 12af.acc.af.mil,12th Air Force (Air Forces Southern)
 1af.acc.af.mil,1st Air Force
 388fw.acc.af.mil,388th Fighter Wing
@@ -101,26 +102,31 @@ ang.af.mil,Air National Guard - Official Site
 103aw.ang.af.mil,103rd Airlift Wing
 104fw.ang.af.mil,"104th Fighter Wing, Massachusetts Air National Guard"
 105aw.ang.af.mil,"105th Airlift Wing, New York Air National Guard"
+106rqw.ang.af.mil,106th Rescue Wing
 107aw.ang.af.mil,107th Airlift Wing
 108arw.ang.af.mil,108th Wing
 109aw.ang.af.mil,109th Airlift Wing
 110aw.ang.af.mil,110th Airlift Wing
 111fw.ang.af.mil,"111th Fighter Wing, Pennsylvania Air National Guard"
+113wg.ang.af.mil,113th Wing
 114fw.ang.af.mil,114th Fighter Wing
 115fw.ang.af.mil,115th Fighter Wing
 116acw.ang.af.mil,116th Air Control Wing
 117arw.ang.af.mil,117th Air Refueling Wing
+118aw.ang.af.mil,118th Airlift Wing
 118wg.ang.af.mil,"118th Wing, Tennessee Air National Guard"
 119wg.ang.af.mil,119th Wing
 120fw.ang.af.mil,120th Fighter Wing
 121arw.ang.af.mil,121st Air Refueling Wing
 122fw.ang.af.mil,"122nd Fighter Wing, Indiana Air National Guard"
 123aw.ang.af.mil,"123rd Airlift Wing, Kentucky Air National Guard"
+125fw.ang.af.mil,125th Fighter Wing
 127wg.ang.af.mil,127th Wing
 128arw.ang.af.mil,128th Air Refueling Wing
 129rqw.ang.af.mil,"129th Rescue Wing, California Air National Guard"
 130aw.ang.af.mil,The 130th West Virginia
 131bw.ang.af.mil,"131st Bomb Wing, Missouri Air National Guard"
+131fw.ang.af.mil,131st Bomb Wing
 132fw.ang.af.mil,132nd Fighter Wing
 133aw.ang.af.mil,133rd Airlift Wing
 134arw.ang.af.mil,134th Air Refueling Wing
@@ -129,6 +135,7 @@ ang.af.mil,Air National Guard - Official Site
 138fw.ang.af.mil,138th Fighter Wing
 139aw.ang.af.mil,"139th Airlift Wing, Missouri Air National Guard"
 140wg.ang.af.mil,140th Wing
+141arw.ang.af.mil,141st Air Refueling Wing
 142fw.ang.af.mil,142nd Fighter Wing
 143aw.ang.af.mil,"143rd Airlift Wing, Rhode Island Air National Guard"
 144fw.ang.af.mil,"144th Fighter Wing, California Air National Guard"
@@ -138,6 +145,7 @@ ang.af.mil,Air National Guard - Official Site
 148fw.ang.af.mil,148th Fighter Wing
 149fw.ang.af.mil,"149th Fighter Wing, Texas Air National Guard"
 150fw.ang.af.mil,150th Fighter Wing
+151arw.ang.af.mil,151st Air Refueling Wing
 152AW.ang.af.mil,152nd Airlift Wing
 153aw.ang.af.mil,"153rd Airlift Wing, Wyoming Air National Guard"
 154wg.ang.af.mil,154th Wing
@@ -147,15 +155,18 @@ ang.af.mil,Air National Guard - Official Site
 161arw.ang.af.mil,"161st Air Refueling Wing, Arizona Air National Guard"
 162ccg.ang.af.mil,162d Combat Communications Group
 162fw.ang.af.mil,162nd Fighter Wing
+162wing.ang.af.mil,162nd Wing
 163rw.ang.af.mil,163rd Reconnaissance Wing Official Website
 164aw.ang.af.mil,164th Airlift Wing
 165aw.ang.af.mil,165th Airlift Wing Georgia Air National Guard
 166aw.ang.af.mil,"166th Airlift Wing, Delaware Air National Guard"
 167aw.ang.af.mil,167th Airlift Wing (West Virginia Air National Guard)
+168arw.ang.af.mil,168th Air Refueling Wing
 169fw.ang.af.mil,South Carolina Air National Guard
 171arw.ang.af.mil,171st Air Refueling Wing
 172aw.ang.af.mil,172d Airlift Wing
 173fw.ang.af.mil,"173rd Fighter Wing, Oregon Air National Guard"
+174fw.ang.af.mil,174th Fighter Wing
 175wg.ang.af.mil,Maryland Air National Guard
 176wg.ang.af.mil,176th Wing
 177fw.ang.af.mil,177th Fighter Wing
@@ -166,6 +177,7 @@ ang.af.mil,Air National Guard - Official Site
 181iw.ang.af.mil,181st Intelligence Wing
 182aw.ang.af.mil,182d Airlift Wing
 183fw.ang.af.mil,183rd Fighter Wing
+184iw.ang.af.mil,184th Air Refueling Wing
 185arw.ang.af.mil,185th Air Refueling Wing
 186arw.ang.af.mil,"186th Air Refueling Wing, Mississippi Air National Guard"
 187fw.ang.af.mil,187th Fighter Wing
@@ -174,6 +186,7 @@ ang.af.mil,Air National Guard - Official Site
 190arw.ang.af.mil,190th Air Refueling Wing
 192fw.ang.af.mil,192nd Fighter Wing
 193sow.ang.af.mil,193rd Special Operations Wing
+alpenacrtc.ang.af.mil,Alpena CRTC
 angtec.ang.af.mil,The I.G. Brown Training and Education Center
 az.ang.af.mil,Arizona Air National Guard
 bandofthegulfcoast.ang.af.mil,Air National Guard Band of the Gulf Coast
@@ -182,12 +195,23 @@ bandofthemidwest.ang.af.mil,Air National Guard Band of the Midwest
 bandofthesmokymountains.ang.af.mil,Air National Guard Band of the Smoky Mountains
 bandofthesouthwest.ang.af.mil,Air National Guard Band of the Southwest
 ca.ang.af.mil,California Air National Guard
+147cbcs.ca.ang.af.mil,147th Combat Communications Squadron
+149cbcs.ca.ang.af.mil,149th Combat Communications Squadron
+261cbcs.ca.ang.af.mil,261st Combat Communications Squadron
 eads.ang.af.mil,Eastern Air Defense Sector
 fl.ang.af.mil,Florida Air National Guard
 hancockfield.ang.af.mil,Hancock Field Air National Guard Base
 idaho.ang.af.mil,"124th Fighter Wing, Idaho Air National Guard"
+ilspri.ang.af.mil,183rd Fighter Wing
+ncchar.ang.af.mil,North Carolina Air National Guard
+neads.ang.af.mil,NE Air Defense Sector
 oh.ang.af.mil,Ohio Air National Guard
+orklam.ang.af.mil,173rd Fighter Wing
+scang.ang.af.mil,South Carolina Air National Guard
+viang.ang.af.mil,Virgin Islands Air National Guard
 volkfield.ang.af.mil,Volk Field Air National Guard Base
+vt.ang.af.mil,Vermont Air National Guard
+wvang.ang.af.mil,West Virginia Air National Guard
 arnold.af.mil,Arnold Air Force Base & Arnold Engineering Development Complex
 aviano.af.mil,Aviano Air Base
 bandofflight.af.mil,U.S. Air Force Band of Flight
@@ -466,6 +490,7 @@ ciog6.army.mil,Chief Information Officer (CIO/G6)
 civiliantraining.army.mil,Civilian Training and Leader Development
 clinicaltrials.army.mil,Walter Reed Army Institute of Research Clinical Trials Center (WRAIR-CTC)
 cma.army.mil,U.S. Army Chemical Materials Agency
+coloradoguard.army.mil,Colorado Army National Guard
 combat-trafficking.army.mil,Combat Trafficking In Persons
 cool.army.mil,Army Credentialing Opportunities Online (COOL)
 cp26.army.mil,Career Program 26 - Manpower and Force Management
@@ -550,6 +575,8 @@ monterey.army.mil,USAG Presidio of Monterey
 ms.army.mil,Army Modeling & Simulation Directorate
 msl.army.mil,Program Executive Officer for Missiles and Space (PEO MS)
 netcom.army.mil,Network Enterprise Technology Command
+al.ngb.army.mil,Alabama National Guard
+ct.ngb.army.mil,Connecticut National Guard
 il.ngb.army.mil,Illinois National Guard
 md.ngb.army.mil,Maryland National Guard
 me.ngb.army.mil,Maine National Guard
@@ -559,10 +586,15 @@ nh.ngb.army.mil,New Hampshire National Guard
 nm.ngb.army.mil,New Mexico National Guard
 nv.ngb.army.mil,Nevada National Guard
 ok.ngb.army.mil,"45th Infantry Brigade, Edmond, Okla."
+pec.ngb.army.mil,Lavern E. Weber Professional Education Center (PEC)
+pr.ngb.army.mil,Puerto Rico Army National Guard
 sdguard.ngb.army.mil,South Dakota National Guard
 tn.ngb.army.mil,Tennessee National Guard
 ut.ngb.army.mil,Utah National Guard
+vko.va.ngb.army.mil,Virginia National Guard
+vi.ngb.army.mil,Virgin Islands Army National Guard
 wv.ngb.army.mil,Joint Interagency Training and Education (JITEC)
+wy.ngb.army.mil,Wyoming Army National Guard
 oaa.army.mil,Administrative Assistant to the Secretary of the Army (AASA)
 imcom.pac.army.mil,Installation Management Command - Pacific Region
 parks.army.mil,USAG Camp Parks
@@ -1285,12 +1317,14 @@ az.ng.mil,Arizona National Guard
 co.ng.mil,Colorado National Guard
 ct.ng.mil,Connecticut National Guard
 dc.ng.mil,District of Columbia National Guard
+ftig.ng.mil,Fort Indiantown Gap (FTIG)
 gu.ng.mil,Guam National Guard
 hi.ng.mil,Hawaii National Guard
 in.ng.mil,Indiana National Guard
 la.ng.mil,Louisiana National Guard
 ma.ng.mil,Massachusetts National Guard
 ms.ng.mil,Mississippi National Guard
+nc.ng.mil,North Carolina National Guard
 ne.ng.mil,Nebraska National Guard
 ngbcounterdrug.ng.mil,National Guard Counterdrug Program
 ngbsfs.ng.mil,National Guard Family Support
@@ -1299,6 +1333,7 @@ ny.ng.mil,New York National Guard
 or.ng.mil,Oregon National Guard
 pa.ng.mil,"28th Infantry Division, Harrisburg, Pa."
 ri.ng.mil,Rhode Island National Guard
+states.ng.mil,District of Columbia National Guard
 nga.mil,National Geospatial-Intelligence Agency (NGA)
 www1.nga.mil,National Geospatial-Intelligence Agency (NGA)
 nicbr.mil,National Interagency Confederation for Biological Research (NICBR)

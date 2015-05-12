@@ -97,6 +97,7 @@ def mil_site_pages():
     sites += navy_site_pages()
     sites += marine_site_pages()
     sites += uscg_site_pages()
+    sites += national_guard_site_pages()
     return sites
 
 
@@ -145,6 +146,10 @@ def uscg_site_pages():
     uscg_list = ['http://coastguard.dodlive.mil/official-sites']
     uscg_list.append('http://www.uscg.mil/lantarea/Links.asp')
     return uscg_list
+
+
+def national_guard_site_pages():
+    return ['http://www.nationalguard.mil/Resources/StateWebsites.aspx']
 
 
 def main():
