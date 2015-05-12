@@ -18,16 +18,16 @@ To run the script yourself, open a terminal and type:
     git clone https://github.com/esonderegger/dotmil-domains.git
     cd dotmil-domains
 
-I strongly suggest using [virtualenv](https://virtualenv.pypa.io/en/latest/) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) for managing python environments, but installation instructions for those tools are done better than I could ever write on their respective pages. Once you have created and activated your virtualenv, type:
+I strongly suggest using [virtualenv](https://virtualenv.pypa.io/en/latest/) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) for managing python environments. The installation instructions for those tools are done better than I could ever write on their respective pages. Once you have created and activated your virtualenv, type:
 
     python setup.py develop
     dotmil-domains
 
-This will install the two dependencies([Requests](http://docs.python-requests.org/en/latest/) and [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)) into your virtualenv, link the `dotmil-domains` command to the `__main__.py` script in the `dotmil_domains` directory, and then run the command to create a new `dotmil-domains.csv` file. The `develop` after the `python setup.py` means that you can make changes to the `__main__.py` script, run `dotmil-domains` again and see the new file.
+This will install the two dependencies ([Requests](http://docs.python-requests.org/en/latest/) and [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)) into your virtualenv, link the `dotmil-domains` command to the `__main__.py` script in the `dotmil_domains` directory, and then run the command to create a new `dotmil-domains.csv` file. The `develop` after the `python setup.py` means that you can make changes to the `__main__.py` script, run `dotmil-domains` again and see the new file.
 
 ## Contributing
 
-I'd love to have some help with this! Please feel free to create an issue or submit a pull request if you notice something that can be better. Specifically, suggesting additional pages we can scrape and domains that are either not found or have incorrect organization names associated with them would be very helpful.
+I'd love to have some help with this! Please feel free to [create an issue](https://github.com/esonderegger/dotmil-domains/issues) or [submit a pull request](https://github.com/esonderegger/dotmil-domains/pulls) if you notice something that can be better. Specifically, suggesting additional pages we can scrape and domains that are either not found or have incorrect organization names associated with them would be very helpful.
 
 ## todo:
 
