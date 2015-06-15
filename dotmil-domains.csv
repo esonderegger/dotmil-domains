@@ -1,6 +1,5 @@
 Domain Name,Organization
 af.mil,Air Force - Official Site
-126ang.af.mil,126th Air Refueling Wing
 15wing.af.mil,15th Wing
 20af.af.mil,20th Air Force
 24af.af.mil,24th Air Force
@@ -18,14 +17,11 @@ acc.af.mil,Air Combat Command
 388fw.acc.af.mil,388th Fighter Wing
 552acw.acc.af.mil,552nd Air Control Wing
 aiportal.acc.af.mil,Unknown
-eim.acc.af.mil,Unknown
 acc.eim.acc.af.mil,Unknown
-mail.holloman.acc.af.mil,Unknown
 adls.af.mil,Unknown
 adlhub.adls.af.mil,Unknown
 adlhub2.adls.af.mil,Unknown
 adlstools.adls.af.mil,Unknown
-adlstools2.adls.af.mil,Unknown
 aetc.adls.af.mil,Unknown
 aetc2.adls.af.mil,Unknown
 afcec.adls.af.mil,Unknown
@@ -33,9 +29,7 @@ afcec2.adls.af.mil,Unknown
 afms.adls.af.mil,Unknown
 afms2.adls.af.mil,Unknown
 aftr.adls.af.mil,Unknown
-aftr2.adls.af.mil,Unknown
 afwkc.adls.af.mil,Unknown
-afwkc2.adls.af.mil,Unknown
 amc.adls.af.mil,Unknown
 au.adls.af.mil,Unknown
 au2.adls.af.mil,Unknown
@@ -44,63 +38,44 @@ fm2.adls.af.mil,Unknown
 fskc.adls.af.mil,Unknown
 golearn.adls.af.mil,Unknown
 golearn2.adls.af.mil,Unknown
-hr.adls.af.mil,Unknown
 sf-cte.adls.af.mil,Unknown
-sf-cte2.adls.af.mil,Unknown
 www2.adls.af.mil,Unknown
 aetc.af.mil,Air Education and Training Command
 app-eis.aetc.af.mil,Unknown
 app10-eis.aetc.af.mil,Unknown
 eis.aetc.af.mil,Unknown
-all.eis.aetc.af.mil,Unknown
-complete01.eis.aetc.af.mil,Unknown
 imatter.aetc.af.mil,Unknown
 torch.aetc.af.mil,Torch Magazine
 afaa.af.mil,Air Force Audit Agency
 afams.af.mil,Air Force Agency for Modeling and Simulation
-cas2010.afams.af.mil,Unknown
 webmail.afams.af.mil,Unknown
-afcaf.af.mil,DoD Central Adjudication Facility
 afccc.af.mil,Unknown
-notus2.afccc.af.mil,Unknown
 afcec.af.mil,Air Force Civil Engineer Center
 afcent.af.mil,US Air Forces Central Command Band
 379aew.afcent.af.mil,379th Air Expeditionary Wing
 380aew.afcent.af.mil,380th Air Expeditionary Wing
 438aew.afcent.af.mil,438th Air Expeditionary Wing
-autodiscover.adab.afcent.af.mil,Unknown
 mail.adab.afcent.af.mil,Unknown
 webmail.adab.afcent.af.mil,Unknown
-autodiscover.auab.afcent.af.mil,Unknown
 mail.auab.afcent.af.mil,Unknown
 webmail.auab.afcent.af.mil,Unknown
 bagram.afcent.af.mil,455th Air Expeditionary Wing
-autodiscover.bgab.afcent.af.mil,Unknown
 mail.bgab.afcent.af.mil,Unknown
 webmail.bgab.afcent.af.mil,Unknown
-kdab.afcent.af.mil,451st Air Expeditionary Wing
-autodiscover.kdab.afcent.af.mil,Unknown
-mail.kdab.afcent.af.mil,Unknown
-webmail.kdab.afcent.af.mil,Unknown
 manas.afcent.af.mil,376th Air Expeditionary Wing
-nosc.afcent.af.mil,Unknown
-autodiscover.nosc.afcent.af.mil,Unknown
 mail.nosc.afcent.af.mil,Unknown
 webmail.nosc.afcent.af.mil,Unknown
-autodiscover.qa.afcent.af.mil,Unknown
 mail.qa.afcent.af.mil,Unknown
 webmail.qa.afcent.af.mil,Unknown
 mail.sc.afcent.af.mil,Unknown
 ows.sc.afcent.af.mil,Unknown
 weather.sc.afcent.af.mil,Unknown
 webmail.sc.afcent.af.mil,Unknown
-autodiscover.swab.afcent.af.mil,Unknown
 afdoctrine.af.mil,Unknown
 afdw.af.mil,Air Force District of Washington
 afgsc.af.mil,Air Force Global Strike Command
 afhra.af.mil,Air Force Historical Research Agency
 afhso.af.mil,Air Force Historical Studies Office
-afia.af.mil,Air Force Inspection Agency
 afjag.af.mil,Air Force Judge Advocate General
 afmc.af.mil,Air Force Materiel Command
 eis.afmc.af.mil,Unknown
@@ -109,17 +84,10 @@ afms.af.mil,Air Force Medical Service
 mail.afncr.af.mil,Unknown
 wmsweb.afncr.af.mil,Unknown
 dev.wmsweb.afncr.af.mil,Unknown
-integration.wmsweb.afncr.af.mil,Unknown
-dev.integration.wmsweb.afncr.af.mil,Unknown
-stage.integration.wmsweb.afncr.af.mil,Unknown
 sp.wmsweb.afncr.af.mil,Unknown
 dev.sp.wmsweb.afncr.af.mil,Unknown
-integration.sp.wmsweb.afncr.af.mil,Unknown
-dev.integration.sp.wmsweb.afncr.af.mil,Unknown
-stage.integration.sp.wmsweb.afncr.af.mil,Unknown
 stage.sp.wmsweb.afncr.af.mil,Unknown
 stage.wmsweb.afncr.af.mil,Unknown
-wmsauth.wmsweb.afncr.af.mil,Unknown
 wmsauthdev.wmsweb.afncr.af.mil,Unknown
 afnic.af.mil,Air Force Network Integration Center
 hq.afoats.af.mil,Unknown
@@ -130,7 +98,6 @@ afpaas.af.mil,Unknown
 pki.afpaas.af.mil,Unknown
 afpaassupport.af.mil,Unknown
 afpc.af.mil,Air Force Personnel Center
-afpers-cac.af.mil,Unknown
 afrc.af.mil,Air Force Reserve - Command
 10af.afrc.af.mil,10th Air Force
 301fw.afrc.af.mil,301st Fighter Wing
@@ -185,7 +152,6 @@ pittsburgh.afrc.af.mil,Pittsburgh IAP Air Reserve Station
 pope.afrc.af.mil,440th Airlift Wing
 utapsima.afrc.af.mil,Unknown
 westover.afrc.af.mil,Westover Air Reserve Base
-wrbfm31.afrc.af.mil,Unknown
 youngstown.afrc.af.mil,Youngstown Air Reserve Station
 ebs.afrl.af.mil,Unknown
 one.afrl.af.mil,Unknown
@@ -202,7 +168,6 @@ owsjet21.afwa.af.mil,Unknown
 owsjet21gis1.afwa.af.mil,Unknown
 owsjet21gis2.afwa.af.mil,Unknown
 owsjet21gis3.afwa.af.mil,Unknown
-owsjet21rhq.afwa.af.mil,Unknown
 weather.afwa.af.mil,Joint Air Force and Army Weather Information Network
 afweather.af.mil,Air Force Combat Climatology Center - Government
 airforcehollywood.af.mil,Air Force Entertainment Liaison Office
@@ -233,7 +198,6 @@ ang.af.mil,Air National Guard - Official Site
 115fw.ang.af.mil,115th Fighter Wing
 116acw.ang.af.mil,116th Air Control Wing
 117arw.ang.af.mil,117th Air Refueling Wing
-118aw.ang.af.mil,118th Airlift Wing
 118wg.ang.af.mil,"118th Wing, Tennessee Air National Guard"
 119wg.ang.af.mil,119th Wing
 120fw.ang.af.mil,120th Fighter Wing
@@ -307,18 +271,13 @@ ang.af.mil,Air National Guard - Official Site
 190arw.ang.af.mil,190th Air Refueling Wing
 192fw.ang.af.mil,192nd Fighter Wing
 193sow.ang.af.mil,193rd Special Operations Wing
-access.ang.af.mil,Unknown
 angdrm.access.ang.af.mil,Unknown
 direct.access.ang.af.mil,Unknown
 federation.access.ang.af.mil,Unknown
 mail.access.ang.af.mil,Unknown
-remote.access.ang.af.mil,Unknown
-remote2.access.ang.af.mil,Unknown
 vpn.access.ang.af.mil,Unknown
 alpenacrtc.ang.af.mil,Alpena CRTC
 angtec.ang.af.mil,The I.G. Brown Training and Education Center
-apps01.ang.af.mil,Unknown
-autodiscover.ang.af.mil,Unknown
 az.ang.af.mil,Arizona Air National Guard
 bandofthegulfcoast.ang.af.mil,Air National Guard Band of the Gulf Coast
 bandofthemidatlantic.ang.af.mil,Air National Guard Band of the Mid-Atlantic
@@ -362,12 +321,10 @@ bandofthewest.af.mil,U.S. Air Force Band of the West
 bands.af.mil,Air Force Bands
 barksdale.af.mil,Barksdale Air Force Base
 mail.barksdale.af.mil,Unknown
-ows.barksdale.af.mil,Unknown
 basictraining.af.mil,Air Force Basic Military Training
 beale.af.mil,Beale Air Force Base
 epex.beale.af.mil,Unknown
 mail.beale.af.mil,Unknown
-um.beale.af.mil,Unknown
 bmtflightphotos.af.mil,USAF Basic Military Training Flight Photograph Project
 afchips.brooks.af.mil,Unknown
 afwebha.brooks.af.mil,Unknown
@@ -386,74 +343,10 @@ jetgis3.dm.af.mil,Unknown
 jetrhq.dm.af.mil,Unknown
 mail.dm.af.mil,Unknown
 owsjet2.dm.af.mil,Unknown
-um.dm.af.mil,Unknown
 doctrine.af.mil,Air Force Doctrine
 dover.af.mil,Dover Air Force Base home page
-baey-cas-001.beale.acc.ds.af.mil,Unknown
-baey-cas-002.beale.acc.ds.af.mil,Unknown
-um.beale.acc.ds.af.mil,Unknown
-fbnv-cas-001.davismonthan.acc.ds.af.mil,Unknown
-fbnv-cas-002.davismonthan.acc.ds.af.mil,Unknown
-um.davismonthan.acc.ds.af.mil,Unknown
-fnwz-cas-001.dyess.acc.ds.af.mil,Unknown
-fnwz-cas-002.dyess.acc.ds.af.mil,Unknown
-um.dyess.acc.ds.af.mil,Unknown
-fxbm-cas-001.ellsworth.acc.ds.af.mil,Unknown
-fxbm-cas-002.ellsworth.acc.ds.af.mil,Unknown
-um.ellsworth.acc.ds.af.mil,Unknown
-qseu-cas-001.moody.acc.ds.af.mil,Unknown
-qseu-cas-002.moody.acc.ds.af.mil,Unknown
-um.moody.acc.ds.af.mil,Unknown
-gyzh-cas-001.mountainhome.acc.ds.af.mil,Unknown
-gyzh-cas-002.mountainhome.acc.ds.af.mil,Unknown
-um.mountainhome.acc.ds.af.mil,Unknown
-sgbp-cas-001.offutt.acc.ds.af.mil,Unknown
-sgbp-cas-002.offutt.acc.ds.af.mil,Unknown
-um.offutt.acc.ds.af.mil,Unknown
-52tymx-ws-204v.randolph.eis.aetc.ds.af.mil,Unknown
-52tymx-ws-204v.randolph.aetc.ds.af.mil,Unknown
-52tymx-ws-208v.randolph.aetc.ds.af.mil,Unknown
-rndap00102.randolph.aetc.ds.af.mil,Unknown
-emtsapp2.gunter.afmc.ds.af.mil,Unknown
-apps.tinker.afmc.ds.af.mil,Unknown
-prdinfra01.tinker.afmc.ds.af.mil,Unknown
-eis.afspc.ds.af.mil,Unknown
-emtsapp2.frontrange.afspc.ds.af.mil,Unknown
-glens0057-is01.frontrange.afspc.ds.af.mil,Unknown
-amcr8ws004.amc.ds.af.mil,Unknown
-apc2-ec-01.ang.ds.af.mil,Unknown
-apc3-ec-01.ang.ds.af.mil,Unknown
-adab-mail-n.adab.centaf.ds.af.mil,Unknown
-autodiscover.adab.centaf.ds.af.mil,Unknown
-auab-mail-n.auab.centaf.ds.af.mil,Unknown
-auab-owa01-n.auab.centaf.ds.af.mil,Unknown
-autodiscover.auab.centaf.ds.af.mil,Unknown
-autodiscover.bgab.centaf.ds.af.mil,Unknown
-bgab-mail-n.bgab.centaf.ds.af.mil,Unknown
-autodiscover.kdab.centaf.ds.af.mil,Unknown
-kdab-mail-n.kdab.centaf.ds.af.mil,Unknown
-autodiscover.nosc.centaf.ds.af.mil,Unknown
-nosc-mail-n.nosc.centaf.ds.af.mil,Unknown
-nosc-outlook-n.nosc.centaf.ds.af.mil,Unknown
-autodiscover.swab.centaf.ds.af.mil,Unknown
-caoc-mail-n.swab.centaf.ds.af.mil,Unknown
-swab-mail-n.swab.centaf.ds.af.mil,Unknown
-aviano.usafe.ds.af.mil,Unknown
-inccas01.incirlik.usafe.ds.af.mil,Unknown
-inccas02.incirlik.usafe.ds.af.mil,Unknown
-nscchs01.nosc.usafe.ds.af.mil,Unknown
-ola.ramstein.usafe.ds.af.mil,Unknown
-ramcas01.ramstein.usafe.ds.af.mil,Unknown
-ramcas02.ramstein.usafe.ds.af.mil,Unknown
-ramcas03.ramstein.usafe.ds.af.mil,Unknown
-ramcas04.ramstein.usafe.ds.af.mil,Unknown
-spmcas01.spangdahlem.usafe.ds.af.mil,Unknown
-ola.uk.usafe.ds.af.mil,Unknown
-ukcas01.uk.usafe.ds.af.mil,Unknown
-ukcas02.uk.usafe.ds.af.mil,Unknown
 dyess.af.mil,Dyess Air Force Base
 mail.dyess.af.mil,Unknown
-um.dyess.af.mil,Unknown
 edwards.af.mil,Edwards Air Force Base
 efoia.af.mil,Unknown
 eglin.af.mil,Eglin Air Force Base
@@ -461,8 +354,6 @@ eielson.af.mil,Eielson Air Force Base
 eis.af.mil,Unknown
 ellsworth.af.mil,28th Bomb Wing
 mail.ellsworth.af.mil,Unknown
-um.ellsworth.af.mil,Unknown
-eim.elmendorf.af.mil,Unknown
 expeditionarycenter.af.mil,U.S. Air Force Expeditionary Center
 fairchild.af.mil,Fairchild Air Force Base
 foia.af.mil,Information Access Policy and Compliance Branch
@@ -474,12 +365,6 @@ anywhere.gunter.af.mil,Unknown
 autodiscover.gunter.af.mil,Unknown
 ceds.gunter.af.mil,Unknown
 emts.gunter.af.mil,Unknown
-autodiscover.exchange.gunter.af.mil,Unknown
-fguml2k8array.exchange.gunter.af.mil,Unknown
-fguml2k8ca01.exchange.gunter.af.mil,Unknown
-fguml2k8ca02.exchange.gunter.af.mil,Unknown
-fguml2k8cas01.exchange.gunter.af.mil,Unknown
-fguml2k8cas02.exchange.gunter.af.mil,Unknown
 legacy.gunter.af.mil,Unknown
 mail.gunter.af.mil,Unknown
 midtier.gunter.af.mil,Unknown
@@ -492,8 +377,6 @@ hill.af.mil,"Hill Air Force Base, Utah"
 aftoc.hill.af.mil,Unknown
 aftoc2.hill.af.mil,Unknown
 awbs.hill.af.mil,Unknown
-citoms.hill.af.mil,Unknown
-citomsprod.hill.af.mil,Unknown
 ctor.hill.af.mil,Unknown
 farsite.hill.af.mil,AFLCMC HIBB
 wb75cs-891-6.hill.af.mil,Unknown
@@ -508,11 +391,9 @@ saffm.hq.af.mil,Air Force Financial Management & Comptroller
 safgc.hq.af.mil,Air Force General Counsel
 safie.hq.af.mil,"Air Force Installations, Environment, Logistics and Energy"
 safsp.hq.af.mil,Space Cadre Development
-thrmis1.hq.af.mil,Unknown
 thrmistest.hq.af.mil,Unknown
 hurlburt.af.mil,Hurlburt Field
 23ws.hurlburt.af.mil,Unknown
-23wspassword.hurlburt.af.mil,Unknown
 605tes.hurlburt.af.mil,Unknown
 incirlik.af.mil,Incirlik Air Base
 webmail.incirlik.af.mil,Unknown
@@ -520,7 +401,6 @@ logon.jag.af.mil,Unknown
 jber.af.mil,11th Air Force
 jble.af.mil,Joint Base Langley- Eustis
 jbsa.af.mil,Joint Base San Antonio
-portal.jbsa.af.mil,Unknown
 jointbasemdl.af.mil,Joint Base McGuire-Dix-Lakehurst
 jppso-cos.af.mil,Unknown
 jppso-cos-ws.jppso-cos.af.mil,Unknown
@@ -542,7 +422,6 @@ help.afcec-portal.lackland.af.mil,Unknown
 pi.afcec-portal.lackland.af.mil,Unknown
 afcee-eim.lackland.af.mil,Unknown
 sammc-eis.lackland.af.mil,Unknown
-wilfordhall.lackland.af.mil,Unknown
 lajes.af.mil,Lajes Link
 lakenheath.af.mil,Royal Air Force Station Lakenheath
 afaems.langley.af.mil,Unknown
@@ -559,7 +438,6 @@ luke.af.mil,Luke Air Force Base
 macdill.af.mil,MacDill
 malmstrom.af.mil,Malmstrom Air Force Base
 maxwell.af.mil,Maxwell Air Force Base
-41pnqs-as-157v.maxwell.af.mil,Unknown
 augateway.maxwell.af.mil,Unknown
 auportal.maxwell.af.mil,Unknown
 ausis.maxwell.af.mil,Unknown
@@ -576,51 +454,31 @@ minot.af.mil,Minot Air Force Base
 misawa.af.mil,Misawa Air Base
 moody.af.mil,Moody Air Force Base
 mail.moody.af.mil,Unknown
-um.moody.af.mil,Unknown
 mortuary.af.mil,Air Force Mortuary Affairs Operations
 mountainhome.af.mil,Mountain Home Air Force Base
 mail.mountainhome.af.mil,Unknown
-um.mountainhome.af.mil,Unknown
 music.af.mil,AF Public Affairs Agency Band Support
 my.af.mil,NAVAL SPECIAL WARFARE COMMAND
 cie-dev.my.af.mil,Unknown
 cie-dev-lrt.my.af.mil,Unknown
-cie-dev-sharepoint.my.af.mil,Unknown
 cie-int.my.af.mil,Unknown
 cie-int-lrt.my.af.mil,Unknown
-cie-int-sharepoint.my.af.mil,Unknown
 cie-sbx-poc.my.af.mil,Unknown
 ej-crl.my.af.mil,Unknown
 rso.my.af.mil,Unknown
 rso2.my.af.mil,Unknown
 tdr.my.af.mil,Unknown
-www-com.my.af.mil,Unknown
 www2.my.af.mil,Unknown
-www2-com.my.af.mil,Unknown
 www2d.my.af.mil,Unknown
-www7.my.af.mil,Unknown
 www8.my.af.mil,Unknown
-www8-com.my.af.mil,Unknown
 www9.my.af.mil,Unknown
 wwwd.my.af.mil,Unknown
-wwwd-com.my.af.mil,Unknown
 nationalmuseum.af.mil,National Museum of the U.S. Air Force
 nellis.af.mil,Nellis Air Force Base
 mail.nellis.af.mil,Unknown
 netcents.af.mil,Air Force NetCents
 offutt.af.mil,Offutt Air Force Base
 mail.offutt.af.mil,Unknown
-um.offutt.af.mil,Unknown
-autodiscover.ogn.af.mil,Unknown
-hqcuixch01.ogn.af.mil,Unknown
-hqcuixch04.ogn.af.mil,Unknown
-hqcuixchbe4.ogn.af.mil,Unknown
-hqcuixchbe6.ogn.af.mil,Unknown
-oacuixchbe.ogn.af.mil,Unknown
-oacuixchbe2.ogn.af.mil,Unknown
-obcuixchbe2.ogn.af.mil,Unknown
-occuixchbe1.ogn.af.mil,Unknown
-occuixchhc1.ogn.af.mil,Unknown
 owa.ogn.af.mil,Unknown
 osan.af.mil,Osan Air Base
 osi.af.mil,Air Force Office of Special Investigations
@@ -652,7 +510,6 @@ ricky.rs.af.mil,Unknown
 sab.af.mil,U.S. Air Force Scientific Advisory Board
 safcioa6.af.mil,AF CIO A6
 schriever.af.mil,Schriever Air Force Base
-glens0057-is01.schriever.af.mil,Unknown
 scott.af.mil,Scott Air Force Base
 secretsdeclassified.af.mil,Air Force Declassification Office
 ows.sembach.af.mil,Unknown
@@ -666,7 +523,6 @@ webmail.spangdahlem.af.mil,Unknown
 tinker.af.mil,Tinker Air Force Base
 apps.tinker.af.mil,Unknown
 asimis.tinker.af.mil,Unknown
-tk-extweb-s.dmz.tinker.af.mil,Unknown
 prdinfra02.tinker.af.mil,Unknown
 prdmtier01.tinker.af.mil,Unknown
 prdmtier02.tinker.af.mil,Unknown
@@ -676,7 +532,6 @@ travis.af.mil,60th MDG
 tyndall.af.mil,Tyndall Air Force Base
 webmail.tyndall.af.mil,Unknown
 21weather.us.af.mil,Unknown
-afimsc.us.af.mil,Unknown
 eis.afimsc.us.af.mil,Unknown
 autodiscover.us.af.mil,Unknown
 eim.us.af.mil,Unknown
@@ -689,22 +544,13 @@ jet26gis2.us.af.mil,Unknown
 jet26gis3.us.af.mil,Unknown
 jet26rhq.us.af.mil,Unknown
 mail.us.af.mil,Unknown
-area52.mail.us.af.mil,Unknown
 meettyfr.us.af.mil,Unknown
-oa.us.af.mil,Unknown
-area52.oa.us.af.mil,Unknown
 ows15.us.af.mil,Unknown
 ows15pass.us.af.mil,Unknown
 ows25.us.af.mil,Unknown
-ows25pass.us.af.mil,Unknown
-ows26.us.af.mil,Unknown
 ows26pass.us.af.mil,Unknown
 owsjet15.us.af.mil,Unknown
 owsjet25.us.af.mil,Unknown
-owsjet25gis1.us.af.mil,Unknown
-owsjet25gis2.us.af.mil,Unknown
-owsjet25gis3.us.af.mil,Unknown
-owsjet25rhq.us.af.mil,Unknown
 owsjet26.us.af.mil,Unknown
 robins.tmt.us.af.mil,Unknown
 robins.tmtsp.us.af.mil,Unknown
@@ -714,17 +560,13 @@ usafacademyband.af.mil,U.S. Air Force Academy Band
 usafband.af.mil,The United States Air Force Band
 usafdoctrine.af.mil,Unknown
 usafe.af.mil,"3rd Air Force, 17th Expeditionary Air Force"
-21weather.usafe.af.mil,Unknown
 501csw.usafe.af.mil,501st Combat Support Wing
 ice.usafe.af.mil,Unknown
 my.ice.usafe.af.mil,Unknown
 sp2007.my.ice.usafe.af.mil,Unknown
 sp2010.my.ice.usafe.af.mil,Unknown
-stg.my.ice.usafe.af.mil,Unknown
 sp2007.ice.usafe.af.mil,Unknown
 sp2010.ice.usafe.af.mil,Unknown
-stg.ice.usafe.af.mil,Unknown
-stgice.usafe.af.mil,Unknown
 webmail.uk.usafe.af.mil,Unknown
 webmail.usafe.af.mil,Unknown
 usafeuropeband.af.mil,U.S. Air Forces in Europe Band
@@ -740,9 +582,7 @@ whasc.af.mil,59th Medical Wing
 whiteman.af.mil,Whiteman Air Force Base
 woundedwarrior.af.mil,Air Force Wounded Warrior
 wpafb.af.mil,711th HPW Medical Flight Standards Branch
-navy.al.wpafb.af.mil,Navy Health Research Center/Toxicology Detachment
 dodaac.wpafb.af.mil,Unknown
-lts.wpafb.af.mil,Unknown
 recon.wpafb.af.mil,Unknown
 spires.wpafb.af.mil,Unknown
 trackerlite.wpafb.af.mil,Unknown
@@ -756,22 +596,17 @@ asims.afms.mil,Unknown
 carepoint.afms.mil,Unknown
 kx.afms.mil,Unknown
 kx2.afms.mil,Unknown
-kxadmin.afms.mil,Unknown
-kxcrawl.afms.mil,Unknown
 kxstg.afms.mil,Unknown
 mhsphp.afms.mil,Unknown
 profile.afms.mil,Unknown
 afpims.mil,Unknown
 army.afpims.mil,Unknown
 dod.afpims.mil,Unknown
-navy.afpims.mil,Unknown
 usace.afpims.mil,Unknown
 usaf.afpims.mil,Unknown
-uscg.afpims.mil,Unknown
 usmc.afpims.mil,Unknown
 tecom.usmc.afpims.mil,Marine Corps University
 usaf.afpimsstaging.mil,Unknown
-usaf.afpisstaging.mil,Unknown
 africom.mil,Africa Command
 cms.africom.mil,Unknown
 hoa.africom.mil,Combined Joint Task Force-Horn of Africa
@@ -787,7 +622,6 @@ conference-mont.apps.mil,Unknown
 conference-okc.apps.mil,Unknown
 arl.mil,Unknown
 arlingtoncemetery.mil,Arlington National Cemetery
-wocc.ellc.learn.arm.mil,Unknown
 army.mil,Army - Official Site
 12cab.army.mil,12th Combat Aviation Brigade
 1id.army.mil,"1st Infantry Division, Fort Riley, Kan."
@@ -796,14 +630,12 @@ acert.1stiocmd.army.mil,Army Computer Emergency Response Team - Computer Network
 25idl.army.mil,"25th Infantry Division, Schofield Barracks, Hawaii"
 2cr.army.mil,2nd Cavalry Regiment
 2k.army.mil,Unknown
-3coscom.army.mil,Unknown
 3esc.army.mil,Unknown
 409csb.army.mil,409th Contracting Support Br
 5sigcmd.army.mil,2nd Signal Brigade
 7sigcmd.army.mil,7th Signal Command (Theater)
 94aamdc.army.mil,"94th Army Air and Missile Defense Command, Fort Shafter, Hawaii"
 aaa.army.mil,Unknown
-aaacert.aaa.army.mil,Unknown
 abc.army.mil,Army Benefits Center - Civilian
 batsr.abcc.army.mil,Unknown
 r-s.abcc.army.mil,Unknown
@@ -849,13 +681,11 @@ almc.army.mil,Unknown
 alt.army.mil,"Assistant Secretary of the Army for Acquisitions, Logistics, and Technology (ASA(ALT))"
 clauselogic.altess.army.mil,Unknown
 clauselogic-test.altess.army.mil,Unknown
-radfb0131v21774.altess.army.mil,Unknown
 sso-test.altess.army.mil,Unknown
 alu.army.mil,"Logistics Management College, Fort Lee, Va."
 amc-equip.army.mil,Unknown
 amedd.army.mil,Unknown
 acc.amedd.army.mil,Unknown
-ait-port.amedd.army.mil,Unknown
 alaska.amedd.army.mil,Medical Department-Alaska (MEDDAC-Alaska)
 allergenextractexpress.amedd.army.mil,Unknown
 ameddciviliancorps.amedd.army.mil,Unknown
@@ -914,7 +744,6 @@ kenner.narmc.amedd.army.mil,"Kenner Army Health Clinic, Fort Lee, Va."
 mcdonald.narmc.amedd.army.mil,"McDonald Army Community Hospital, Fort Eustis, Va."
 kacc.nrmc.amedd.army.mil,"Andrew Rader Health Clinic, Fort Myer, Va."
 phc.amedd.army.mil,Army Health Promotion and Preventive Medicine
-test.phc.amedd.army.mil,Unknown
 polk.amedd.army.mil,"Bayne-Jones Army Community Hospital, Fort Polk, La."
 rahc.amedd.army.mil,"Rodriguez Army Health Clinic, Fort Buchanan, Puerto Rico"
 redstone.amedd.army.mil,"Fox Army Health Center, Redstone Arsenal, Ala."
@@ -933,7 +762,6 @@ usacehr.amedd.army.mil,U.S. Army Center for Environmental Health Research
 usaisr.amedd.army.mil,U.S. Army Institute of Surgical Research
 usammc-k.amedd.army.mil,United States Army Medical Materiel Center - Korea (USAMMC-K)
 usammce.amedd.army.mil,"U.S. Army Medical Materiel Center, Europe"
-usamricd.amedd.army.mil,Unknown
 usamru-e.amedd.army.mil,U.S. Army Medical Research Unit - Europe (USAMRU-E)
 usaphc.amedd.army.mil,Unknown
 vet1.amedd.army.mil,Unknown
@@ -960,14 +788,10 @@ ansbach.army.mil,USAG Ansbach Official Website
 aors.army.mil,Army Operations Research Symposium
 apd.army.mil,Official Army Publications and Forms
 apg.army.mil,Aberdeen Proving Ground
-ait-port.apg.army.mil,Unknown
-apgbrac.apg.army.mil,Unknown
-denalipub.apg.army.mil,Unknown
 gps.apg.army.mil,Unknown
 impac.apg.army.mil,Unknown
 peoiews.apg.army.mil,PEO IEW&S; website
 r2csr.apg.army.mil,Unknown
-r2csr3.apg.army.mil,Unknown
 rdit.apg.army.mil,Unknown
 ako.sec.apg.army.mil,Unknown
 arat.sed.apg.army.mil,Unknown
@@ -990,7 +814,6 @@ arcyber.army.mil,Army Cyber Command
 ardec.army.mil,Benet Labs
 arims.army.mil,Records Information Management
 arl.army.mil,U.S. Army Research Laboratory
-arlweb.arl.army.mil,Unknown
 ess.arl.army.mil,Unknown
 safe.arl.army.mil,Unknown
 safeftp.arl.army.mil,Unknown
@@ -1021,26 +844,18 @@ atrrs.army.mil,Army Training Requirements and Resources System (ATRRS)
 ats.army.mil,Air Traffic Services Command (ATSCOM)
 atsc.army.mil,Army Correspondence Course Program
 idmsonline.atsc.army.mil,Unknown
-strap.atsc.army.mil,Unknown
 tsmats.atsc.army.mil,Unknown
 awg.army.mil,Asymmetric Warfare Group (AWG)
 newportal.awg.army.mil,Unknown
 portal.awg.army.mil,Unknown
 bands.army.mil,Army Bands
-batlemind.army.mil,Unknown
-battlemind.army.mil,Unknown
 baumholder.army.mil,USAG Baumholder
-dev2.bcks.army.mil,Unknown
-support.bcks.army.mil,Unknown
-wkb.bcks.army.mil,Unknown
 belvoir.army.mil,USAG Fort Belvoir
 amsc.belvoir.army.mil,Army Management Staff College (AMSC)
 liwa.belvoir.army.mil,Unknown
 neccitrix.belvoir.army.mil,Unknown
 osaa.belvoir.army.mil,"Operational Support Airlift Agency (OSAA), Fort Belvoir, Va."
 rfmssbackup.belvoir.army.mil,Unknown
-usafmsa.belvoir.army.mil,Unknown
-webtaads.belvoir.army.mil,Unknown
 benning.army.mil,Fort Benning
 bhsl.army.mil,Unknown
 bliss.army.mil,"1st Armored Division, Fort Bliss, Texas"
@@ -1062,7 +877,6 @@ ccad.army.mil,"Corpus Christi Army Depot (CCAD), Texas"
 cdmrp.army.mil,Congressionally Directed Medical Research Programs
 ceava.army.mil,Unknown
 cecom.army.mil,Communications-Electronics Command (CECOM)
-cecom-reset-integration.army.mil,Unknown
 cerdec.army.mil,U.S. Army RDECOM CERDEC
 chapnet.army.mil,"Chaplain School, Fort Jackson, S.C."
 chess.army.mil,CHESS IT Emart
@@ -1085,12 +899,9 @@ crane.army.mil,Crane Army Ammunition Activity
 crsc.army.mil,Unknown
 crtc.army.mil,Cold Regions Test Center (CRTC)
 csla.army.mil,Communications Security Logistics Activity (CSLA)
-admin.csla.army.mil,Unknown
 css-comms.army.mil,Unknown
-ctnosc.army.mil,Unknown
 rwcp.ctnosc.army.mil,Unknown
 culturalknowledge.army.mil,Unknown
-denalipub.army.mil,Unknown
 dencom.army.mil,Army Dental Care
 detrick.army.mil,"Fort Detrick, Md."
 akosecured.detrick.army.mil,Unknown
@@ -1098,21 +909,9 @@ riid-vision.detrick.army.mil,Unknown
 devens.army.mil,Fort Devens
 devens-www.army.mil,Unknown
 dix.army.mil,U.S. Army Support Activity Fort Dix
-imsweb.dix.army.mil,Unknown
 jmmsweb.dix.army.mil,Unknown
 dls.army.mil,Army Distributed Learning System
 drum.army.mil,Fort Drum
-amed.ds.army.mil,Unknown
-braga0ckmoca001.nase.ds.army.mil,Unknown
-commsworkorder.nase.ds.army.mil,Unknown
-ngga-portal.ga.ngb.ds.army.mil,Unknown
-sportal.ga.ngb.ds.army.mil,Unknown
-bgrmb1afgn001.afghan.swa.ds.army.mil,Unknown
-bgrmb1afgn002.afghan.swa.ds.army.mil,Unknown
-bgrmb1afgn003.afghan.swa.ds.army.mil,Unknown
-bgrmb1afgn004.afghan.swa.ds.army.mil,Unknown
-bgrmb1afgn005.afghan.swa.ds.army.mil,Unknown
-bhubfeswan001.afghan.swa.ds.army.mil,Unknown
 dtc.army.mil,Unknown
 dtms.army.mil,Digital Training Management System (DTMS)
 dtms-cats.army.mil,Unknown
@@ -1137,14 +936,11 @@ forscom.faast.army.mil,Unknown
 staging.faast.army.mil,Unknown
 usarc.faast.army.mil,Unknown
 fbcb2.army.mil,Unknown
-fbcb2demo.army.mil,Unknown
 fdm.army.mil,Unknown
 fifeanddrum.army.mil,The United States Army Old Guard Fife and Drum Corps
 finance.army.mil,"Finance School, Fort Jackson, S.C."
 first.army.mil,First U.S. Army
 ako.first.army.mil,Unknown
-extranet.diveast.first.army.mil,Unknown
-internet.first.army.mil,Unknown
 floridaguard.army.mil,Florida National Guard
 fmsweb.fms.army.mil,Unknown
 fmsweb.army.mil,Unknown
@@ -1179,12 +975,9 @@ healthcare.hqusareur.army.mil,Unknown
 chppmeur.healthcare.hqusareur.army.mil,Army Center for Health Promotion and Preventive Medicine - Europe
 heidelberg.healthcare.hqusareur.army.mil,Unknown
 hrc.army.mil,Cold War Recognition Certificate
-mobil.hrc.army.mil,Unknown
 mobile.hrc.army.mil,Unknown
 hrsolutions.army.mil,Program Executive Office for Enterprise Information Systems: HR Solutions
 csla.hua.army.mil,Unknown
-iconportal.hua.army.mil,Unknown
-usaic.hua.army.mil,Unknown
 webeoc.huachuca-www.army.mil,Unknown
 icon.army.mil,"Intelligence, Office of the Deputy Chief of Staff for Intelligence (ODCSINT) - G-2"
 tigs-online.ignet.army.mil,Army Inspector General School
@@ -1212,15 +1005,10 @@ jagu.army.mil,Unknown
 jbc-p.army.mil,Unknown
 jbmhh.army.mil,"Fort McNair, Washington, D.C."
 jacks.jpeocbd.army.mil,Unknown
-jackspublic.jpeocbd.army.mil,Unknown
 survey.jpeocbd.army.mil,Unknown
 jrtc-polk.army.mil,"Fort Polk, La."
-jpeo-cbd.kc.army.mil,Unknown
 sif.kc.army.mil,Unknown
 sp.kc.army.mil,Unknown
-sp2.kc.army.mil,Unknown
-sp3.kc.army.mil,Unknown
-sp4.kc.army.mil,Unknown
 sso.tbc.kc.army.mil,Unknown
 ke.army.mil,Unknown
 knox.army.mil,"Fort Knox, Kentucky"
@@ -1234,7 +1022,6 @@ ksc.korea.army.mil,Korean Service Corps Battalion
 ellc.learn.army.mil,Unknown
 acc.ellc.learn.army.mil,Unknown
 acpme.ellc.learn.army.mil,Unknown
-aimd.ellc.learn.army.mil,Unknown
 aiph-dohs.ellc.learn.army.mil,Unknown
 almc.ellc.learn.army.mil,Unknown
 amedd.ellc.learn.army.mil,Unknown
@@ -1250,12 +1037,9 @@ chemical.ellc.learn.army.mil,Unknown
 crc.ellc.learn.army.mil,Unknown
 deomi.ellc.learn.army.mil,Unknown
 dftra.ellc.learn.army.mil,Unknown
-dli.ellc.learn.army.mil,Unknown
 dspdss.ellc.learn.army.mil,Unknown
 eaats.ellc.learn.army.mil,Unknown
-edigital.ellc.learn.army.mil,Unknown
 engineer.ellc.learn.army.mil,Unknown
-fa.ellc.learn.army.mil,Unknown
 fcoe.ellc.learn.army.mil,Unknown
 guardu.ellc.learn.army.mil,Unknown
 iet.ellc.learn.army.mil,Unknown
@@ -1264,7 +1048,6 @@ jag.ellc.learn.army.mil,Unknown
 ldd.ellc.learn.army.mil,Unknown
 manscen.ellc.learn.army.mil,Unknown
 mcoe.ellc.learn.army.mil,Unknown
-metc.ellc.learn.army.mil,Unknown
 mi.ellc.learn.army.mil,Unknown
 mp.ellc.learn.army.mil,Unknown
 ncoes.ellc.learn.army.mil,Unknown
@@ -1282,7 +1065,6 @@ umm.ellc.learn.army.mil,Unknown
 usaals.ellc.learn.army.mil,Unknown
 usace.ellc.learn.army.mil,Unknown
 usarec.ellc.learn.army.mil,Unknown
-usatc.ellc.learn.army.mil,Unknown
 usawc.ellc.learn.army.mil,Unknown
 whinsec.ellc.learn.army.mil,Unknown
 wocc.ellc.learn.army.mil,Unknown
@@ -1316,8 +1098,6 @@ lewis-mcchord.army.mil,17th Fires Brigade
 jbextra.lewis-mcchord.army.mil,Unknown
 sponsor.lewis-mcchord.army.mil,Unknown
 webeoc.lewis-mcchord.army.mil,Unknown
-lewisbctc.army.mil,Unknown
-lewisbctc2.army.mil,Unknown
 lia.army.mil,U.S. Army Logistics Innovation Agency
 epic.lia.army.mil,Unknown
 libraries.army.mil,Libraries
@@ -1328,11 +1108,9 @@ sigcoe.llc.army.mil,Unknown
 cts.lms.army.mil,Unknown
 www.cts.lms.army.mil,Unknown
 logsa.army.mil,Logistics Support Activity (LOGSA)
-armttrain.logsa.army.mil,Unknown
 edmo.logsa.army.mil,Unknown
 edmodemo.logsa.army.mil,Unknown
 lins.logsa.army.mil,Unknown
-redsc2lsa136249.logsa.army.mil,Unknown
 mc4.army.mil,Army - MC4
 mcaap.army.mil,McAlester Army Amunition Plant
 mcclellan.army.mil,"Fort McClellan, Ala."
@@ -1345,7 +1123,6 @@ merits.army.mil,Unknown
 milgaming.army.mil,Army Gaming
 monterey.army.mil,USAG Presidio of Monterey
 ms.army.mil,Army Modeling & Simulation Directorate
-mscoeweb.army.mil,Unknown
 msl.army.mil,Program Executive Officer for Missiles and Space (PEO MS)
 webtrac.mwr.army.mil,Unknown
 afs.natick.army.mil,Unknown
@@ -1382,7 +1159,6 @@ www2.mi.ngb.army.mil,Unknown
 mnarng.ngb.army.mil,Unknown
 msowa.ngb.army.mil,Unknown
 nc.ngb.army.mil,North Carolina National Guard
-wild21.nc.ngb.army.mil,Unknown
 ndguard.ngb.army.mil,North Dakota National Guard
 ngneowa.ne.ngb.army.mil,Unknown
 ngga-portal.ngb.army.mil,Unknown
@@ -1453,7 +1229,6 @@ ppbe.army.mil,Unknown
 psdr.army.mil,Unknown
 quartermaster.army.mil,"Quartermaster School, Fort Lee, Va."
 r2csr.army.mil,Unknown
-r2csr3.army.mil,Unknown
 redriver.army.mil,"Red River Army Depot (RRAD), Texas"
 redstone.army.mil,"Redstone Arsenal, Ala."
 cairs2.redstone.army.mil,Unknown
@@ -1470,7 +1245,6 @@ tmdehome.redstone.army.mil,Unknown
 usata.redstone.army.mil,Unknown
 wwwedis.redstone.army.mil,Unknown
 ref.army.mil,Rapid Equipping Force
-resilience.army.mil,Unknown
 ria-jmtc.ria.army.mil,Rock Island Arsenal Joint Manufacturing and Technology Center (JMTC)
 secureweb.ria.army.mil,Unknown
 riley.army.mil,"Fort Riley, Kansas"
@@ -1480,7 +1254,6 @@ rmda.army.mil,Freedom of Information Act Electronic Reading Room
 rp.army.mil,U.S. Army Garrison Rheinland-Pfalz
 rrs.army.mil,"Recruiting and Retention School, Fort Jackson, S.C."
 aesiptest.rsa.army.mil,Unknown
-plmplustest.rsa.army.mil,Unknown
 rtc.army.mil,Redstone Test Center (RTC)
 rucker.army.mil,U.S. Army Aviation Center of Excellence and Fort Rucker
 safety.army.mil,Army Safety (Combat Readiness Center)
@@ -1507,7 +1280,6 @@ spiritfit.army.mil,Virtual Spiritual Fitness Center
 sportal.army.mil,Unknown
 srleaders.army.mil,Unknown
 srw.army.mil,Unknown
-eiportal.ssf.army.mil,Unknown
 fc.ssf.army.mil,Unknown
 tip.ssf.army.mil,Unknown
 ssi.army.mil,"Soldier Support Institute, Fort Jackson, S.C."
@@ -1515,22 +1287,18 @@ stats.army.mil,Unknown
 stayarmyreserve.army.mil,Stay Army Reserve
 stewart.army.mil,"3rd Infantry Division, Fort Stewart, Ga."
 strategicstudiesinstitute.army.mil,U.S. Army War College Strategic Studies Institute
-strykernet2.army.mil,Unknown
 stuttgart.army.mil,"Stuttgart, U.S. Army Garrison"
 supportrecruiting.army.mil,Unknown
 survey.army.mil,Unknown
 autodiscover.afghan.swa.army.mil,Unknown
 rpc.afghan.swa.army.mil,Unknown
 webmail.afghan.swa.army.mil,Unknown
-autodiscover.swa.army.mil,Unknown
 webmail.swa.army.mil,Unknown
 swt.army.mil,Unknown
 tacom.army.mil,U.S. Army TACOM - Life Cycle Management Command - Integrated Logistics Support Center
 contracting.tacom.army.mil,Army Contracting Command - Warren (ACC-WRN) Procurement Network (ProcNet)
-cost.tacom.army.mil,U.S. Army TACOM LCMC Cost & Systems Analysis
 tag.army.mil,Unknown
 tamis.army.mil,Unknown
-tardec.army.mil,"Tank Automotive Research, Development and Engineering Center (TARDEC)"
 irris.tea.army.mil,Unknown
 tead.army.mil,"Tooele Army Depot, Utah"
 tec.army.mil,Topographic Engineering Center
@@ -1565,9 +1333,7 @@ afm7.us.army.mil,Unknown
 afm8.us.army.mil,Unknown
 afm9.us.army.mil,Unknown
 akocac.us.army.mil,Unknown
-akocomm.us.army.mil,Unknown
 akoim.us.army.mil,Unknown
-akologin.us.army.mil,Unknown
 armypubs.us.army.mil,Unknown
 atc.us.army.mil,Unknown
 authentix.us.army.mil,Unknown
@@ -1575,37 +1341,21 @@ awg.us.army.mil,Unknown
 cal.us.army.mil,Unknown
 ceava.us.army.mil,Unknown
 crewtraining.us.army.mil,Unknown
-cto.us.army.mil,Unknown
 culturaltool.us.army.mil,Unknown
-daispom-odcsint.us.army.mil,Unknown
-dodpkiauditassessment.us.army.mil,Unknown
-akocac.dr1.us.army.mil,Unknown
 eagle.us.army.mil,Unknown
 federation.us.army.mil,Unknown
 im.us.army.mil,Unknown
 informationassurance.us.army.mil,Unknown
-inscomgoesgreen.us.army.mil,Unknown
 itsweb.us.army.mil,Unknown
-itsweb02.us.army.mil,Unknown
-pibvlhhy01.pilot.jdp.us.army.mil,Unknown
 cryptomod.kc.us.army.mil,Unknown
 home.kc.us.army.mil,Unknown
-jpeocbd.kc.us.army.mil,Unknown
 sif.kc.us.army.mil,Unknown
 team.kc.us.army.mil,Unknown
-tools.kc.us.army.mil,Unknown
 login.us.army.mil,Unknown
 nogapsprofiler.us.army.mil,Unknown
-oc.us.army.mil,Unknown
 peoeis.us.army.mil,Unknown
 akocac.ps1.us.army.mil,Unknown
-scrg.us.army.mil,Unknown
-smac.us.army.mil,Unknown
-surveys.us.army.mil,Unknown
-videoweb.us.army.mil,Unknown
 webauth.us.army.mil,Unknown
-webdav.us.army.mil,Unknown
-wmcac.us.army.mil,Unknown
 usaac.army.mil,Unknown
 rotc.usaac.army.mil,Army Cadet Command
 usaals.army.mil,"Aviation Logistics School, Fort Eustis, Va. (USAALS)"
@@ -1620,13 +1370,11 @@ chl.erdc.usace.army.mil,Coastal and Hydraulics Laboratory (CHL)
 el.erdc.usace.army.mil,Environmental Laboratory (EL)
 gsl.erdc.usace.army.mil,Geotechnical and Structures Laboratory
 itl.erdc.usace.army.mil,Information Technology Laboratory (ITL)
-rsc-agisucpc.rsc.exn.usace.army.mil,Unknown
 mvn.usace.army.mil,"Official Website of New Orleans District, US Army Corps of Engineers"
 nid.usace.army.mil,Unknown
 nld.usace.army.mil,Unknown
 rsc-agisu.usace.army.mil,Unknown
 usmart.usace.army.mil,Unknown
-usafmsa.army.mil,Unknown
 usamma.army.mil,"USAMRMC Program Management Office, Integrated Clinical Systems (PMO ICS)"
 usammda.army.mil,U.S. Army Medical Materiel Development Activity (USAMMDA)
 usamraa.army.mil,U.S. Army Medical Research Acquisition Activity (USAMRAA)
@@ -1653,7 +1401,6 @@ vote.army.mil,Unknown
 wainwright.army.mil,USAG Fort Wainwright
 webcm.army.mil,Unknown
 wiesbaden.army.mil,U.S. Army Garrison Wiesbaden
-wise.army.mil,Unknown
 wood.army.mil,4th Maneuver Enhancement Brigade
 usamps.bb.wood.army.mil,Unknown
 cbrn.wood.army.mil,Unknown
@@ -1680,25 +1427,14 @@ fbch.capmed.mil,Fort Belvoir Community Hospital
 nicoe.capmed.mil,Unknown
 wrnmmc.capmed.mil,"Walter Reed Medical Center, Washington, D.C."
 wwcc.capmed.mil,Unknown
-cdn.mil,Content Delivery Network
 centcom.mil,Central Command
 autodiscover.centcom.mil,Unknown
 cfhlowa.centcom.mil,Unknown
 cfhmail.centcom.mil,Unknown
 cpas.centcom.mil,Unknown
-autodiscover.ds.centcom.mil,Unknown
-casarrayhq.ds.centcom.mil,Unknown
-hqlowa.ds.centcom.mil,Unknown
-hqmail.ds.centcom.mil,Unknown
-www6.ds.centcom.mil,Unknown
 hqlowa.centcom.mil,Unknown
 hqmail.centcom.mil,Unknown
-autodiscover.soccent.centcom.mil,Unknown
 mail.soccent.centcom.mil,Unknown
-mets.soccent.centcom.mil,Unknown
-owa.soccent.centcom.mil,Unknown
-pilot.soccent.centcom.mil,Unknown
-webmail.soccent.centcom.mil,Unknown
 www2.centcom.mil,Unknown
 www6.centcom.mil,Unknown
 oms-u.js.ces.mil,Unknown
@@ -1719,16 +1455,6 @@ portal.360.dcma.mil,Unknown
 autodiscover.dcma.mil,Unknown
 bluemaat1.dcma.mil,Unknown
 bluemaya3.dcma.mil,Unknown
-blue01vmaya10.conus.ds.dcma.mil,Unknown
-blue01vmaya11.conus.ds.dcma.mil,Unknown
-blue01vmaya12.conus.ds.dcma.mil,Unknown
-blue01vmaya13.conus.ds.dcma.mil,Unknown
-blue01vmaya14.conus.ds.dcma.mil,Unknown
-slvr01vmaya10.conus.ds.dcma.mil,Unknown
-slvr01vmaya11.conus.ds.dcma.mil,Unknown
-slvr01vmaya12.conus.ds.dcma.mil,Unknown
-slvr01vmaya13.conus.ds.dcma.mil,Unknown
-slvr01vmaya14.conus.ds.dcma.mil,Unknown
 econnect.dcma.mil,Unknown
 google.dcma.mil,Unknown
 home.dcma.mil,Unknown
@@ -1762,7 +1488,6 @@ ca-21.c3pki.chamb.disa.mil,Unknown
 email-ca-21.c3pki.chamb.disa.mil,Unknown
 email-sw.c3pki.chamb.disa.mil,Unknown
 id-sw.c3pki.chamb.disa.mil,Unknown
-id-sw.pki.gtm.chamb.disa.mil,Unknown
 cloudservices.disa.mil,Unknown
 crl.disa.mil,Unknown
 adls-qm.csd.disa.mil,Unknown
@@ -1778,7 +1503,6 @@ afwkc.csd.disa.mil,Unknown
 afwkc2.csd.disa.mil,Unknown
 ellc.learn.army.mil.edgekey.akamai.csd.disa.mil,Unknown
 amc.csd.disa.mil,Unknown
-htinhpqo.army.csd.disa.mil,Unknown
 utinhpqo.army.csd.disa.mil,Unknown
 af.ataaps.csd.disa.mil,ATAAPS
 athd-crm.csd.disa.mil,Training - Help Desk
@@ -1793,11 +1517,9 @@ ca-28.csd.disa.mil,Unknown
 cac1.csd.disa.mil,Unknown
 cac3.csd.disa.mil,Unknown
 centralpki.csd.disa.mil,Unknown
-com-golearn.csd.disa.mil,Unknown
 cpars.csd.disa.mil,Unknown
 dataxfer.csd.disa.mil,Unknown
 dmoapps.csd.disa.mil,Unknown
-dmrapps.csd.disa.mil,Unknown
 dtmo-crm.csd.disa.mil,Unknown
 dtmo-crm--pro.csd.disa.mil,Unknown
 dtmo-crm--rnt.csd.disa.mil,Unknown
@@ -1854,16 +1576,11 @@ marforres-crm--tst.csd.disa.mil,Unknown
 marforres-crm--upgrade.csd.disa.mil,Unknown
 miap.csd.disa.mil,Unknown
 miap-coop.csd.disa.mil,Unknown
-miap-test.csd.disa.mil,Unknown
 miaptest.csd.disa.mil,Unknown
 microsnap.csd.disa.mil,Unknown
-umechpae5.navy.csd.disa.mil,Unknown
-umechpae6.navy.csd.disa.mil,Unknown
-uslshpbm.navy.csd.disa.mil,Unknown
 nslcptsmh.csd.disa.mil,Unknown
 ors.csd.disa.mil,Operationally Responsive Space Office
 pdrep.csd.disa.mil,Unknown
-nnpi.pdrep.csd.disa.mil,Unknown
 unnpi.pdrep.csd.disa.mil,Unknown
 pmits.csd.disa.mil,Unknown
 pqdrii.csd.disa.mil,Unknown
@@ -1879,7 +1596,6 @@ uhilhp00.csd.disa.mil,Unknown
 umechpfb.csd.disa.mil,Unknown
 umechpfc.csd.disa.mil,Unknown
 umechpfd.csd.disa.mil,Unknown
-usajhp49.csd.disa.mil,Unknown
 vpn.csd.disa.mil,Unknown
 vpn-cols.csd.disa.mil,Unknown
 vpn-mech.csd.disa.mil,Unknown
@@ -1887,17 +1603,13 @@ vpn-ogdn.csd.disa.mil,Unknown
 webapps.csd.disa.mil,Unknown
 wmaafip.csd.disa.mil,Unknown
 id-sw.c3pki.den.disa.mil,Unknown
-disaconus.disa.mil,Unknown
 app.disaconus.disa.mil,Unknown
 disadirect.disa.mil,Unknown
 ditco.disa.mil,Unknown
 drr.disa.mil,Unknown
-drr-new.disa.mil,Unknown
 email-sw.disa.mil,Unknown
-esps.disa.mil,Unknown
 jit.fhu.disa.mil,Unknown
 crl.gds.disa.mil,Unknown
-crl1.gds.disa.mil,Unknown
 crl2.gds.disa.mil,Unknown
 dod411.gds.disa.mil,Unknown
 gnsc.disa.mil,Unknown
@@ -1907,49 +1619,24 @@ intranet.disa.mil,Unknown
 ca.intranet.disa.mil,Unknown
 reg.intranet.disa.mil,Unknown
 ssopki.intranet.disa.mil,Unknown
-ssopki-new.intranet.disa.mil,Unknown
-intranet-new.disa.mil,Unknown
-web1.mech.disa.mil,Unknown
-web3.mech.disa.mil,Unknown
-umechpae5.navy.disa.mil,Unknown
-umechpae6.navy.disa.mil,Unknown
 osdhsf1.ncr.disa.mil,Unknown
-netassurance.disa.mil,Unknown
 amclg.okc.disa.mil,Unknown
-web1.okc.disa.mil,Unknown
-umechpae5.oob.disa.mil,Unknown
-umechpae6.oob.disa.mil,Unknown
 owa.disa.mil,Unknown
-owa-new.disa.mil,Unknown
 ebis.satx.disa.mil,Unknown
 app1.west.sldcada.disa.mil,Unknown
 smart.stax.disa.mil,Unknown
-ugrt01r002piis03-east.stax.disa.mil,Unknown
 video.disa.mil,Unknown
 workspaces.disa.mil,Unknown
 alt.workspaces.disa.mil,Unknown
-workspaces-new.disa.mil,Unknown
-alt.workspaces-new.disa.mil,Unknown
-www-temp.disa.mil,Unknown
 distribute.mil,Unknown
 partner.distribute.mil,Unknown
 dla.mil,Defense Logistics Agency (DLA)
-ncb1sdva0900.dir.ad.dla.mil,Unknown
-ncb1sdva0901.dir.ad.dla.mil,Unknown
-ncb1sdva0900.use5.ad.dla.mil,Unknown
-ncb1sdva0901.use5.ad.dla.mil,Unknown
-uhilhu31.use6.ad.dla.mil,Unknown
-uhilhu32.use6.ad.dla.mil,Unknown
 auth-dod-emall.dla.mil,Unknown
-autodiscover.dla.mil,Unknown
-av.dla.mil,Unknown
 aviation.dla.mil,Unknown
 ellis.aviation.dla.mil,Unknown
 rmt.aviation.dla.mil,Unknown
 cotrinity.dla.mil,Unknown
-daps.dla.mil,Document Automation & Production Service
 doni.daps.dla.mil,Unknown
-forms.daps.dla.mil,Unknown
 fastracker.desc.dla.mil,Unknown
 pubweb.dispositionservices.dla.mil,Unknown
 wearedla.dispositionservices.dla.mil,Unknown
@@ -1958,7 +1645,6 @@ vsm.distribution.dla.mil,Unknown
 dlis.dla.mil,Defense Logistics Information Service (DLIS)
 apps.dlis.dla.mil,Unknown
 hmirsmsds.dlis.dla.mil,Unknown
-dnsc.dla.mil,Unknown
 dacspr.documentservices.dla.mil,Unknown
 api.dacspr.documentservices.dla.mil,Unknown
 demo.dacspr.documentservices.dla.mil,Unknown
@@ -1967,7 +1653,6 @@ forms.documentservices.dla.mil,Unknown
 dod-emall.dla.mil,Unknown
 drms.dla.mil,Unknown
 pubweb.drms.dla.mil,Unknown
-dmmonline.dscp.dla.mil,Unknown
 dscr.dla.mil,Unknown
 ellis.dscr.dla.mil,Unknown
 rmt.dscr.dla.mil,Unknown
@@ -1989,8 +1674,6 @@ ebis.humanresources.dla.mil,Unknown
 logisticsinformationservice.dla.mil,Unknown
 apps.logisticsinformationservice.dla.mil,Unknown
 hmirsmsds.logisticsinformationservice.dla.mil,Unknown
-logisticsinformationservices.dla.mil,Unknown
-hmirsmsds.logisticsinformationservices.dla.mil,Unknown
 mail.dla.mil,Unknown
 medical.dla.mil,Unknown
 okctrinity.dla.mil,Unknown
@@ -2008,20 +1691,17 @@ static.dma.mil,2013 CSAF Reading List
 spot.dmdc.mil,Unknown
 topss.dmdc.mil,Unknown
 dod.mil,United States Department of Defense
-biometrics.dod.mil,Biometrics Identity Management Agency
 codvt.dod.mil,Unknown
 connect.dco.dod.mil,Unknown
 connect1satx.dco.dod.mil,Unknown
 connect2satx.dco.dod.mil,Unknown
 connectcol.dco.dod.mil,Unknown
 defensetravel.dod.mil,Defense Travel Management Office
-jcoc.dod.mil,Joint Civilian Orientation Conference (JCOC)
 survey.jpeocbd.dod.mil,Unknown
 militaryblood.dod.mil,Armed Services Blood Program
 militaryhomefront.dod.mil,Military Children and Youth
 pfi.dod.mil,Personnel Force Innovation
 dodig.mil,Inspector General
-dodiis.mil,Department Of Defense Intelligence Information System
 dodlive.mil,Task Force Muleskinner
 armylive.dodlive.mil,ArmyLive Blog
 armygk.armylive.dodlive.mil,Golden Knights
@@ -2048,12 +1728,9 @@ dodtechipedia.mil,DoD Techipedia
 autodiscover.erdc.dren.mil,Unknown
 mail.erdc.dren.mil,Unknown
 mobile.erdc.dren.mil,Unknown
-ms-ex1vks.erdc.dren.mil,Unknown
-ms-ex2vks.erdc.dren.mil,Unknown
 webmail.erdc.dren.mil,Unknown
 dsca.mil,Defense Security Cooperation Agency (DSCA)
 pony.express.dsca.mil,Unknown
-public.dsca.mil,Unknown
 sc-ppbe.dsca.mil,Unknown
 dss.mil,Defense Security Service
 enrol.dss.mil,Unknown
@@ -2065,31 +1742,15 @@ sso2.dss.mil,Unknown
 stepp.dss.mil,Unknown
 dtic.mil,Defense Technical Information Center - (DTIC)
 acau.dtic.mil,Unknown
-acau-node1.dtic.mil,Unknown
-acau-node2.dtic.mil,Unknown
 ca.dtic.mil,Feedback
 cendi.dtic.mil,CENDI
-cvamp-node1.dtic.mil,Unknown
-cvamp-node2.dtic.mil,Unknown
 exhibits.dtic.mil,Unknown
-exhibits-node1.dtic.mil,Unknown
-exhibits-node2.dtic.mil,Unknown
 exhibits-prod-release.dtic.mil,Unknown
 exhibits-prod-release-ws.dtic.mil,Unknown
-exhibits-prod-release-ws1.dtic.mil,Unknown
-exhibits-prod-release-ws2.dtic.mil,Unknown
-exhibits-prod-release1.dtic.mil,Unknown
-exhibits-prod-release2.dtic.mil,Unknown
 exhibits-ws.dtic.mil,Unknown
 exhibits-ws1.dtic.mil,Unknown
 exhibits-ws2.dtic.mil,Unknown
 iac.dtic.mil,Unknown
-iac1.dtic.mil,Unknown
-iac2.dtic.mil,Unknown
-intrapfpa.dtic.mil,Unknown
-intrapfpa-node1.dtic.mil,Unknown
-intrapfpa-node2.dtic.mil,Unknown
-uxocoe-ca.dtic.mil,Unknown
 uxocoe-ca1.dtic.mil,Unknown
 uxocoe-ca2.dtic.mil,Unknown
 dtra.mil,Defense Threat Reduction Agency (DTRA)
@@ -2097,7 +1758,6 @@ umds1-vgw.cnttr.dtra.mil,Unknown
 indrac.dtra.mil,Unknown
 stars-legacy.dtra.mil,Unknown
 dtsa.mil,Defense Technology Security Administration (DTSA) Website
-eb.mil,Unknown
 esgr.mil,"Employer Support of the Guard and Reserve, National Committee for (ESGR)"
 esi.mil,Enterprise Software Initiative (ESI)
 eucom.mil,European Command
@@ -2116,78 +1776,27 @@ chembio.dhhq.health.mil,Unknown
 mhaquiz.dhhq.health.mil,Unknown
 prosight.dhhq.health.mil,Unknown
 rhca.dhhq.health.mil,Unknown
-autodiscover-hiusoc.gslb.health.mil,Unknown
-autodiscover-kldeoc.gslb.health.mil,Unknown
-autodiscover-mdusoc.gslb.health.mil,Unknown
-autodiscover-txusoc.gslb.health.mil,Unknown
-mail-hiusoc.gslb.health.mil,Unknown
-mail-kldeoc.gslb.health.mil,Unknown
-mail-mdusoc.gslb.health.mil,Unknown
-mail-txusoc.gslb.health.mil,Unknown
-oa-hiusoc.gslb.health.mil,Unknown
-oa-kldeoc.gslb.health.mil,Unknown
-oa-mdusoc.gslb.health.mil,Unknown
-oa-txusoc.gslb.health.mil,Unknown
-webmail.gslb.health.mil,Unknown
-webmail-hiusoc.gslb.health.mil,Unknown
-webmail-kldeoc.gslb.health.mil,Unknown
-webmail-mdusoc.gslb.health.mil,Unknown
-webmail-txusoc.gslb.health.mil,Unknown
-autodiscover-hiusoc.mhsi.health.mil,Unknown
-autodiscover-kldeoc.mhsi.health.mil,Unknown
-autodiscover-mdusoc.mhsi.health.mil,Unknown
-autodiscover-txusoc.mhsi.health.mil,Unknown
-oa.health.mil,Unknown
-oa-hiusoc.health.mil,Unknown
-oa-kldeoc.health.mil,Unknown
-oa-mdusoc.health.mil,Unknown
-oa-txusoc.health.mil,Unknown
-dodser.t2.health.mil,Unknown
 webmail.health.mil,Unknown
-webmail-hiusoc.health.mil,Unknown
-webmail-kldeoc.health.mil,Unknown
-webmail-mdusoc.health.mil,Unknown
-webmail-txusoc.health.mil,Unknown
 trmc.aedc.hpc.mil,Unknown
-rryoapipad.afrl-wrs.hpc.mil,Unknown
 arl.hpc.mil,U.S. Army Research Laboratory DOD Supercomputing Resource Center
-etp.arl.hpc.mil,Unknown
-etp-r1.arl.hpc.mil,Unknown
-etp-t1.arl.hpc.mil,Unknown
 help.ccac.hpc.mil,Unknown
 milcloud.ceif.hpc.mil,Unknown
 testforge.ceif.hpc.mil,Unknown
 daac.hpc.mil,Unknown
-callisto.erdc.hpc.mil,Unknown
 ieapp.erdc.hpc.mil,Unknown
 ieappsys.erdc.hpc.mil,Unknown
 portal.erdc.hpc.mil,Unknown
 resstaging.fedsun.hpc.mil,Unknown
 unrstaging.fedsun.hpc.mil,Unknown
-weather.fnmoc.hpc.mil,Unknown
-weather-alpha.fnmoc.hpc.mil,Unknown
-weather-beta.fnmoc.hpc.mil,Unknown
 helpdesk.hpc.mil,Unknown
 dportal.mhpcc.hpc.mil,Unknown
 portal.mhpcc.hpc.mil,Unknown
-micloud.hpc.mil,Unknown
-milcloud.hpc.mil,Unknown
-nwdc.hpc.mil,Unknown
 autodiscover.nwdc.hpc.mil,Unknown
 confluence.nwdc.hpc.mil,Unknown
 jira.nwdc.hpc.mil,Unknown
 webmail.nwdc.hpc.mil,Unknown
-webmail1.nwdc.hpc.mil,Unknown
-webmail2.nwdc.hpc.mil,Unknown
-[a[bncte.nwdclab.hpc.mil,Unknown
-confluence.nwdclab.hpc.mil,Unknown
-fisheye.nwdclab.hpc.mil,Unknown
-jira.nwdclab.hpc.mil,Unknown
-ncte.nwdclab.hpc.mil,Unknown
 portal.hpc.mil,Unknown
 dev.portal.hpc.mil,Unknown
-visualization.hpc.mil,Unknown
-ics.mil,Unknown
 idistribute.mil,Unknown
 jcs.mil,Joint Chiefs of Staff
 email.jcse.mil,Unknown
@@ -2215,23 +1824,19 @@ operations.jieddo.mil,Unknown
 register.jieddo.mil,Unknown
 jpmis.mil,Unknown
 contour.jpmis.mil,Unknown
-jira.jpmis.mil,Unknown
 jpmisex1.jpmis.mil,Unknown
 mail.jpmis.mil,Unknown
 jpra.mil,Joint Personnel Recovery Agency
-prportal.jpra.mil,Unknown
 prpublic.jpra.mil,Unknown
 public.jpra.mil,Unknown
 cvamp.js.mil,Unknown
 jtims.js.mil,Unknown
 jsf.mil,Joint Strike Fighter
 jce.xce.jsf.mil,Unknown
-portal.xce.jsf.mil,Unknown
 uag.xce.jsf.mil,Unknown
 jtdi.mil,Unknown
 upw.jtdi.mil,Unknown
 jten.mil,Joint Training and. Experimentation Network
-mail.mil,email
 web.mail.mil,Web mail
 marines.mil,Marine Corps
 10thmarines.marines.mil,10th Marine Regiment
@@ -2323,15 +1928,7 @@ mda.mil,Missile Defense Agency (MDA)
 medicalmuseum.mil,National Museum of Health and Medicine (NMHM)
 intranet.metc.mil,Unknown
 milcloud.mil,Unknown
-dr6253d2566v0.platform.milcloud.mil,Unknown
-dr6255d2570v0.platform.milcloud.mil,Unknown
-dr6256d2571v0.platform.milcloud.mil,Unknown
 usaf-acq.platform.milcloud.mil,Unknown
-utinhuh7.platform.milcloud.mil,Unknown
-utinhuh8.platform.milcloud.mil,Unknown
-utinhuh9.platform.milcloud.mil,Unknown
-utinhuhk.platform.milcloud.mil,Unknown
-utinhuhl.platform.milcloud.mil,Unknown
 militaryonesource.mil,Military OneSource
 alt.militaryonesource.mil,Unknown
 auth.alt.militaryonesource.mil,Unknown
@@ -2350,7 +1947,6 @@ pre.sso.militaryonesource.mil,Unknown
 uat.militaryonesource.mil,Unknown
 auth.uat.militaryonesource.mil,Unknown
 sso.uat.militaryonesource.mil,Unknown
-myseco.militaryonesrouce.mil,Unknown
 militaryvoter.mil,Unknown
 milsuite.mil,milSuite
 move.mil,Defense Personal Property Program
@@ -2365,7 +1961,6 @@ nationalguard.mil,National Guard
 navy.mil,Navy
 acquisition.navy.mil,"Director, Acquisition Career Management"
 acu1.navy.mil,Assault Craft Unit ONE
-acu5.navy.mil,Assault Craft Unit Five
 adr.navy.mil,Department of the Navy Alternate Dispute Resolution
 airtermnorva.navy.mil,Naval Air Terminal Norfolk
 alabama.navy.mil,USS Alabama (SSBN 731)
@@ -2376,17 +1971,13 @@ anzio.navy.mil,USS Anzio (CG 68)
 atgwp.navy.mil,"Afloat Training Group, Western Pacific"
 atsugi.navy.mil,Carrier Airborne Early Warning Squadron ONE ONE FIVE (VAW-115)
 awards.navy.mil,Navy Department Awards Web Service
-ncts.bahrain.navy.mil,Naval Computer and Telecommunications Station Bahrain
 bainbridge.navy.mil,USS Bainbridge (DDG-96)
 bataan.navy.mil,USS Bataan (LHD-5)
-blackhawk.navy.mil,USS Black Hawk (MHC-58)
 blue-ridge.navy.mil,USS Blue Ridge (LCC-19)
 blueangels.navy.mil,Navy Blue Angels
 pcedvr.bol.navy.mil,Unknown
 wepp.bol.navy.mil,Unknown
 bracpmo.navy.mil,"Naval Station Pascagoula, Miss."
-bradley.navy.mil,USS Robert G. Bradley (FFG 49)
-briscoe.navy.mil,USS Briscoe (DD-977)
 bulkeley.navy.mil,USS Bulkeley (DDG-84)
 cable.navy.mil,USS Frank Cable (AS-40)
 carter-hall.navy.mil,USS Carter Hall (LSD-50)
@@ -2403,28 +1994,21 @@ churchill.navy.mil,USS Winston S. Churchill (DDG-81)
 cleveland.navy.mil,USS Cleveland (LPD-7)
 clwp.navy.mil,Commander Logistics Group Western Pacific
 cmwc.navy.mil,Commander Mine Warfare Command (COMINEWARCOM)
-cnaf.navy.mil,"Commander, Naval Air Force, U.S. Pacific Fleet"
 cnatra.navy.mil,MATSG-22
 advancement.cnet.navy.mil,Navy Advancement Center
 sas.cnet.navy.mil,NETC-ES Shared Authentication Services (SAS)
 sasdv.cnet.navy.mil,Unknown
-wwwcfs.cnet.navy.mil,Navy Region Gulf Coast
 cnfj.navy.mil,"Commander, US Naval Forces, Japan"
 cnfk.navy.mil,"Commander, Fleet Activities Chinhae Korea"
-cni.navy.mil,Navy Voting Assistance Program (NVAP)
 cnic.navy.mil,"Commander, Navy Installations Command (CNIC)"
 militarychildcare.cnic.navy.mil,Unknown
 cnrc.navy.mil,Naval Orientation and Recruiting Unit
 onlineapp.cnrc.navy.mil,Unknown
-cnrne.navy.mil,Navy Region Northeast
-cnsrf.navy.mil,Navy Operational Support Center Dubuque IA
 cole.navy.mil,USS Cole (DDG-67)
 comnavelsg.navy.mil,Navy Cargo Handling Battalion TWELVE
 comomag.navy.mil,Commander Mobile Mine Assembly Group (COMOMAG)
 cook.navy.mil,USS Donald Cook (DDG-75)
 cool.navy.mil,Navy COOL
-corona.navy.mil,"Naval Surface Warfare Center, Corona Division"
-cotf.navy.mil,Commander Operational Test and Evaluation Force (COMOPTEVFOR)
 cowpens.navy.mil,USS Cowpens (CG-63)
 cpf.navy.mil,U.S. Pacific Fleet
 cpr1.navy.mil,"Commander, Amphibious Squadron ONE"
@@ -2434,39 +2018,26 @@ cprf7f5f.navy.mil,"Commander, Patrol and Reconnaissance Force Seventh Fleet, Fif
 cprw11.navy.mil,"Commander, Patrol and Reconnaissance Wing ELEVEN"
 cprw2.navy.mil,"Commander, Patrol and Reconnaissance Wing TWO"
 crane.navy.mil,"Naval Surface Warfare Center, Crane Division"
-SC21.crane.navy.mil,SC-21 Homepage
 peos.crane.navy.mil,PEO Surface Strike
 peoships.crane.navy.mil,DDG-1000
-sonobuoy.crane.navy.mil,Sonobuoy Homepage
-csg2.navy.mil,Submarine Group TWO
 csg9.navy.mil,COMSUBGRU-9
 csp.navy.mil,Commander Submarine Force U.S. Pacific fleet
 css11.navy.mil,USS Helena (SSN-725)
 ctf74.navy.mil,Commander Submarine Group 7 - Commander Task Force 54 - Commander Task Force 74
 ctf76.navy.mil,Amphibious Force Seventh Fleet Website
-ctg1.navy.mil,"Commander, Tactical Air Control Group ONE"
 cusnc.navy.mil,US Naval Forces Central Command - US Fifth Fleet
-cusns.navy.mil,"Commander, U.S. Naval Forces Southern Command"
 cvn70.navy.mil,USS Carl Vinson (CVN 70)
-cvn72.navy.mil,USS Abraham Lincoln (CVN 72)
 cvn74.navy.mil,USS John C. Stennis (CVN-74)
-davis.navy.mil,USS Rodney M Davis (FFG-60)
 decatur.navy.mil,USS Decatur (DDG-73)
-denver.navy.mil,USS Denver (LPD-9)
 desron15.navy.mil,"Commander, Destroyer Squadron Fifteen (CDS-15)"
-detroit.navy.mil,USS Detroit (AOE-4)
 dewey.navy.mil,USS Dewey (DDG-105)
-deyo.navy.mil,USS Deyo (DD 989)
 doncio.navy.mil,Department of the Navy Chief Information Officer
 donhq.navy.mil,"Research, Development and Acquisition"
 secnavportal.donhq.navy.mil,Installations and Environment
 donhr.navy.mil,Civilian Federal Careers
 chart.donhr.navy.mil,Civilain Career Development
-doyle.navy.mil,USS Doyle (FFG-39)
-dt.navy.mil,"Naval Surface Warfare Center, Carderock Division"
 boats.dt.navy.mil,Unknown
 dubuque.navy.mil,USS Dubuque (LPD-8)
-duluth.navy.mil,USS Duluth (LPD-6)
 eisenhower.navy.mil,USS Dwight D. Eisenhower (CVN-69)
 enterprise.navy.mil,USS Enterprise (CVN-65)
 enviro-navair.navy.mil,NAVAIR Environmental Team
@@ -2478,32 +2049,12 @@ ethics.navy.mil,Department of the Navy Ethics Compass
 webvpn.eu.navy.mil,Unknown
 facsfacjax.navy.mil,"Fleet Area Control and Surveillance Facility, Jacksonville, FL"
 facsfacsd.navy.mil,"FACSFAC San Diego, CA"
-fasolant.navy.mil,"Fleet Aviation Specialized Operational Training Group, Altantic Fleet"
-fasw.navy.mil,Fleet Anti-Submarine Warfare Training Center
-fcg.navy.mil,FLTCOORDGRU Web Page
 gw.ffc.navy.mil,USS George Washington (CVN-73)
-fife.navy.mil,USS Fife (DD-991)
 fitzgerald.navy.mil,USS Fitzgerald (DDG 62)
-florida.navy.mil,USS Florida (SSGN 728)
 fnmoc.navy.mil,"Meteorology and Oceanography Center, Navy Fleet Numerical"
-a4au-m1.fnmoc.navy.mil,Unknown
-a4bu-m1.fnmoc.navy.mil,Unknown
-a4ou-m1.fnmoc.navy.mil,Unknown
-asa-v1.fnmoc.navy.mil,Unknown
-asa-v2.fnmoc.navy.mil,Unknown
-beryl-m1.fnmoc.navy.mil,Unknown
 bft.fnmoc.navy.mil,Unknown
 bftd.fnmoc.navy.mil,Unknown
 bftn.fnmoc.navy.mil,Unknown
-hbss-foc.fnmoc.navy.mil,Unknown
-naccampr01.fnmoc.navy.mil,Unknown
-naccams01.fnmoc.navy.mil,Unknown
-naccasibpr01.fnmoc.navy.mil,Unknown
-naccasibpr02.fnmoc.navy.mil,Unknown
-naccasoobpr01.fnmoc.navy.mil,Unknown
-naccasoobpr02.fnmoc.navy.mil,Unknown
-nds01.fnmoc.navy.mil,Unknown
-nds02.fnmoc.navy.mil,Unknown
 nesso.fnmoc.navy.mil,Unknown
 nesso-alpha.fnmoc.navy.mil,Unknown
 nesso-beta.fnmoc.navy.mil,Unknown
@@ -2513,21 +2064,14 @@ portal-beta.fnmoc.navy.mil,Unknown
 weather.fnmoc.navy.mil,Unknown
 weather-alpha.fnmoc.navy.mil,Unknown
 weather-beta.fnmoc.navy.mil,Unknown
-zircon-m1.fnmoc.navy.mil,Unknown
 foia.navy.mil,FOIA
 ford.navy.mil,USS Ford (FFG-54)
 fort-mchenry.navy.mil,USS Fort McHenry (LSD-43)
-foster.navy.mil,USS Paul F. Foster (DD-964)
 gary.navy.mil,USS Gary (FFG-51)
-george-philip.navy.mil,USS George Philip (FFG-12)
 georgia.navy.mil,USS Georgia (SSGN 729)
 germantown.navy.mil,USS Germantown (LSD-42)
 gettysburg.navy.mil,USS Gettysburg (CG-64)
-groves.navy.mil,USS Stephen W. Groves (FFG-29)
-halyburton.navy.mil,USS Halyburton (FFG-40)
 harpers-ferry.navy.mil,USS Harpers Ferry (LSD-49)
-hc3.navy.mil,Helicopter Sea Combat Squadron THREE (HC-3)
-heron.navy.mil,USS Heron (MHC-52)
 higgins.navy.mil,USS Higgins (DDG-76)
 history.navy.mil,Naval History & Heritage Command
 author.history.navy.mil,Unknown
@@ -2541,95 +2085,64 @@ finance.hq.navy.mil,Financial Management and Comptroller
 hrojax.navy.mil,"Human Resources Office, Jacksonville, FL"
 hronorfolk.navy.mil,"Human Resources Office, Norfolk"
 hs11.navy.mil,Helicopter Anti-Submarine Squadron ELEVEN (HS-11)
-hs2.navy.mil,Helicopter Anti-Submarine Squadron TWO (HS-2)
 hs7.navy.mil,Helicopter Anti-Submarine Squadron SEVEN (HS-7)
-hs8.navy.mil,Helicopter Anti-Submarine Squadron EIGHT (HS-8)
 hsc25.navy.mil,Helicopter Sea Combat Squadron TWENTY FIVE (HSC-25)
 hsc26.navy.mil,Helicopter Sea Combat Squadron TWO SIX (HSC-26)
 hsc28.navy.mil,Helicopter Sea Combat Squadron TWO EIGHT (HSC-28)
 hscwsl.navy.mil,Helicopter Sea Combat Weapons School Atlantic
 hsl40.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR ZERO (HSL-40)
 hsl42.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR TWO (HSL-42)
-hsl43.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR THREE (HSL-43)
-hsl44.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR FOUR (HSL-44)
 hsl46.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR SIX (HSL-46)
 hsl49.navy.mil,Helicopter Anti-Submarine Squadron Light FOUR NINE (HSL-49)
 hue-city.navy.mil,USS Hue City (CG-66)
 ig.navy.mil,Naval Inspector General
-ih.navy.mil,"Naval Packaging, Handling, Storage, and Transportation Center"
-imfb.navy.mil,"Intermediate Maintenance, Facility, Bangor"
 infosec.navy.mil,Navy INFOSEC Website (CAC required)
-ingraham.navy.mil,USS Ingraham (FFG-61)
 it-umbrella.navy.mil,Connecting Technology
 iwo-jima.navy.mil,USS Iwo Jima (LHD-7)
 jackson.navy.mil,USS Henry M. Jackson (SSBN 730)
 jag.navy.mil,Navy Judge Advocate General Office
 uat.jag.navy.mil,Unknown
-juneau.navy.mil,USS Juneau (LPD-10)
 kearsarge.navy.mil,USS Kearsarge (LHD-3)
 kentucky.navy.mil,USS Kentucky (SSBN 737)
-kinkaid.navy.mil,USS Kinkaid (DD-965)
-kittyhawk.navy.mil,USS Kitty Hawk (CV-63)
-klakring.navy.mil,USS Klakring (FFG-42)
 laboon.navy.mil,USS Laboon (DDG 58)
 lake-champlain.navy.mil,USS Lake Champlain (CG-57)
 lake-erie.navy.mil,USS Lake Erie (CG-70)
-lamadd.navy.mil,NAVSUPPACT La Maddalena
 lassen.navy.mil,USS Lassen (DDG-82)
-lemoore.navy.mil,Strike Fighter Squadron ONE FOUR SEVEN (VFA-147)
 lhd6.navy.mil,USS Bonhomme Richard (LHD-6)
-lifelines.navy.mil,Lifelines
 louisiana.navy.mil,USS Louisiana (SSN 743)
 mahan.navy.mil,USS Mahan (DDG-72)
 maine.navy.mil,USS Maine (SSBN 741)
 mason.navy.mil,USS Mason (DDG 87)
 mccain.navy.mil,USS John S. McCain (DDG-56)
 mccampbell.navy.mil,USS McCampbell (DDG-85)
-mcclusky.navy.mil,USS McClusky (FFG 41)
 mcfaul.navy.mil,USS McFaul (DDG-74)
-mcinerney.navy.mil,USS McInerney (FFG 8)
-mdsu1.navy.mil,Mobile Diving and Salvage Unit ONE
 med.navy.mil,Naval Hospital Jacksonville website
 1es.med.navy.mil,Unknown
-1esportal.med.navy.mil,Unknown
 admin.med.navy.mil,Unknown
 bethesda.med.navy.mil,National Naval Medical Center
-bmadmin.med.navy.mil,Unknown
 bmed.med.navy.mil,Unknown
-dmz-tmg-01.med.navy.mil,Unknown
-dmz-tmg-02.med.navy.mil,Unknown
-dmz-tmg-01.nmed.ds.med.navy.mil,Unknown
-dmz-tmg-02.nmed.ds.med.navy.mil,Unknown
-nmpdc-formweb.nmed.ds.med.navy.mil,Unknown
-nmpdcstudent.nmed.ds.med.navy.mil,Unknown
 es.med.navy.mil,Unknown
-esadmin.med.navy.mil,Unknown
 esportal.med.navy.mil,Unknown
 jmesp.med.navy.mil,Unknown
 my.med.navy.mil,Unknown
 navmedmpte.med.navy.mil,"Naval School of Health Sciences, Norfolk, VA"
-navymedicine.med.navy.mil,Bureau of Medicine and Surgery (BUMED)
 nepmu6.med.navy.mil,Navy Environmental and Preventive Medicine Unit SIX
 nh-bremerton.med.navy.mil,Unknown
 nhchasn.med.navy.mil,"Naval Hospital, Charleston SC"
 nhcne.med.navy.mil,Naval Health Care New England
 nhso.med.navy.mil,Naval Healthcare Support Office
 nhyoko.med.navy.mil,"Naval Hospital, Yokosuka, Japan"
-nmadmin.med.navy.mil,Unknown
 help.nmcp.med.navy.mil,Unknown
 nmissa.med.navy.mil,Unknown
 sift.nmotc.med.navy.mil,Unknown
 nmpdcstudent.med.navy.mil,Unknown
 nomi.med.navy.mil,Naval Operational Medicine Institute
 apps2.nomi.med.navy.mil,Unknown
-psadmin.med.navy.mil,Unknown
 rooseyroads.med.navy.mil,Naval Hospital Roosevelt Roads
-search.med.navy.mil,Unknown
 usnhguam.med.navy.mil,Naval Hospital Guam
 www-nehc.med.navy.mil,Navy Environmental Health Center
 www-nmcp.med.navy.mil,"Naval Medical Center Portsmouth, VA"
 www-nmlc.med.navy.mil,Naval Medical Logistics Command
-mediacen.navy.mil,Duty in Europe
 mesa-verde.navy.mil,USS Mesa Verde LPD 19
 id.metnet.navy.mil,Unknown
 svn.metnet.navy.mil,Unknown
@@ -2640,120 +2153,46 @@ mitscher.navy.mil,USS Mitscher (DDG-57)
 mobile-bay.navy.mil,USS Mobile Bay (CG 53)
 momsen.navy.mil,USS Momsen (DDG 92)
 monterey.navy.mil,USS Monterey (CG 61)
-mount-vernon.navy.mil,USS Mount Vernon (LSD-39)
 msc.navy.mil,Military Sealift Command
 mtwhitney.navy.mil,USS Mount Whitney (LCC/JCC-20)
 mustin.navy.mil,USS Mustin (DDG-89)
-mypromis.navy.mil,Unknown
-nadepni.navy.mil,"Naval Aviation Depot, North Island, San Diego CA"
-nadn.navy.mil,The United States Naval Academy
-naeanrfkws07av.nadsusea.nads.navy.mil,Unknown
-naeanrfkws07bv.nadsusea.nads.navy.mil,Unknown
-naeanrfkws08p.nadsusea.nads.navy.mil,Unknown
-nmcisdniws03av.nadsuswe.nads.navy.mil,Unknown
-nmcisdniws03bv.nadsuswe.nads.navy.mil,Unknown
-nmcisdniws03cv.nadsuswe.nads.navy.mil,Unknown
-naples.navy.mil,"Naval Regional Contracting Center Naples, Italy"
-ncts.naples.navy.mil,"Naval Computer and Telecommunications Area Master Station EURCENT, Naples, Italy"
-nsa.naples.navy.mil,Navy Support Element AFSOUTH
-nashville.navy.mil,USS Nashville (LPD-13)
-nasjrbfw.navy.mil,"Naval Air Station Joint Reserve Base, Fort Worth, TX"
-nasoceana.navy.mil,US Navy Landing Signal Officer School
 navair.navy.mil,Naval Air Systems Command
 cmis.navair.navy.mil,Unknown
-cmistest.navair.navy.mil,Unknown
 elis.navair.navy.mil,Unknown
 gosnet.navair.navy.mil,Unknown
-test.imd_alm.navair.navy.mil,Unknown
-ircms.navair.navy.mil,Unknown
 its.navair.navy.mil,Unknown
-itstemp.navair.navy.mil,Unknown
 itstest.navair.navy.mil,Unknown
-itstesttemp.navair.navy.mil,Unknown
-jobstestspawar.navair.navy.mil,Unknown
 jswag.navair.navy.mil,Unknown
 measure.navair.navy.mil,Unknown
 measuredev.navair.navy.mil,Unknown
 mfs.navair.navy.mil,Unknown
 mynatec.navair.navy.mil,Unknown
-mynatecdev.navair.navy.mil,Unknown
-mynatecdevws.navair.navy.mil,Unknown
-mynatecdmz.navair.navy.mil,Unknown
 mynatecjtdi.navair.navy.mil,Unknown
-mynatectest.navair.navy.mil,Unknown
-mynatectestws.navair.navy.mil,Unknown
 mynatecws.navair.navy.mil,Unknown
 mynavair.navair.navy.mil,Unknown
-mynavairdev.navair.navy.mil,Unknown
 mynavairstaging.navair.navy.mil,Unknown
-mynavairtest.navair.navy.mil,Unknown
 nateu.navair.navy.mil,Unknown
 navaircat.navair.navy.mil,Unknown
 navairu.navair.navy.mil,Unknown
-navairudev.navair.navy.mil,Unknown
-navairustage.navair.navy.mil,Unknown
-navairutest.navair.navy.mil,Unknown
 navidasreports.navair.navy.mil,Unknown
-navidasstage.navair.navy.mil,Unknown
-navidastest.navair.navy.mil,Unknown
 navpass.navair.navy.mil,Unknown
-nawctsd.navair.navy.mil,Naval Air Warfare Center Training Systems Division
-neartest.navair.navy.mil,Unknown
 nhd.navair.navy.mil,Unknown
-nhddev.navair.navy.mil,Unknown
-nhdtest.navair.navy.mil,Unknown
 obligations.navair.navy.mil,Unknown
-p3union.navair.navy.mil,Unknown
-p3uniontest.navair.navy.mil,Unknown
 performadex.navair.navy.mil,Unknown
 pma260.navair.navy.mil,Unknown
 pma261.navair.navy.mil,Unknown
 pma273.navair.navy.mil,Unknown
-pma273qa.navair.navy.mil,Unknown
 prdwebserv5.navair.navy.mil,Unknown
-prdwebserv8.navair.navy.mil,Unknown
-psrdev.navair.navy.mil,Unknown
-psrtemp.navair.navy.mil,Unknown
-psrtest.navair.navy.mil,Unknown
-pxdcnet.navair.navy.mil,Unknown
 ram.navair.navy.mil,Unknown
-ramtest.navair.navy.mil,Unknown
 ramtrain.navair.navy.mil,Unknown
-rangernetqa.navair.navy.mil,Unknown
-sandt.navair.navy.mil,Unknown
-sandtdev.navair.navy.mil,Unknown
-sandtstage.navair.navy.mil,Unknown
-sandttest.navair.navy.mil,Unknown
-sannerp001.navair.navy.mil,Unknown
-search.navair.navy.mil,Unknown
-section508.navair.navy.mil,Unknown
 sharetsd.navair.navy.mil,Unknown
 survey.navair.navy.mil,Unknown
-test.navair.navy.mil,Unknown
-test-heat.navair.navy.mil,Unknown
-testimd_alm.navair.navy.mil,Unknown
-testits.navair.navy.mil,Unknown
-testtsd.navair.navy.mil,Unknown
 tfrtools.navair.navy.mil,Unknown
-tfsasdr.navair.navy.mil,Unknown
-tfsasdrtest.navair.navy.mil,Unknown
-v22fsttest.navair.navy.mil,Unknown
-wdcontracts.navair.navy.mil,Unknown
 webbpa.navair.navy.mil,Unknown
-webservdev.navair.navy.mil,Unknown
 webservices.navair.navy.mil,Unknown
-webstat.navair.navy.mil,Unknown
 wms.navair.navy.mil,Unknown
 wmscs.navair.navy.mil,Unknown
-wmsdev.navair.navy.mil,Unknown
-wmsdevcs.navair.navy.mil,Unknown
 wmstest.navair.navy.mil,Unknown
-wmstestcs.navair.navy.mil,Unknown
-wmsws.navair.navy.mil,Unknown
-wmswsdev.navair.navy.mil,Unknown
-wmswstest.navair.navy.mil,Unknown
-zyross.navair.navy.mil,Unknown
-navak.navy.mil,U.S. Naval Forces Alaska
 navfac.navy.mil,Naval Facilities Engineering Command (NAVFAC)
 infraocs.navfac.navy.mil,Unknown
 locks.navfac.navy.mil,Unknown
@@ -2769,11 +2208,9 @@ nossa.navsea.navy.mil,Naval Ordnance Safety and Security Activity (NOSSA/SEA-00V
 intranet.nossa.navsea.navy.mil,Unknown
 wise.navseadn.navy.mil,Unknown
 navsup.navy.mil,DON Consolidated Card Program Management Division (CCPMD)
-sas.navsup.navy.mil,Unknown
 navyband.navy.mil,"Navy Band (Washington, DC)"
 navycollege.navy.mil,Navy College Program
 navyenterprise.navy.mil,Navy Enterprise
-navyexipe.navy.mil,Excess Industrial Plant Equipment
 navyfamily.navy.mil,Affected Navy Family Assistance
 nfda.navyfamily.navy.mil,Unknown
 pki.navyfamily.navy.mil,Unknown
@@ -2781,12 +2218,9 @@ navyreading.navy.mil,Navy Professional Reading Program
 navyreserve.navy.mil,Navy Reserve
 navysecurity.navy.mil,"CNO, Information and Personnel Security Programs N09N2"
 ncca.navy.mil,Naval Center for Cost Analysis
-ncic.navy.mil,Network Centric Innovation Center
 ncis.navy.mil,Naval Criminal Investigative Service
-legacyowa.ncis.navy.mil,Unknown
 webmail.ncis.navy.mil,Unknown
 ncmo.navy.mil,Unknown
-nctams-london.navy.mil,"Naval Computer and Telecommunications Area Master Station EURCENT Detachment London, UK"
 nctamslant.navy.mil,"Naval Computer and Telecommunications Area Master Station LANT, DET Pensacola, FL"
 nctamspac.navy.mil,Naval Computer and Telecommunications Area Master Station Pacific Detachment Puget Sound
 nctsfe.navy.mil,"Naval Computer and Telecommunications Station, Far East, Yokosuka, Japan"
@@ -2795,7 +2229,6 @@ nctssd.navy.mil,"Naval Computer and Telecommunications Station, San Diego CA"
 near.navy.mil,Unknown
 nebraska.navy.mil,USS Nebraska (SSBN 739)
 necc.navy.mil,Consolidated Divers Unit
-nelp.navy.mil,Navy Environmental Leadership Program (NELP)
 netc.navy.mil,Center for Seabees and Facilities Engineering
 edmz-pcola-ctx.netc.navy.mil,Unknown
 pcola-ctx.netc.navy.mil,Unknown
@@ -2803,8 +2236,6 @@ www1.netc.navy.mil,Naval Service Training Command
 netwarcom.navy.mil,Naval Network Warfare Command
 nevada.navy.mil,USS Nevada (SSBN 733)
 new-orleans.navy.mil,USS New Orleans (LPD 18)
-news.navy.mil,All Hands Magazine
-nicholas.navy.mil,USS Nicholas (FFG-47)
 nimitz.navy.mil,USS Nimitz (CVN-68)
 nioc-norfolk.navy.mil,Navy Information Operations Command - Norfolk
 niocmd.navy.mil,Navy Information Operations Command - Maryland
@@ -2835,13 +2266,10 @@ vp46.ahf.nmci.navy.mil,Patrol Squadron FORTY SIX (VP-46)
 vq-1.ahf.nmci.navy.mil,Fleet Air Reconnaissance Squadron ONE (VQ-1)
 vq-2.ahf.nmci.navy.mil,Fleet Air Reconnaissance Squadron TWO (VQ-2)
 webslatest1.ahf.nmci.navy.mil,Unknown
-wp2.ahf.nmci.navy.mil,Unknown
-wp3.ahf.nmci.navy.mil,Unknown
 iraps.nmci.navy.mil,Unknown
 itsmweb.ndcsd.nmci.navy.mil,Unknown
 itsmwebqa.ndcsd.nmci.navy.mil,Unknown
 servicedesk.ndcsd.nmci.navy.mil,Unknown
-servicedeskqa.ndcsd.nmci.navy.mil,Unknown
 nossa.nmci.navy.mil,Unknown
 nsipsprod.nmci.navy.mil,Navy Standard Integrated Personnel System (NSIPS)
 prisms.nmci.navy.mil,Unknown
@@ -2852,22 +2280,15 @@ supportwebqa.sscno.nmci.navy.mil,Unknown
 sslnorfolk.nmci.navy.mil,Unknown
 sslsandiego.nmci.navy.mil,Unknown
 webmail.nmci.navy.mil,Unknown
-nmic.navy.mil,Office of Naval Intelligence
 nmso.navy.mil,Navy Modeling and Simulation Management Office (NAVMSMO)
 www2.nmso.navy.mil,Unknown
 nnic.navy.mil,Unknown
 nnsy1.navy.mil,Mid-Atlantic Regional Maintenance Center
-nol.navy.mil,Sea Control Squadron THREE THREE (VS-33)
 normandy.navy.mil,USS Normandy (CG 60)
 npc.navy.mil,Shift Colors-Navy Retiree Newsletter
-npdc.navy.mil,Naval Personnel Development Command
-npmoc.navy.mil,Naval Pacific Meteorology and Oceanography Center
-npmoc-sd.navy.mil,"Naval Pacific Meteorology and Oceanography Center, San Diego"
 nprst.navy.mil,"Navy Personnel Research, Studies, and Technology"
 nps.navy.mil,Defense Resources Management Institute
-nrfh9.navy.mil,Naval Reserve Fleet Hospital NINE
 nrl.navy.mil,Naval Center for Space Technology
-ssdd.ccs.nrl.navy.mil,Unknown
 chemistry.nrl.navy.mil,SECNAV Safety & Survivability
 ieapp.cmf.nrl.navy.mil,Unknown
 mapserver.cmf.nrl.navy.mil,Unknown
@@ -2885,15 +2306,8 @@ library.nrl.navy.mil,Unknown
 in.library.nrl.navy.mil,Unknown
 tn.library.nrl.navy.mil,Unknown
 public-redirect.nrl.navy.mil,Unknown
-reserves.nrl.navy.mil,Naval Research Laboratory Science and Technology Unit 206
 simdis.nrl.navy.mil,Unknown
-tn.nrl.navy.mil,Unknown
 torpedo.nrl.navy.mil,Unknown
-nsamidsouth.navy.mil,The BlueJacket
-nsga-kunia.navy.mil,Navy Information Operations Command - Hawaii
-nsi.navy.mil,"Naval Station Ingleside, TX"
-nssfnl.navy.mil,"Naval Submarine Support Facility New London, CT"
-nswc.navy.mil,"Naval Surface Warfare Center, Dahlgren Division"
 boats.nswccd.navy.mil,Unknown
 ntip.navy.mil,Naval Treaty Implementation Program
 nuwc.navy.mil,Naval Undersea Warfare Center
@@ -2901,27 +2315,19 @@ npt.nuwc.navy.mil,Atlantic Undersea Test and Evaluation Center
 nvr.navy.mil,Naval Vessel Register
 nwc.navy.mil,"Chief of Naval Operations, Strategic Studies Group"
 o-kane.navy.mil,USS O'Kane (DDG-77)
-obannon.navy.mil,USS O'Bannon (DD-987)
-obrien.navy.mil,USS O'Brien (DD-975)
 oceanographer.navy.mil,Navigator of the Navy
 nepoc.oceanography.navy.mil,Unknown
 nepoc-alpha.oceanography.navy.mil,Unknown
 nepoc-beta.oceanography.navy.mil,Unknown
 ogc.navy.mil,Department of the Navy Office of the General Counsel
-ogden.navy.mil,USS Ogden (LPD 5)
 ohio.navy.mil,USS Ohio (SSGN 726)
 onr.navy.mil,Office of Naval Research
 adminweb.onr.navy.mil,Unknown
-devextranet.onr.navy.mil,Unknown
-devmyextranet.onr.navy.mil,Unknown
 external.onr.navy.mil,Unknown
 extranet.onr.navy.mil,Unknown
-intra.onr.navy.mil,Unknown
 myextranet.onr.navy.mil,Unknown
 onrexsrvr02.onr.navy.mil,Unknown
 onrexsrvr09.onr.navy.mil,Unknown
-onrexsrvr12.onr.navy.mil,Unknown
-onrexsrvr23.onr.navy.mil,Unknown
 onrexsrvr30.onr.navy.mil,Unknown
 onrhqsecure.onr.navy.mil,Unknown
 onronline.onr.navy.mil,Unknown
@@ -2930,71 +2336,42 @@ payweb.onr.navy.mil,Unknown
 promis-training.onr.navy.mil,Unknown
 secure.onr.navy.mil,Unknown
 secureprod.onr.navy.mil,Unknown
-onrglobal.navy.mil,Unknown
 oscar-austin.navy.mil,USS Oscar-Austin (DDG-79)
-osprey.navy.mil,USS Osprey (MHC-51)
 patriot.navy.mil,USS Patriot (MCM-7)
 paul-hamilton.navy.mil,USS Paul Hamilton DDG-60
-peleliu.navy.mil,USS Peleliu (LHA-5)
 pennsylvania.navy.mil,USS Pennsylvania (SSBN 735)
-portal.peoeis.navy.mil,Program Executive Office for Information Technology
-phdnswc.navy.mil,"Naval Surface Warfare Center, Port Hueneme Division"
 pinckney.navy.mil,USS Pinckney (DDG 91)
 pmses.navy.mil,Unknown
 ponce.navy.mil,USS Ponce (LPD-15)
 port-royal.navy.mil,USS Port Royal (CG 73)
 portal.navy.mil,Unknown
 inavy.accessrequest.portal.navy.mil,Unknown
-approval.portal.navy.mil,Unknown
 arc.portal.navy.mil,Unknown
 cpf.portal.navy.mil,Unknown
-extranet.portal.navy.mil,Unknown
 fcc-c10f.portal.navy.mil,Unknown
-inavseasan-prod-v0006.portal.navy.mil,Unknown
-inavywildcard.portal.navy.mil,Unknown
 mpte.portal.navy.mil,Unknown
-navsup.portal.navy.mil,Unknown
-nsw.portal.navy.mil,Unknown
-nwdc.portal.navy.mil,Unknown
 opnav.portal.navy.mil,Unknown
-spawar.portal.navy.mil,Unknown
 usff.portal.navy.mil,Unknown
-wildcard.portal.navy.mil,Unknown
-portland.navy.mil,USS Portland (LSD-37)
 ports.navy.mil,Portsmouth Naval Shipyard
 preble.navy.mil,USS Preble (DDG 88)
 preproduction-ncmo.navy.mil,Unknown
 preproduction-nnic.navy.mil,Unknown
 princeton.navy.mil,USS Princeton (CG-59)
 promis.navy.mil,Unknown
-psalant.navy.mil,"Personnel Support Activity, Norfolk, VA"
-psapac.navy.mil,"Personnel Support Activity, Pacific"
-psns.navy.mil,Northwest Regional Maintenance Center
 public.navy.mil,Department of Defense Executive Agent for Maritime Domain Awareness
 q-70.navy.mil,Unknown
 q70.navy.mil,Unknown
-radford.navy.mil,USS Arthur W. Radford (DD-968)
 ramage.navy.mil,USS Ramage (DDG-61)
-raven.navy.mil,USS Raven (MHC-61)
 ready.navy.mil,Ready Navy
 reagan.navy.mil,USS Ronald Reagan (CVN-76)
-reuben-james.navy.mil,USS Reuben James (FFG-57)
-robin.navy.mil,USS Robin (MHC-54)
 ross.navy.mil,USS Ross (DDG-71)
-nctams.rota.navy.mil,"Naval Security Group Activity, Rota"
-rso.navy.mil,Regional Support Organization San Diego
 rushmore.navy.mil,USS Rushmore (LSD-47)
 russell.navy.mil,USS Russell (DDG-59)
-sacramento.navy.mil,USS Sacramento (AOE-1)
 safetycenter.navy.mil,Approach Magazine
-saipan.navy.mil,USS Saipan (LHA 2)
 salts.navy.mil,Streamlined Automated Logistics Transmission System (SALTS) Project
-members.salts.navy.mil,NR NAVHIST VTU 0615
 web.salts.navy.mil,Unknown
 san-antonio.navy.mil,USS San Antonio (LPD 17)
 sanjacinto.navy.mil,USS San Jacinto (CG-56)
-sbath.navy.mil,"Supervisor of Shipbuilding, Conversion & Repair, Bath, Maine"
-scsc.navy.mil,"Surface Combat Systems Center Wallops Island, VA"
 seabee.navy.mil,1st Naval Construction Division
 sealchallenge.navy.mil,SEAL Recruiting
 secnav.navy.mil,SES Biographies
@@ -3002,7 +2379,6 @@ secondfleet.navy.mil,U.S. Second Fleet - NATO Stirking Fleet Atlantic
 sentry.navy.mil,USS Sentry (MCM-3)
 shiloh.navy.mil,USS Shiloh (CG-67)
 simpson.navy.mil,USS Simpson (FFG-56)
-slsc.navy.mil,Submarine Logistics Support Center
 spawar.navy.mil,INSURV - Board Of Inspection And Survey
 bobcat.spawar.navy.mil,Universal Radar Moving Target Transponder (URMTT)
 enterprise.spawar.navy.mil,"Space and Naval Warfare Systems Center Charleston, SC"
@@ -3015,17 +2391,10 @@ ir-registration.sd.spawar.navy.mil,Unknown
 tips.sd.spawar.navy.mil,Unknown
 tipssupport.sd.spawar.navy.mil,Unknown
 spear.navy.mil,"Profile, Life in the Armed Forces"
-cnsl.spear.navy.mil,PC Crew Alpha
-staynavy.navy.mil,Navy Personnel Command's Center for Career Development
 stethem.navy.mil,USS Stethem (DDG-63)
 stockdale.navy.mil,USS Stockdale (DDG-106)
 stout.navy.mil,USS Stout (DDG-55)
-stump.navy.mil,USS Stump (DD-978)
-subasekb.navy.mil,"Naval Submarine Base, Kings Bay, GA"
-sublant.navy.mil,Commander Submarine Force U.S. Atlantic Fleet
 submepp.navy.mil,Joint Fleet Maintenance Manual
-subpacnr.navy.mil,Pacific Fleet Submarine Force Naval Reserve Site
-supship.navy.mil,"Supervisors of Shipbuilding, Conversion and Repair"
 acu2.surfor.navy.mil,Assault Craft Unit TWO
 acu4.surfor.navy.mil,Assault Craft Unit Four
 atg.surfor.navy.mil,Afloat Training Group
@@ -3039,20 +2408,13 @@ tacron22.surfor.navy.mil,Tactical Air Control Squadron TWENTY TWO (VTC-22)
 tr.surfor.navy.mil,USS Theodore Roosevelt (CVN-71)
 swrmc.navy.mil,"Southwest Regional Maintenance Center (SWRMC), San Diego"
 tacamo.navy.mil,Strategic Communications Wing ONE
-tacron11.navy.mil,Tactical Air Control Squadron ELEVEN (VTC-11)
 tarawa.navy.mil,USS Tarawa (LHA-1)
-thach.navy.mil,USS Thach (FFG-43)
-thorn.navy.mil,USS Thorn (DD-988)
-ticonderoga.navy.mil,USS Ticonderoga (CG-47)
 tips.navy.mil,Unknown
 support.tips.navy.mil,Unknown
-tpu-norva.navy.mil,Transient Personnel Unit Norfolk
 truman.navy.mil,USS Harry S. Truman (CVN-75)
 ttgp.navy.mil,"Tactical Training Group Pacific, San Diego (TTGP)"
-underwood.navy.mil,USS Underwood (FFG 36)
 usno.navy.mil,"Observatory, Naval - Official Site"
 aa.usno.navy.mil,Daylight Time (U.S. Naval Observatory)
-autodiscover.usno.navy.mil,Unknown
 mail.usno.navy.mil,Unknown
 usspearlharbor.navy.mil,USS Pearl Harbor (LSD-52)
 vandegrift.navy.mil,USS Vandegrift (FFG-48)
@@ -3070,12 +2432,9 @@ vp26.navy.mil,Patrol Squadron TWENTY SIX (VP-26)
 vp4.navy.mil,Patrol Squadron FOUR (VP-4)
 vp47.navy.mil,Patrol Squadron FORTY SEVEN (VP-47)
 vp9.navy.mil,Patrol Squadron NINE (VP-9)
-vs30.navy.mil,Sea Control Squadron THREE ZERO (VS-30)
-vs41.navy.mil,Sea Control Squadron 41 (VS-41)
 vx9.navy.mil,Air Test and Evaluation Squadron NINE
 wasp.navy.mil,USS Wasp (LHD-1)
 weather.navy.mil,Naval Meteorology and Oceanography Operational Support Web
-ncmd-ufx03.aztec.ncsc.mil,Unknown
 ng.mil,The National Guard
 az.ng.mil,Arizona National Guard
 co.ng.mil,Colorado National Guard
@@ -3094,68 +2453,44 @@ ma.ng.mil,Massachusetts National Guard
 ms.ng.mil,Mississippi National Guard
 nc.ng.mil,North Carolina National Guard
 ne.ng.mil,Nebraska National Guard
-ngbcounterdrug.ng.mil,National Guard Counterdrug Program
-ngbsfs.ng.mil,National Guard Family Support
 nm.ng.mil,New Mexico National Guard
 ny.ng.mil,New York National Guard
 or.ng.mil,Oregon National Guard
 pa.ng.mil,"28th Infantry Division, Harrisburg, Pa."
 ri.ng.mil,Rhode Island National Guard
-states.ng.mil,District of Columbia National Guard
 wv.ng.mil,Unknown
 nga.mil,National Geospatial-Intelligence Agency (NGA)
 aerodata.nga.mil,Unknown
 erecruit.nga.mil,Unknown
 gds.nga.mil,Unknown
 gdsustil.nga.mil,Unknown
-aerodata.geo.nga.mil,Unknown
-geowebsvcs.geo.nga.mil,Unknown
-glf01.geo.nga.mil,Unknown
-glf02.geo.nga.mil,Unknown
-ndwdsngwlvgeo01.geo.nga.mil,Unknown
-ndwdsngwlvgeo02.geo.nga.mil,Unknown
 ndwdsngwlvglf01.geo.nga.mil,Unknown
 ndwdsngwlvglf02.geo.nga.mil,Unknown
 websvcs.geo.nga.mil,Unknown
 geoint.nga.mil,Unknown
-aerodata.geoint.nga.mil,Unknown
 geowebsvcs.geoint.nga.mil,Unknown
 gis.geoint.nga.mil,Unknown
 gis1.geoint.nga.mil,Unknown
 gis2.geoint.nga.mil,Unknown
-glf01.geoint.nga.mil,Unknown
-glf02.geoint.nga.mil,Unknown
-ndwdsngwlvgeo01.geoint.nga.mil,Unknown
-ndwdsngwlvgeo02.geoint.nga.mil,Unknown
-websvcs.geoint.nga.mil,Unknown
 www1.geoint.nga.mil,Unknown
 www2.geoint.nga.mil,Unknown
-www3.geoint.nga.mil,Unknown
-www4.geoint.nga.mil,Unknown
 geointel.nga.mil,Unknown
 gis.geointel.nga.mil,Unknown
 gis1.geointel.nga.mil,Unknown
 gis2.geointel.nga.mil,Unknown
-ndwdsngwlvgeo01.geointel.nga.mil,Unknown
-ndwdsngwlvgeo02.geointel.nga.mil,Unknown
 pki.geointel.nga.mil,Unknown
 www1.geointel.nga.mil,Unknown
 www2.geointel.nga.mil,Unknown
-www3.geointel.nga.mil,Unknown
-www4.geointel.nga.mil,Unknown
 www6.geointel.nga.mil,Unknown
 www7.geointel.nga.mil,Unknown
 gutswww.nga.mil,Unknown
 gxisaccess.nga.mil,Unknown
 nsgreg.nga.mil,Unknown
 api.nsgreg.nga.mil,Unknown
-adadsgxslvgxa01.pyrite.nga.mil,Unknown
 gds.warp.nga.mil,Unknown
 www1.nga.mil,National Geospatial-Intelligence Agency (NGA)
 nicbr.mil,National Interagency Confederation for Biological Research (NICBR)
-gutswww.gold.rtgold.nima.mil,Unknown
 norad.mil,North American Aerospace Defense Command (NORAD) - Official Site
-fim.noradnorthcom.mil,Unknown
 mail-pafb.noradnorthcom.mil,Unknown
 passwordregistration.noradnorthcom.mil,Unknown
 passwordreset.noradnorthcom.mil,Unknown
@@ -3169,22 +2504,18 @@ eoc.jtfcs.northcom.mil,Unknown
 jims.jtfcs.northcom.mil,Unknown
 ticket.jtfcs.northcom.mil,Unknown
 webmail.jtfcs.northcom.mil,Unknown
-wildcard.jtfcs.northcom.mil,Unknown
 sagecoop.northcom.mil,Unknown
 sageearth.northcom.mil,Unknown
 sagewind.northcom.mil,Unknown
-jds.cape.ods.mil,Unknown
 osd.mil,Office of the Secretary of Defense
 acq.osd.mil,"Acquisition, Technology and Logistics, Deputy Under Secretary of Defense for (AT&L;)"
 sso.acq.osd.mil,Unknown
-pentagon.afis.osd.mil,Pentagon - Official Site
 anthrax.osd.mil,Anthrax
 cape.osd.mil,Cost Assessment and Program Evaluation (CAPE)
 dac.cape.osd.mil,Unknown
 defensemetawiki.cape.osd.mil,Unknown
 jds.cape.osd.mil,Unknown
 snap.cape.osd.mil,Unknown
-chancellor.osd.mil,"Professional Development, Chancellor for Education and Program"
 cpms.osd.mil,DOD Civilian Personnel Management Service
 lms.cpms.osd.mil,Unknown
 midsummer.cpms.osd.mil,Unknown
@@ -3192,103 +2523,21 @@ defensetravel.osd.mil,Unknown
 dtscdcwebgov.defensetravel.osd.mil,Unknown
 denix.osd.mil,DoD Safety & Health
 dmdc.osd.mil,Defense Manpower Data Center
-ccsagent.dmdc.osd.mil,Unknown
-ccsssl.dmdc.osd.mil,Unknown
-ccsssl.int.dmdc.osd.mil,Unknown
-cif.int.dmdc.osd.mil,Unknown
-cif-dr.int.dmdc.osd.mil,Unknown
-cif-pr.int.dmdc.osd.mil,Unknown
-cif1.int.dmdc.osd.mil,Unknown
-cif2.int.dmdc.osd.mil,Unknown
-dakota.int.dmdc.osd.mil,Unknown
-dakota-cif.int.dmdc.osd.mil,Unknown
-dakota-ipa.int.dmdc.osd.mil,Unknown
-dakota-ipa-2.int.dmdc.osd.mil,Unknown
-dakota-ips.int.dmdc.osd.mil,Unknown
-dakota-ips-2.int.dmdc.osd.mil,Unknown
-delaware.int.dmdc.osd.mil,Unknown
-delaware-cif.int.dmdc.osd.mil,Unknown
-delaware-ipa.int.dmdc.osd.mil,Unknown
-delaware-ipa-2.int.dmdc.osd.mil,Unknown
-delaware-ips.int.dmdc.osd.mil,Unknown
-delaware-ips-2.int.dmdc.osd.mil,Unknown
-felis.int.dmdc.osd.mil,Unknown
-miwok.int.dmdc.osd.mil,Unknown
-miwok-cif.int.dmdc.osd.mil,Unknown
-rcupr.int.dmdc.osd.mil,Unknown
-rcupr-ah.int.dmdc.osd.mil,Unknown
-rcupr-co.int.dmdc.osd.mil,Unknown
-rcupr-dr.int.dmdc.osd.mil,Unknown
-rcupr-pr.int.dmdc.osd.mil,Unknown
-rcupr-ss.int.dmdc.osd.mil,Unknown
-rcups.int.dmdc.osd.mil,Unknown
-rcups-co.int.dmdc.osd.mil,Unknown
-rcups-dr.int.dmdc.osd.mil,Unknown
-rcups-pr.int.dmdc.osd.mil,Unknown
-rcups-ss.int.dmdc.osd.mil,Unknown
-ucupr.int.dmdc.osd.mil,Unknown
-ucupr-ah.int.dmdc.osd.mil,Unknown
-ucupr-co.int.dmdc.osd.mil,Unknown
-ucupr-dr.int.dmdc.osd.mil,Unknown
-ucupr-pr.int.dmdc.osd.mil,Unknown
-ucupr-ss.int.dmdc.osd.mil,Unknown
-ucupr-ss-felis.int.dmdc.osd.mil,Unknown
-ucupr-ss-vespa.int.dmdc.osd.mil,Unknown
-ucups.int.dmdc.osd.mil,Unknown
-ucups-co.int.dmdc.osd.mil,Unknown
-ucups-dr.int.dmdc.osd.mil,Unknown
-ucups-pr.int.dmdc.osd.mil,Unknown
-ucups-ss.int.dmdc.osd.mil,Unknown
-ucups-ss-felis.int.dmdc.osd.mil,Unknown
-ucups-ss-vespa.int.dmdc.osd.mil,Unknown
-vespa.int.dmdc.osd.mil,Unknown
-yurok.int.dmdc.osd.mil,Unknown
-yurok-cif.int.dmdc.osd.mil,Unknown
 myaccess.dmdc.osd.mil,Unknown
-rcupr.dmdc.osd.mil,Unknown
-rcups.dmdc.osd.mil,Unknown
-rcups-co.dmdc.osd.mil,Unknown
-rcups-ss.dmdc.osd.mil,Unknown
-ucupr.dmdc.osd.mil,Unknown
 ucups.dmdc.osd.mil,Unknown
-ucups-co.dmdc.osd.mil,Unknown
-ucups-dr.dmdc.osd.mil,Unknown
-ucups-pr.dmdc.osd.mil,Unknown
 ucups-ss.dmdc.osd.mil,Unknown
 contracting.dmea.osd.mil,Unknown
 fermion.dmea.osd.mil,Unknown
 files.dmea.osd.mil,Unknown
 surveys.dmea.osd.mil,Unknown
 visit.dmea.osd.mil,Unknown
-dodaec.osd.mil,Unknown
 dodcioext.osd.mil,Unknown
-dodcioext-extended.osd.mil,Unknown
 afnconnect.myafn.dodmedia.osd.mil,Unknown
 login.myafn.dodmedia.osd.mil,Unknown
 scdn.myafn.dodmedia.osd.mil,Unknown
 secure.dodmedia.osd.mil,Unknown
 dote.osd.mil,Director of Operational Test and Evaluation (DOT&E;)
 extranet.dote.osd.mil,Unknown
-hiusoccs001.med.ds.osd.mil,Unknown
-hiusoccs002.med.ds.osd.mil,Unknown
-hiusoccs003.med.ds.osd.mil,Unknown
-kldeoccs001.med.ds.osd.mil,Unknown
-kldeoccs002.med.ds.osd.mil,Unknown
-kldeoccs003.med.ds.osd.mil,Unknown
-mail-hiusoc.med.ds.osd.mil,Unknown
-mail-kldeoc.med.ds.osd.mil,Unknown
-mail-mdusoc.med.ds.osd.mil,Unknown
-mail-txusoc.med.ds.osd.mil,Unknown
-mdusoccs001.med.ds.osd.mil,Unknown
-mdusoccs002.med.ds.osd.mil,Unknown
-mdusoccs003.med.ds.osd.mil,Unknown
-mdusoccs004.med.ds.osd.mil,Unknown
-mdusoccs005.med.ds.osd.mil,Unknown
-txusoccs001.med.ds.osd.mil,Unknown
-txusoccs002.med.ds.osd.mil,Unknown
-txusoccs003.med.ds.osd.mil,Unknown
-txusoccs004.med.ds.osd.mil,Unknown
-txusoccs005.med.ds.osd.mil,Unknown
 fhp.osd.mil,Pandemic Infuenza
 chembio.fhpr.osd.mil,Unknown
 deploymenthealthlibrary.fhpr.osd.mil,Deployment Health and Family Readiness Library
@@ -3298,19 +2547,14 @@ prosight.fhpr.osd.mil,Unknown
 gulflink.osd.mil,Gulf War Illnesses (GulfLINK)
 jpeocbd.osd.mil,Joint Program Executive Office For Chemical and Biological Defense (JPEO-CBD)
 jacks.jpeocbd.osd.mil,Unknown
-mhs.osd.mil,Health Affairs (HA)
 militaryfuneralhonors.osd.mil,"Funeral Honors, Military"
 ousdi.osd.mil,Unknown
 pae.osd.mil,Director of Program Analysis and Evaluation (PA&E;)
 snap.pae.osd.mil,Unknown
 pentagontours.osd.mil,Unknown
 prext.osd.mil,Unknown
-prexternal.osd.mil,Unknown
-extndotews02.ext.rsrc.osd.mil,Unknown
 tricare.osd.mil,Tricare
 ourmilitary.mil,Community Relations
-cocom.paas.mil,Unknown
-cocomcac.paas.mil,Unknown
 pacom.mil,Pacific Command
 jpac.pacom.mil,Joint POW/MIA Accounting Command
 pdhealth.mil,Deployment Health Clinical Center (DHCC)
@@ -3336,7 +2580,6 @@ ssoregistration.ocar.army.pentagon.mil,Unknown
 ssoregistrationdev.ocar.army.pentagon.mil,Unknown
 star.ocar.army.pentagon.mil,Unknown
 stardev.ocar.army.pentagon.mil,Unknown
-stardev2.ocar.army.pentagon.mil,Unknown
 superstar.ocar.army.pentagon.mil,Unknown
 superstardev.ocar.army.pentagon.mil,Unknown
 usarbasops.ocar.army.pentagon.mil,Unknown
@@ -3345,7 +2588,6 @@ daig.pentagon.mil,Inspector General (OTIG)
 hqda.pentagon.mil,Unknown
 asp.hqda.pentagon.mil,Army Suggestion Program
 dol.hqda.pentagon.mil,Directorate of Logistics-Washington
-hqdacert.hqda.pentagon.mil,Unknown
 srleaders.hqda.pentagon.mil,Unknown
 tioh.hqda.pentagon.mil,Heraldry (TIOH)
 hornet.nlac.pentagon.mil,Unknown
@@ -3354,157 +2596,59 @@ pfpa.mil,Pentagon Force Protection Agency (PFPA)
 sapr.mil,Sexual Assault Prevention and Response (06/21/2005)
 sigir.mil,Special Inspector General for Iraq Reconstruction (10/21/2005)
 soc.mil,1st Battalion 10th Special Forces Group
-legacy.ahqb.soc.mil,Unknown
-autodiscover.soc.mil,Unknown
 legacy.soc.mil,Unknown
 owa.soc.mil,Unknown
-autodiscover.arsoc.socds.soc.mil,Unknown
-legacy.arsoc.socds.soc.mil,Unknown
-usasoc-casarray.arsoc.socds.soc.mil,Unknown
 usasoc-owa.soc.mil,Unknown
-autodiscover.socds.mil,Unknown
-autodiscover.sof.socds.mil,Unknown
-portal.soceur.mil,Unknown
 socom.mil,Special Operations Command
 sof.afsoc.socom.mil,Unknown
 sof.apps.socom.mil,Unknown
 sof.atl.socom.mil,Unknown
-autodiscover.socom.mil,Unknown
 cimdps.socom.mil,Unknown
 cimdps-maps.socom.mil,Unknown
 ddc1uevxearax02.socom.mil,Unknown
 ddc1uevxearwx01.socom.mil,Unknown
 sof.eval.socom.mil,Unknown
-failoverddc1.socom.mil,Unknown
-failoverddc2.socom.mil,Unknown
-failovereur.socom.mil,Unknown
-failovern101.socom.mil,Unknown
-failoverpac.socom.mil,Unknown
-failoverswa.socom.mil,Unknown
 sof.hq.socom.mil,Unknown
-imap.socom.mil,Unknown
-imapddc1.socom.mil,Unknown
-imapddc2.socom.mil,Unknown
-imapeur.socom.mil,Unknown
-imapn101.socom.mil,Unknown
-imappac.socom.mil,Unknown
-imapswa.socom.mil,Unknown
 jsou.socom.mil,Unknown
 legacy.socom.mil,Unknown
-sof.legacy.socom.mil,Unknown
 sof.marsoc.socom.mil,Unknown
 sof.mysite.socom.mil,Unknown
 navsoc.socom.mil,Naval Small Craft Instruction and Technical Training School
 sof.navsoc.socom.mil,Unknown
 sof.nsw.socom.mil,Unknown
-pjsou-edu.socom.mil,Unknown
-pop.socom.mil,Unknown
-popddc1.socom.mil,Unknown
-popddc2.socom.mil,Unknown
-popeur.socom.mil,Unknown
-popn101.socom.mil,Unknown
-poppac.socom.mil,Unknown
-popswa.socom.mil,Unknown
-sof.registration.socom.mil,Unknown
-sof.rel.socom.mil,Unknown
 sof.search.socom.mil,Unknown
 sof.socnorth.socom.mil,Unknown
-firestorm.socpac.socom.mil,Unknown
 portal.socpac.socom.mil,Unknown
-socpupvxmofex01.socpac.socom.mil,Unknown
-socpupvxmofex02.socpac.socom.mil,Unknown
-socpupvxmofex03.socpac.socom.mil,Unknown
 sof.socsouth.socom.mil,Unknown
 sof.socom.mil,Unknown
 sofwebmail.socom.mil,Unknown
-sofwebmailddc1.socom.mil,Unknown
-sofwebmailddc2.socom.mil,Unknown
-sofwebmaileur.socom.mil,Unknown
-sofwebmailn101.socom.mil,Unknown
-sofwebmailpac.socom.mil,Unknown
-sofwebmailswa.socom.mil,Unknown
-sof.sp-portal.socom.mil,Unknown
-sof.support.socom.mil,Unknown
-sof.tmt.socom.mil,Unknown
-sof.training.socom.mil,Unknown
 sof.usasoc.socom.mil,Unknown
 webapps.socom.mil,Unknown
-sof.webapps.socom.mil,Unknown
 southcom.mil,Southern Command
 extranet.southcom.mil,Unknown
 ayqcey03.hq.southcom.mil,Unknown
-leap.hq.southcom.mil,Unknown
-scnet.hq.southcom.mil,Unknown
-scwebmail.hq.southcom.mil,Unknown
 webmail.jtfgtmo.southcom.mil,Unknown
-leap.southcom.mil,Unknown
 mysite.southcom.mil,Unknown
-mysiteanon.southcom.mil,Unknown
 schq.southcom.mil,Unknown
-schq-noncac.southcom.mil,Unknown
 schqanon.southcom.mil,Unknown
-scnet.southcom.mil,Unknown
-scportal.southcom.mil,Unknown
 scwebmail.southcom.mil,Unknown
 www2.southcom.mil,USAG Miami
 stratcom.mil,Strategic Command
-autodiscover.stratcom.mil,Unknown
-cas.stratcom.mil,Unknown
-legacy.stratcom.mil,Unknown
-m13.stratcom.mil,Unknown
-m14.stratcom.mil,Unknown
-m17.stratcom.mil,Unknown
-m18.stratcom.mil,Unknown
 mercury.stratcom.mil,Unknown
-usstratcom1.stratcom.mil,Unknown
-v4.stratcom.mil,Unknown
-v5.stratcom.mil,Unknown
 vela.stratcom.mil,Unknown
-webmail.army.swa.mil,Unknown
 transcom.mil,Transportation Command
-cris.transcom.mil,Unknown
-ustcexfe01.hq.ds.transcom.mil,Unknown
-its.transcom.mil,Unknown
 logbook.transcom.mil,Unknown
 sms.transcom.mil,Unknown
 trac2es.transcom.mil,Unknown
-exercise.trac2es.transcom.mil,Unknown
 extasd.exercise.trac2es.transcom.mil,Unknown
 extass.exercise.trac2es.transcom.mil,Unknown
-extcacs.exercise.trac2es.transcom.mil,Unknown
-extsso.exercise.trac2es.transcom.mil,Unknown
 tasd.trac2es.transcom.mil,Unknown
 tass.trac2es.transcom.mil,Unknown
-tcacs.trac2es.transcom.mil,Unknown
 trac2es-prdsss.trac2es.transcom.mil,Unknown
 trac2eslbs2.trac2es.transcom.mil,Unknown
 trac2eswbt.trac2es.transcom.mil,Unknown
-tsso.trac2es.transcom.mil,Unknown
-webmail.transcom.mil,Unknown
-webshare.transcom.mil,Unknown
 tricare.mil,Tricare
-apps.afnoapps.usaf.mil,Unknown
-52mpls-ws-511.area52.afnoapps.usaf.mil,Unknown
-52tdka-emts-a1.area52.afnoapps.usaf.mil,Unknown
-52tdka-emts-a2.area52.afnoapps.usaf.mil,Unknown
-52tdka-emts-a3.area52.afnoapps.usaf.mil,Unknown
-52tyfr-css-f11v.area52.afnoapps.usaf.mil,Unknown
-52tyfr-css-f12v.area52.afnoapps.usaf.mil,Unknown
-52tyfr-css-f13v.area52.afnoapps.usaf.mil,Unknown
-52tyfr-css-f14v.area52.afnoapps.usaf.mil,Unknown
-52tyfr-css-m01v.area52.afnoapps.usaf.mil,Unknown
-52tyfr-ucpool-001.area52.afnoapps.usaf.mil,Unknown
-52tyfr-webpool-001.area52.afnoapps.usaf.mil,Unknown
-52tymx-wps-200p.area52.afnoapps.usaf.mil,Unknown
-52uhhz-as-005.area52.afnoapps.usaf.mil,Unknown
-52vdyd-ws-001.area52.afnoapps.usaf.mil,Unknown
-52vejx-sp-012v.area52.afnoapps.usaf.mil,Unknown
-apps.area52.afnoapps.usaf.mil,Unknown
-prdinfra01.area52.afnoapps.usaf.mil,Unknown
 uscg.mil,Coast Guard
-oscms-gis-dzsm3.main.ads.uscg.mil,Unknown
-oscms-gis-dzsm4.main.ads.uscg.mil,Unknown
-autodiscover.uscg.mil,Unknown
 auxlearning.uscg.mil,Unknown
 cgcart.uscg.mil,Unknown
 cgcarttrain.uscg.mil,Unknown
@@ -3515,7 +2659,6 @@ cgpaassupport.uscg.mil,Unknown
 cgrats.uscg.mil,Unknown
 cgrri.uscg.mil,Unknown
 cgvis.uscg.mil,Unknown
-collab.uscg.mil,Unknown
 egis-e.uscg.mil,Unknown
 elearning.uscg.mil,Unknown
 etesting.uscg.mil,Unknown
@@ -3523,112 +2666,52 @@ fincen.uscg.mil,"Coast Guard Finance Center, Chesapeake, VA"
 mail.uscg.mil,Unknown
 npfc.uscg.mil,Unknown
 osc-xgate-05.uscg.mil,Unknown
-cgp-prod-rpq1.oscz2.uscg.mil,Unknown
-cgp-prod-rpq2.oscz2.uscg.mil,Unknown
-cgp-prod-rpq3.oscz3.uscg.mil,Unknown
-cgp-prod-rpq4.oscz3.uscg.mil,Unknown
 reserve.uscg.mil,U.S. Coast Guard Reserve homepage
 surveys.uscg.mil,Unknown
 thinktank.uscg.mil,Unknown
-autodiscover.usfj.mil,Unknown
-mail.usfj.mil,Unknown
-mobile.usfj.mil,Unknown
-webmail.usfj.mil,Unknown
 usfk.mil,U.S. Forces Korea
 usmc.mil,U.S. Marine Corps
-12mcd.usmc.mil,Unknown
-1mcd.usmc.mil,Unknown
 intranet1.22meu.usmc.mil,Unknown
-intranet1.24meu.usmc.mil,Unknown
 intranet1.26meu.usmc.mil,Unknown
 29palms.usmc.mil,"USMC Air Ground Combat Center Twentynine Palms, CA"
 intranet1.2dmardiv.usmc.mil,Unknown
 intranet1.2dmaw.usmc.mil,Unknown
 intranet1.2dmeb.usmc.mil,Unknown
 intranet1.2dmlg.usmc.mil,Unknown
-4mcd.usmc.mil,Unknown
-6mcd.usmc.mil,Unknown
-8mcd.usmc.mil,8th Marine Corps District
-9mcd.usmc.mil,Unknown
-cas-ern1-array.mcw.ad.usmc.mil,Unknown
-cas-eug1-array.mcw.ad.usmc.mil,Unknown
-ern1-cas-array.mcw.ad.usmc.mil,Unknown
-ern19805.mcw.ad.usmc.mil,Unknown
-ern19806.mcw.ad.usmc.mil,Unknown
-ern19807.mcw.ad.usmc.mil,Unknown
-eug11701.mcw.ad.usmc.mil,Unknown
-eug11702.mcw.ad.usmc.mil,Unknown
-eug19804.mcw.ad.usmc.mil,Unknown
-eug19805.mcw.ad.usmc.mil,Unknown
 autodiscover.usmc.mil,Unknown
 bic.usmc.mil,Blount Island Command
-cas-eauf.usmc.mil,Unknown
 cas-euaf.usmc.mil,Unknown
 eis.usmc.mil,Unknown
-oa.eu.usmc.mil,Unknown
 geofidelis.usmc.mil,Unknown
 clnr.hqi.usmc.mil,Unknown
 itprocurement.hqi.usmc.mil,Unknown
 clc2s-spmagtf.iimef.usmc.mil,Unknown
 intranet1.iimef.usmc.mil,Unknown
-intranet1.iimhg.usmc.mil,Unknown
 il.usmc.mil,Unknown
 legacymail.jp.usmc.mil,Unknown
-oa.jp.usmc.mil,Unknown
 webmail.jp.usmc.mil,Unknown
 manpower.usmc.mil,Marine Stop Loss
 tfrs.manpower.usmc.mil,Unknown
 ipas.marcorsyscom.usmc.mil,Unknown
-csc.marforres.usmc.mil,Unknown
 irr.marforres.usmc.mil,Unknown
 portal.marforres.usmc.mil,Unknown
 mcrcmail.marines.usmc.mil,Unknown
-hqqua03003n1.rcen.marines.usmc.mil,Unknown
-hqqua03003n2.rcen.marines.usmc.mil,Unknown
 mcbh.usmc.mil,Helicopter Anti-Submarine Squadron Light THREE SEVEN (HSL-37)
 tfsms.mccdc.usmc.mil,Unknown
 www2.listserv.mccll.usmc.mil,Unknown
 www2.mccll.usmc.mil,Unknown
-cas-fstr.mcdsjp.mcds.usmc.mil,Unknown
-mcjpfstrxf01v.mcdsjp.mcds.usmc.mil,Unknown
-mcjpfstrxf02v.mcdsjp.mcds.usmc.mil,Unknown
-mcjpfstrxf03v.mcdsjp.mcds.usmc.mil,Unknown
-mcjpfstrxf04v.mcdsjp.mcds.usmc.mil,Unknown
-cas-cljn.mcdsus.mcds.usmc.mil,Unknown
-cas-euaf-array.mcdsus.mcds.usmc.mil,Unknown
-cas-kbaz.mcdsus.mcds.usmc.mil,Unknown
-cas-pndl.mcdsus.mcds.usmc.mil,Unknown
-cas-quan.mcdsus.mcds.usmc.mil,Unknown
-euaf6402.mcdsus.mcds.usmc.mil,Unknown
-euaf6403.mcdsus.mcds.usmc.mil,Unknown
-mcusquanxf01v.mcdsus.mcds.usmc.mil,Unknown
-mcusquanxf02v.mcdsus.mcds.usmc.mil,Unknown
-mcusquanxf03v.mcdsus.mcds.usmc.mil,Unknown
-mcusquanxf04v.mcdsus.mcds.usmc.mil,Unknown
 arts.mceits.usmc.mil,Unknown
 mars.mceits.usmc.mil,Unknown
 sams.mceits.usmc.mil,Unknown
 tfdw-web.mceits.usmc.mil,Unknown
-ahss.mcieast.usmc.mil,Unknown
 albany.mcieast.usmc.mil,Unknown
-albany1.mcieast.usmc.mil,Unknown
-archive.mcieast.usmc.mil,Unknown
 beaufort.mcieast.usmc.mil,Unknown
-beaufort1.mcieast.usmc.mil,Unknown
 blountisland.mcieast.usmc.mil,Unknown
-blountisland1.mcieast.usmc.mil,Unknown
 cherrypoint.mcieast.usmc.mil,Unknown
-cherrypoint1.mcieast.usmc.mil,Unknown
 intranet.mcieast.usmc.mil,Unknown
-intranet1.mcieast.usmc.mil,Unknown
 lejeune.mcieast.usmc.mil,Unknown
-lejeune1.mcieast.usmc.mil,Unknown
 mcafquantico.mcieast.usmc.mil,Unknown
-mcafquantico1.mcieast.usmc.mil,Unknown
-mysites.mcieast.usmc.mil,Unknown
-mysites1.mcieast.usmc.mil,Unknown
 newriver.mcieast.usmc.mil,Unknown
-newriver1.mcieast.usmc.mil,Unknown
 www1.mcieast.usmc.mil,Unknown
 mcrc.usmc.mil,Unknown
 arts.mcsc.usmc.mil,Unknown
@@ -3640,39 +2723,21 @@ webmail.nmci.usmc.mil,Unknown
 oa.usmc.mil,Unknown
 saar.usmc.mil,Unknown
 techpubs.usmc.mil,Unknown
-tfsms-mccdc.usmc.mil,Unknown
 legacymail.us.usmc.mil,Unknown
 oa.us.usmc.mil,Unknown
 webmail.us.usmc.mil,Unknown
 webmail.usmc.mil,Unknown
 yuma.usmc.mil,Marine Corps Air Station Yuma
-autodiscover.hq.ussouthcom.mil,Unknown
-ayqcey03.hq.ussouthcom.mil,Unknown
-hquhqmlcas01.hq.ussouthcom.mil,Unknown
-hquhqmlcas02.hq.ussouthcom.mil,Unknown
-hquhqwb1.hq.ussouthcom.mil,Unknown
-leap.hq.ussouthcom.mil,Unknown
-mysite.hq.ussouthcom.mil,Unknown
-scnet.hq.ussouthcom.mil,Unknown
-scportal.hq.ussouthcom.mil,Unknown
-scwebmail.hq.ussouthcom.mil,Unknown
-cris.ustranscom.mil,Unknown
-distribute.ustranscom.mil,Unknown
 idistribute.ustranscom.mil,Unknown
 igc.ustranscom.mil,Unknown
-av.igc.ustranscom.mil,Unknown
-av-dts.igc.ustranscom.mil,Unknown
 igc-a.ustranscom.mil,Unknown
 igc-p.ustranscom.mil,Unknown
 its.ustranscom.mil,Unknown
 logbook.ustranscom.mil,Unknown
-pat.sddc.ustranscom.mil,Unknown
 sms.ustranscom.mil,Unknown
 trac2es.ustranscom.mil,Unknown
 tasp.trac2es.ustranscom.mil,Unknown
 tidmp.trac2es.ustranscom.mil,Unknown
-trac2es-prdss.trac2es.ustranscom.mil,Unknown
-webshare.ustranscom.mil,Unknown
 usuhs.mil,Uniformed Services University of the Health Sciences
 bic2.usuhs.mil,Unknown
 bicapp.usuhs.mil,Unknown

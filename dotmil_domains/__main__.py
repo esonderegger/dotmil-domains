@@ -3,6 +3,7 @@ import bs4
 import urlparse
 import csv
 import logging
+import socket
 
 
 def link_is_http(href):
@@ -190,6 +191,18 @@ def add_comodo_domains(domains_dict):
     return domains_dict
 
 
+def dns_is_active(host):
+    found_dns = False
+    for w in ['', 'www.']:
+        try:
+            s = socket.getaddrinfo(w + host, 0, 0, 0, 0)
+            if len(s) > 0:
+                found_dns = True
+        except:
+            logging.debug('no DNS for ' + w + host)
+    return found_dns
+
+
 def main():
     logging.basicConfig(level=logging.DEBUG)
     with open('dotmil-domains.csv', 'w') as csvfile:
@@ -197,7 +210,8 @@ def main():
         csv_writer.writerow(['Domain Name', 'Organization'])
         domain_objects = domains_as_sorted_tuples()
         for d in domain_objects:
-            csv_writer.writerow(d)
+            if dns_is_active(d[0]):
+                csv_writer.writerow(d)
 
 
 if __name__ == "__main__":
