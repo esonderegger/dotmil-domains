@@ -115,7 +115,7 @@ def dod_site_pages():
                 pages.append(absolute)
     else:
         logging.warning('we will need to re-scan: ' + start_url)
-    pages.append('http://dtic.mil/dtic/findit/dticatoz.html')
+    pages.append('http://dtic.mil/dtic/faqs/dtic_a_to_z.html')
     return pages
 
 

@@ -1994,6 +1994,7 @@ hmirsmsds.logisticsinformationservices.dla.mil,Unknown
 mail.dla.mil,Unknown
 medical.dla.mil,Unknown
 okctrinity.dla.mil,Unknown
+quicksearch.dla.mil,"Standards and Specifications, Military"
 remotec.dla.mil,Unknown
 strategicmaterials.dla.mil,Unknown
 strategicmaterialssales.dla.mil,Unknown
@@ -2066,6 +2067,8 @@ dtic.mil,Defense Technical Information Center - (DTIC)
 acau.dtic.mil,Unknown
 acau-node1.dtic.mil,Unknown
 acau-node2.dtic.mil,Unknown
+ca.dtic.mil,Feedback
+cendi.dtic.mil,CENDI
 cvamp-node1.dtic.mil,Unknown
 cvamp-node2.dtic.mil,Unknown
 exhibits.dtic.mil,Unknown
@@ -3350,7 +3353,6 @@ pentagonchannel.mil,Pentagon Channel (News About the Department of Defense)
 pfpa.mil,Pentagon Force Protection Agency (PFPA)
 sapr.mil,Sexual Assault Prevention and Response (06/21/2005)
 sigir.mil,Special Inspector General for Iraq Reconstruction (10/21/2005)
-www-stg.dtic.smil.mil,Unknown
 soc.mil,1st Battalion 10th Special Forces Group
 legacy.ahqb.soc.mil,Unknown
 autodiscover.soc.mil,Unknown
