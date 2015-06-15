@@ -74,14 +74,14 @@ citamn.afrc.af.mil,Citizen Airman Magazine
 dobbins.afrc.af.mil,Dobbins Air Reserve Base
 grissom.afrc.af.mil,Grissom Air Reserve Base
 homestead.afrc.af.mil,Homestead Air Reserve Base
-march.afrc.af.mil,452d Air Mobility Wing
+march.afrc.af.mil,March Air Reserve Base
 minneapolis.afrc.af.mil,Minneapolis-St. Paul Air Reserve Station
 niagara.afrc.af.mil,Niagara Falls Air Reserve Station
 pittsburgh.afrc.af.mil,Pittsburgh IAP Air Reserve Station
 pope.afrc.af.mil,440th Airlift Wing
 westover.afrc.af.mil,Westover Air Reserve Base
 youngstown.afrc.af.mil,Youngstown Air Reserve Station
-afsc.af.mil,Air Force Sustainement Center
+afsc.af.mil,Air Force Sustainment Center
 afsec.af.mil,Air Force Safety Center
 afsfc.af.mil,Headquarters Air Force Security Forces Center
 afsoc.af.mil,Air Force Special Operations Command
@@ -127,6 +127,7 @@ ang.af.mil,Air National Guard - Official Site
 130aw.ang.af.mil,The 130th West Virginia
 131bw.ang.af.mil,"131st Bomb Wing, Missouri Air National Guard"
 131fw.ang.af.mil,131st Bomb Wing
+132dwing.ang.af.mil,132d Wing
 132fw.ang.af.mil,132nd Fighter Wing
 133aw.ang.af.mil,133rd Airlift Wing
 134arw.ang.af.mil,134th Air Refueling Wing
@@ -728,7 +729,6 @@ ors.csd.disa.mil,Operationally Responsive Space Office
 dla.mil,Defense Logistics Agency (DLA)
 daps.dla.mil,Document Automation & Production Service
 dlis.dla.mil,Defense Logistics Information Service (DLIS)
-quicksearch.dla.mil,ASSIST Database
 dma.mil,Defense Media Activity (DMA)
 dinfos.dma.mil,Defense Information School
 jhns.dma.mil,Hometown News Service
@@ -768,9 +768,6 @@ dodtechipedia.mil,DoD Techipedia
 dsca.mil,Defense Security Cooperation Agency (DSCA)
 dss.mil,Defense Security Service
 dtic.mil,Defense Technical Information Center - (DTIC)
-ca.dtic.mil,Feedback
-cbat.dtic.mil,Analytics
-cendi.dtic.mil,CENDI
 dtra.mil,Defense Threat Reduction Agency (DTRA)
 dtsa.mil,Defense Technology Security Administration (DTSA) Website
 eb.mil,Unknown
@@ -868,12 +865,15 @@ mcrdsd.marines.mil,Marine Corps Recruit Depot San Diego
 mcscg.marines.mil,Marine Corps Security Cooperation Group
 mcsfr.marines.mil,Marine Corps Security Force Regiment
 mcwl.marines.mil,Marine Corps Warfighting Laboratory
+miramar.marines.mil,Station
 newriver.marines.mil,Marine Corps Air Station New River
 okinawa.marines.mil,III MEF/MCIPAC Consolidated Public Affairs Office
 pendleton.marines.mil,Marine Corps Base Camp Pendleton
 quantico.marines.mil,Headquarters and Service Battallion Marine Corps Base Quantico
+ready.marines.mil,Marine Corps Installations Command
 safety.marines.mil,CMC Safety Division
 tecom.marines.mil,Field Medical Training Battalion-West
+trngcmd.marines.mil,"Marine Corps Detachment Presidio of Monterey, MCCES, TECOM"
 mc.mil,Military Commissions
 mda.mil,Missile Defense Agency (MDA)
 medicalmuseum.mil,National Museum of Health and Medicine (NMHM)
@@ -1016,7 +1016,6 @@ higgins.navy.mil,USS Higgins (DDG-76)
 history.navy.mil,Naval History & Heritage Command
 hm14.navy.mil,Helicopter Mine Countermeasures Squadron FOURTEEN (HM-14)
 hopper.navy.mil,USS Hopper (DDG-70)
-housing.navy.mil,"Naval Facilities Engineering Command, Housing Operations and System Division, La Mesa CA"
 houston.navy.mil,USS Houston (SSN 713)
 howard.navy.mil,USS Howard DDG 83
 hq.navy.mil,Manpower and Reserve Affairs
@@ -1110,8 +1109,8 @@ nasoceana.navy.mil,US Navy Landing Signal Officer School
 navair.navy.mil,Naval Air Systems Command
 nawctsd.navair.navy.mil,Naval Air Warfare Center Training Systems Division
 navak.navy.mil,U.S. Naval Forces Alaska
-navfac.navy.mil,"Naval Facilities Engineering Command, Bachelor Housing Office"
-portal.navfac.navy.mil,Naval Facilities Engineering Command (NAVFAC)
+navfac.navy.mil,Naval Facilities Engineering Command (NAVFAC)
+portal.navfac.navy.mil,Naval Ocean Facilities Program
 navmetoccom.navy.mil,Naval Meteorology and Oceanography Command
 navo.navy.mil,"Naval Oceanographic Office (NAVOCEANO), Stennis Space Center MS"
 navsea.navy.mil,Naval Surface Warfare Center Panama City Division
@@ -1229,6 +1228,7 @@ public.navy.mil,Department of Defense Executive Agent for Maritime Domain Awaren
 radford.navy.mil,USS Arthur W. Radford (DD-968)
 ramage.navy.mil,USS Ramage (DDG-61)
 raven.navy.mil,USS Raven (MHC-61)
+ready.navy.mil,Ready Navy
 reagan.navy.mil,USS Ronald Reagan (CVN-76)
 reuben-james.navy.mil,USS Reuben James (FFG-57)
 robin.navy.mil,USS Robin (MHC-54)
@@ -1375,6 +1375,7 @@ pentagonchannel.mil,Pentagon Channel (News About the Department of Defense)
 pfpa.mil,Pentagon Force Protection Agency (PFPA)
 sapr.mil,Sexual Assault Prevention and Response (06/21/2005)
 sigir.mil,Special Inspector General for Iraq Reconstruction (10/21/2005)
+www-stg.dtic.smil.mil,Unknown
 soc.mil,1st Battalion 10th Special Forces Group
 socom.mil,Special Operations Command
 navsoc.socom.mil,Naval Small Craft Instruction and Technical Training School
