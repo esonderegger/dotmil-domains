@@ -1,0 +1,14 @@
+language: python
+python:
+  - 2.6
+  - 2.7
+  - 3.2
+  - 3.3
+  - 3.4
+install:
+  - pip install flake8
+  - python setup.py install
+script:
+  - python setup.py test
+  - flake8 setup.py
+  - flake8 dotmil_domains/__main__.py
