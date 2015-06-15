@@ -62,6 +62,7 @@ def dotmil_domains_dict(pages_to_scan):
 
 def domains_as_sorted_tuples():
     domains_dict = dotmil_domains_dict(mil_site_pages())
+    domains_dict = add_comodo_domains(domains_dict)
     list_to_sort = []
     for d in domains_dict:
         list_to_sort.append(d)
@@ -150,6 +151,43 @@ def uscg_site_pages():
 
 def national_guard_site_pages():
     return ['http://www.nationalguard.mil/Resources/StateWebsites.aspx']
+
+
+def add_comodo_domains(domains_dict):
+    possible_domains = []
+    edited_domains = []
+    soup = soup_from_url('https://crt.sh/?dNSName=%25.mil')
+    all_tds = soup.find_all('td')
+    for td in all_tds:
+        if td.string:
+            td_text = td.string.strip().lower()
+            if '.mil' in td_text:
+                if ',' in td_text:
+                    comma_split = td_text.split(',')
+                    for d in comma_split:
+                        possible_domains.append(d.strip())
+                elif ' ' in td_text:
+                    space_split = td_text.split(' ')
+                    for d in space_split:
+                        possible_domains.append(d.strip())
+                else:
+                    possible_domains.append(td_text)
+    for possibility in possible_domains:
+        if possibility.endswith('.mil'):
+            if possibility.startswith('https://'):
+                edited_domains.append(possibility[8:])
+            elif possibility.startswith('www.'):
+                edited_domains.append(possibility[4:])
+            elif possibility.startswith('*'):
+                dot_split = possibility.split('.')
+                rebuilt = '.'.join(dot_split[1:])
+                edited_domains.append(rebuilt)
+            else:
+                edited_domains.append(possibility)
+    for domain in edited_domains:
+        if domain not in domains_dict:
+            domains_dict[domain] = "Unknown"
+    return domains_dict
 
 
 def main():
