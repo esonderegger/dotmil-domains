@@ -1176,6 +1176,7 @@ pec.ngb.army.mil,Lavern E. Weber Professional Education Center (PEC)
 esc.pec.ngb.army.mil,Unknown
 pr.ngb.army.mil,Puerto Rico Army National Guard
 rcweb.ngb.army.mil,Unknown
+sdguard.ngb.army.mil,South Dakota National Guard
 sportal.ngb.army.mil,Unknown
 tn.ngb.army.mil,Tennessee National Guard
 ut.ngb.army.mil,Utah National Guard
@@ -2059,7 +2060,6 @@ donhr.navy.mil,Civilian Federal Careers
 chart.donhr.navy.mil,Civilain Career Development
 boats.dt.navy.mil,Unknown
 dubuque.navy.mil,USS Dubuque (LPD-8)
-eisenhower.navy.mil,USS Dwight D. Eisenhower (CVN-69)
 enterprise.navy.mil,USS Enterprise (CVN-65)
 enviro-navair.navy.mil,NAVAIR Environmental Team
 eod.navy.mil,COMEODGRU ONE
@@ -2776,4 +2776,3 @@ fepaas.whs.mil,Unknown
 pki.fepaas.whs.mil,Unknown
 fepaassupport.whs.mil,Unknown
 prwebdb.whs.mil,Unknown
-safehelpline.mil,Unknown
