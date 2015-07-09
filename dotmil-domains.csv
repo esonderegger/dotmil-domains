@@ -223,7 +223,7 @@ ang.af.mil,Air National Guard - Official Site
 141arw.ang.af.mil,141st Air Refueling Wing
 142fw.ang.af.mil,142nd Fighter Wing
 143aw.ang.af.mil,"143rd Airlift Wing, Rhode Island Air National Guard"
-144fw.ang.af.mil,"144th Fighter Wing, California Air National Guard"
+144fw.ang.af.mil,144th Fighter Wing Home Page
 145aw.ang.af.mil,145th Airlift Wing
 146aw.ang.af.mil,"146th Airlift Wing, California Air National Guard"
 147rw.ang.af.mil,"147th Reconnaissance Wing, Texas Air National Guard"
@@ -391,7 +391,6 @@ saffm.hq.af.mil,Air Force Financial Management & Comptroller
 safgc.hq.af.mil,Air Force General Counsel
 safie.hq.af.mil,"Air Force Installations, Environment, Logistics and Energy"
 safsp.hq.af.mil,Space Cadre Development
-thrmistest.hq.af.mil,Unknown
 hurlburt.af.mil,Hurlburt Field
 23ws.hurlburt.af.mil,Unknown
 605tes.hurlburt.af.mil,Unknown
@@ -535,6 +534,12 @@ webmail.tyndall.af.mil,Unknown
 eis.afimsc.us.af.mil,Unknown
 autodiscover.us.af.mil,Unknown
 eim.us.af.mil,Unknown
+afosi.eim.us.af.mil,Unknown
+afrc.eim.us.af.mil,Unknown
+airforcecontracting.eim.us.af.mil,Unknown
+amc.eim.us.af.mil,Unknown
+crm.eim.us.af.mil,Unknown
+mysites.eim.us.af.mil,Unknown
 jet15gis1.us.af.mil,Unknown
 jet15gis2.us.af.mil,Unknown
 jet15gis3.us.af.mil,Unknown
@@ -904,7 +909,6 @@ rwcp.ctnosc.army.mil,Unknown
 culturalknowledge.army.mil,Unknown
 dencom.army.mil,Army Dental Care
 detrick.army.mil,"Fort Detrick, Md."
-akosecured.detrick.army.mil,Unknown
 riid-vision.detrick.army.mil,Unknown
 devens.army.mil,Fort Devens
 devens-www.army.mil,Unknown
@@ -1268,8 +1272,10 @@ sitrep.sddc.army.mil,Unknown
 sec.army.mil,Enterprise Solutions Competency Center (ESCC)
 ako.sec.army.mil,Army Reprogramming Analysis Team (ARAT)
 sexualassault.army.mil,Army Sexual Harassment/Assault Response & Prevention (SHARP)
+sfl-tap.army.mil,Unknown
 sierra.army.mil,"Sierra Army Depot, Calif."
 signal.army.mil,35th Signal Brigade
+cs.signal.army.mil,Unknown
 ia.signal.army.mil,Unknown
 sill-www.army.mil,"30th Air Defense Artillery Brigade, Fort Sill, Okla."
 mrmc.smallbusopps.army.mil,USAMRMC Office of Small Business Programs
@@ -1429,6 +1435,7 @@ wrnmmc.capmed.mil,"Walter Reed Medical Center, Washington, D.C."
 wwcc.capmed.mil,Unknown
 centcom.mil,Central Command
 autodiscover.centcom.mil,Unknown
+cew.centcom.mil,Unknown
 cfhlowa.centcom.mil,Unknown
 cfhmail.centcom.mil,Unknown
 cpas.centcom.mil,Unknown
@@ -1574,6 +1581,8 @@ marforres-crm.csd.disa.mil,Unknown
 marforres-crm--pro.csd.disa.mil,Unknown
 marforres-crm--tst.csd.disa.mil,Unknown
 marforres-crm--upgrade.csd.disa.mil,Unknown
+mcare.csd.disa.mil,Unknown
+mhce.csd.disa.mil,Unknown
 miap.csd.disa.mil,Unknown
 miap-coop.csd.disa.mil,Unknown
 miaptest.csd.disa.mil,Unknown
@@ -1645,6 +1654,7 @@ vsm.distribution.dla.mil,Unknown
 dlis.dla.mil,Defense Logistics Information Service (DLIS)
 apps.dlis.dla.mil,Unknown
 hmirsmsds.dlis.dla.mil,Unknown
+dlmso.dla.mil,Unknown
 dacspr.documentservices.dla.mil,Unknown
 api.dacspr.documentservices.dla.mil,Unknown
 demo.dacspr.documentservices.dla.mil,Unknown
@@ -1691,6 +1701,7 @@ static.dma.mil,2013 CSAF Reading List
 spot.dmdc.mil,Unknown
 topss.dmdc.mil,Unknown
 dod.mil,United States Department of Defense
+biometrics.dod.mil,Biometrics Identity Management Agency
 codvt.dod.mil,Unknown
 connect.dco.dod.mil,Unknown
 connect1satx.dco.dod.mil,Unknown
@@ -1702,7 +1713,7 @@ militaryblood.dod.mil,Armed Services Blood Program
 militaryhomefront.dod.mil,Military Children and Youth
 pfi.dod.mil,Personnel Force Innovation
 dodig.mil,Inspector General
-dodlive.mil,Task Force Muleskinner
+dodlive.mil,DoD Live Blog
 armylive.dodlive.mil,ArmyLive Blog
 armygk.armylive.dodlive.mil,Golden Knights
 jackson.armylive.dodlive.mil,"Fort Jackson, S.C."
@@ -1754,7 +1765,6 @@ iac.dtic.mil,Unknown
 uxocoe-ca1.dtic.mil,Unknown
 uxocoe-ca2.dtic.mil,Unknown
 dtra.mil,Defense Threat Reduction Agency (DTRA)
-umds1-vgw.cnttr.dtra.mil,Unknown
 indrac.dtra.mil,Unknown
 stars-legacy.dtra.mil,Unknown
 dtsa.mil,Defense Technology Security Administration (DTSA) Website
@@ -1776,7 +1786,18 @@ chembio.dhhq.health.mil,Unknown
 mhaquiz.dhhq.health.mil,Unknown
 prosight.dhhq.health.mil,Unknown
 rhca.dhhq.health.mil,Unknown
+facilities.health.mil,Unknown
+home.facilities.health.mil,Unknown
+ms1691.facilities.health.mil,Unknown
+rpss.facilities.health.mil,Unknown
+autodiscover-mdusoc.mhsi.health.mil,Unknown
+autodiscover-txusoc.mhsi.health.mil,Unknown
+oa-mdusoc.health.mil,Unknown
+oa-txusoc.health.mil,Unknown
+dodser.t2.health.mil,Unknown
 webmail.health.mil,Unknown
+webmail-mdusoc.health.mil,Unknown
+webmail-txusoc.health.mil,Unknown
 trmc.aedc.hpc.mil,Unknown
 arl.hpc.mil,U.S. Army Research Laboratory DOD Supercomputing Resource Center
 help.ccac.hpc.mil,Unknown
@@ -2064,7 +2085,6 @@ portal-beta.fnmoc.navy.mil,Unknown
 weather.fnmoc.navy.mil,Unknown
 weather-alpha.fnmoc.navy.mil,Unknown
 weather-beta.fnmoc.navy.mil,Unknown
-foia.navy.mil,FOIA
 ford.navy.mil,USS Ford (FFG-54)
 fort-mchenry.navy.mil,USS Fort McHenry (LSD-43)
 gary.navy.mil,USS Gary (FFG-51)
@@ -2219,6 +2239,7 @@ navyreserve.navy.mil,Navy Reserve
 navysecurity.navy.mil,"CNO, Information and Personnel Security Programs N09N2"
 ncca.navy.mil,Naval Center for Cost Analysis
 ncis.navy.mil,Naval Criminal Investigative Service
+legacyowa.ncis.navy.mil,Unknown
 webmail.ncis.navy.mil,Unknown
 ncmo.navy.mil,Unknown
 nctamslant.navy.mil,"Naval Computer and Telecommunications Area Master Station LANT, DET Pensacola, FL"
@@ -2283,7 +2304,6 @@ webmail.nmci.navy.mil,Unknown
 nmso.navy.mil,Navy Modeling and Simulation Management Office (NAVMSMO)
 www2.nmso.navy.mil,Unknown
 nnic.navy.mil,Unknown
-nnsy1.navy.mil,Mid-Atlantic Regional Maintenance Center
 normandy.navy.mil,USS Normandy (CG 60)
 npc.navy.mil,Shift Colors-Navy Retiree Newsletter
 nprst.navy.mil,"Navy Personnel Research, Studies, and Technology"
@@ -2352,7 +2372,6 @@ fcc-c10f.portal.navy.mil,Unknown
 mpte.portal.navy.mil,Unknown
 opnav.portal.navy.mil,Unknown
 usff.portal.navy.mil,Unknown
-ports.navy.mil,Portsmouth Naval Shipyard
 preble.navy.mil,USS Preble (DDG 88)
 preproduction-ncmo.navy.mil,Unknown
 preproduction-nnic.navy.mil,Unknown
@@ -2388,7 +2407,11 @@ pkireg.spawar.navy.mil,Unknown
 cocom.sd.spawar.navy.mil,Unknown
 cocomcac.sd.spawar.navy.mil,Unknown
 ir-registration.sd.spawar.navy.mil,Unknown
+paasdb.sd.spawar.navy.mil,Unknown
+paaspublictest.sd.spawar.navy.mil,Unknown
+paastest.sd.spawar.navy.mil,Unknown
 tips.sd.spawar.navy.mil,Unknown
+tipspart.sd.spawar.navy.mil,Unknown
 tipssupport.sd.spawar.navy.mil,Unknown
 spear.navy.mil,"Profile, Life in the Armed Forces"
 stethem.navy.mil,USS Stethem (DDG-63)
@@ -2699,7 +2722,6 @@ mcrcmail.marines.usmc.mil,Unknown
 mcbh.usmc.mil,Helicopter Anti-Submarine Squadron Light THREE SEVEN (HSL-37)
 tfsms.mccdc.usmc.mil,Unknown
 www2.listserv.mccll.usmc.mil,Unknown
-www2.mccll.usmc.mil,Unknown
 arts.mceits.usmc.mil,Unknown
 mars.mceits.usmc.mil,Unknown
 sams.mceits.usmc.mil,Unknown
